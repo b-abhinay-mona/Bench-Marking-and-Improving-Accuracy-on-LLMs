@@ -1,0 +1,5006 @@
+[
+  {
+    "question": "Substitute 'r' with 's' in 'park'.",
+    "answer": "pask",
+    "p_answer": "psark",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"psark\"",
+    "annotated_question": "Substitute 'r' with 's' in pa|r|k."
+  },
+  {
+    "question": "Substitute 'c' with 't' in 'cake'.",
+    "answer": "take",
+    "p_answer": "take",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"|t|ake\"",
+    "annotated_question": "Substitute 'c' with 't' in |c|ake."
+  },
+  {
+    "question": "Substitute 'l' with 'n' in 'leaf'.",
+    "answer": "neaf",
+    "p_answer": "neaf",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"|n|eaf\"",
+    "annotated_question": "Substitute 'l' with 'n' in |l|eaf."
+  },
+  {
+    "question": "Substitute 'k' with 'c' in 'bike'.",
+    "answer": "bice",
+    "p_answer": "bice",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bic|e\"\n}",
+    "annotated_question": "Substitute 'k' with 'c' in bi|k|e."
+  },
+  {
+    "question": "Substitute 'e' with 'f' in 'dice'.",
+    "answer": "dicf",
+    "p_answer": "dicf",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dic|f|\"",
+    "annotated_question": "Substitute 'e' with 'f' in dic|e|."
+  },
+  {
+    "question": "Substitute 'o' with 'k' in 'song'.",
+    "answer": "skng",
+    "p_answer": "skng",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"s|kng\"",
+    "annotated_question": "Substitute 'o' with 'k' in s|o|ng."
+  },
+  {
+    "question": "Substitute 'h' with 'w' in 'fish'.",
+    "answer": "fisw",
+    "p_answer": "fwi",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fwi|\"",
+    "annotated_question": "Substitute 'h' with 'w' in fis|h|."
+  },
+  {
+    "question": "Substitute 't' with 'j' in 'hats'.",
+    "answer": "hajs",
+    "p_answer": "hajjs",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hajjs\"",
+    "annotated_question": "Substitute 't' with 'j' in ha|t|s."
+  },
+  {
+    "question": "Substitute 't' with 'v' in 'tall'.",
+    "answer": "vall",
+    "p_answer": "vall",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"|v|all\"",
+    "annotated_question": "Substitute 't' with 'v' in |t|all."
+  },
+  {
+    "question": "Substitute 'j' with 'l' in 'gate'.",
+    "answer": "gate",
+    "p_answer": "gate",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"gate\"",
+    "annotated_question": "Substitute 'j' with 'l' in gate."
+  },
+  {
+    "question": "Substitute 's' with 'a' in 'house'.",
+    "answer": "houae",
+    "p_answer": "haua",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"haua\"",
+    "annotated_question": "Substitute 's' with 'a' in hou|s|e."
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'table'.",
+    "answer": "tabli",
+    "p_answer": "tablii",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"tablii|\"",
+    "annotated_question": "Substitute 'e' with 'i' in tabl|e|."
+  },
+  {
+    "question": "Substitute 'n' with 't' in 'night'.",
+    "answer": "tight",
+    "p_answer": "tight",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"tight\"",
+    "annotated_question": "Substitute 'n' with 't' in |n|ight."
+  },
+  {
+    "question": "Substitute 'a' with 's' in 'brown'.",
+    "answer": "brown",
+    "p_answer": "brown",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"brown\"",
+    "annotated_question": "Substitute 'a' with 's' in brown."
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'water'.",
+    "answer": "weter",
+    "p_answer": "weter",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"w|e|ter\"\n}",
+    "annotated_question": "Substitute 'a' with 'e' in w|a|ter."
+  },
+  {
+    "question": "Substitute 'c' with 'p' in 'clock'.",
+    "answer": "plopk",
+    "p_answer": "plopk",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"|p|lo|p|k\"\n}",
+    "annotated_question": "Substitute 'c' with 'p' in |c|lo|c|k."
+  },
+  {
+    "question": "Substitute 's' with 'l' in 'glass'.",
+    "answer": "glall",
+    "p_answer": "glalllll",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"glal|lll|l\"",
+    "annotated_question": "Substitute 's' with 'l' in gla|s||s|."
+  },
+  {
+    "question": "Substitute 'o' with 'g' in 'plane'.",
+    "answer": "plane",
+    "p_answer": "plane",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"plane\"",
+    "annotated_question": "Substitute 'o' with 'g' in plane."
+  },
+  {
+    "question": "Substitute 'd' with 's' in 'cloud'.",
+    "answer": "clous",
+    "p_answer": "clouss",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"clous|s\"\n}",
+    "annotated_question": "Substitute 'd' with 's' in clou|d|."
+  },
+  {
+    "question": "Substitute 'h' with 'b' in 'chair'.",
+    "answer": "cbair",
+    "p_answer": "cbair",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"cbair\"\n}",
+    "annotated_question": "Substitute 'h' with 'b' in c|h|air."
+  },
+  {
+    "question": "Substitute 'p' with 'g' in 'purple'.",
+    "answer": "gurgle",
+    "p_answer": "gurgle",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"|g|ur|g|le\"\n}",
+    "annotated_question": "Substitute 'p' with 'g' in |p|ur|p|le."
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'orange'.",
+    "answer": "oramge",
+    "p_answer": "ormage",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ormage\"",
+    "annotated_question": "Substitute 'n' with 'm' in ora|n|ge."
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'forest'.",
+    "answer": "forast",
+    "p_answer": "forast",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"for|ast\"",
+    "annotated_question": "Substitute 'e' with 'a' in for|e|st."
+  },
+  {
+    "question": "Substitute 'c' with 'k' in 'tackle'.",
+    "answer": "takkle",
+    "p_answer": "tkkle",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"tkkle\"",
+    "annotated_question": "Substitute 'c' with 'k' in ta|c|kle."
+  },
+  {
+    "question": "Substitute 'u' with 'a' in 'suaurdy'.",
+    "answer": "saaardy",
+    "p_answer": "sardy",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"s|a|rdy\"\n}",
+    "annotated_question": "Substitute 'u' with 'a' in s|u|a|u|rdy."
+  },
+  {
+    "question": "Substitute 'k' with 'm' in 'monkey'.",
+    "answer": "monmey",
+    "p_answer": "monmey",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"mon|m|ey\"\n}",
+    "annotated_question": "Substitute 'k' with 'm' in mon|k|ey."
+  },
+  {
+    "question": "Substitute 'h' with 'i' in 'bright'.",
+    "answer": "brigit",
+    "p_answer": "brigit",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"brig|i|t\"\n}",
+    "annotated_question": "Substitute 'h' with 'i' in brig|h|t."
+  },
+  {
+    "question": "Substitute 'b' with 'd' in 'rabbit'.",
+    "answer": "raddit",
+    "p_answer": "dit",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"d|it\"",
+    "annotated_question": "Substitute 'b' with 'd' in ra|b||b|it."
+  },
+  {
+    "question": "Substitute 'n' with 'l' in 'window'.",
+    "answer": "wildow",
+    "p_answer": "willow",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"willow\"",
+    "annotated_question": "Substitute 'n' with 'l' in wi|n|dow."
+  },
+  {
+    "question": "Substitute 'e' with 'n' in 'street'.",
+    "answer": "strnnt",
+    "p_answer": "strnnnt",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"strn|n||n|t\"",
+    "annotated_question": "Substitute 'e' with 'n' in str|e||e|t."
+  },
+  {
+    "question": "Substitute 'c' with 'l' in 'channel'.",
+    "answer": "lhannel",
+    "p_answer": "lhannel",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|lhannel\"",
+    "annotated_question": "Substitute 'c' with 'l' in |c|hannel."
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'element'.",
+    "answer": "ilimint",
+    "p_answer": "ilimint",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|i|l|i|m|i|nt\"\n}",
+    "annotated_question": "Substitute 'e' with 'i' in |e|l|e|m|e|nt."
+  },
+  {
+    "question": "Substitute 'e' with 't' in 'teacher'.",
+    "answer": "ttachtr",
+    "p_answer": "tatchtr",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"tatchtr\"",
+    "annotated_question": "Substitute 'e' with 't' in t|e|ach|e|r."
+  },
+  {
+    "question": "Substitute 'p' with 'k' in 'prepare'.",
+    "answer": "krekare",
+    "p_answer": "krekare",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|k|re|k|are\"\n}",
+    "annotated_question": "Substitute 'p' with 'k' in |p|re|p|are."
+  },
+  {
+    "question": "Substitute 't' with 'b' in 'perfect'.",
+    "answer": "perfecb",
+    "p_answer": "perfecb",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"perfec|b|\"",
+    "annotated_question": "Substitute 't' with 'b' in perfec|t|."
+  },
+  {
+    "question": "Substitute 's' with 'v' in 'sunrise'.",
+    "answer": "vunrive",
+    "p_answer": "unvriev",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"unvriev\"",
+    "annotated_question": "Substitute 's' with 'v' in |s|unri|s|e."
+  },
+  {
+    "question": "Substitute 'k' with 'a' in 'country'.",
+    "answer": "country",
+    "p_answer": "country",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"country\"",
+    "annotated_question": "Substitute 'k' with 'a' in country."
+  },
+  {
+    "question": "Substitute 'l' with 'g' in 'village'.",
+    "answer": "viggage",
+    "p_answer": "viggage",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"vi|g||g|age\"\n}",
+    "annotated_question": "Substitute 'l' with 'g' in vi|l||l|age."
+  },
+  {
+    "question": "Substitute 'o' with 'r' in 'support'.",
+    "answer": "supprrt",
+    "p_answer": "supprrrt",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"supprrrt\"",
+    "annotated_question": "Substitute 'o' with 'r' in supp|o|rt."
+  },
+  {
+    "question": "Substitute 'd' with 'g' in 'believe'.",
+    "answer": "believe",
+    "p_answer": "beGieve",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"beGieve\"",
+    "annotated_question": "Substitute 'd' with 'g' in believe."
+  },
+  {
+    "question": "Substitute 'b' with 'p' in 'building'.",
+    "answer": "puilding",
+    "p_answer": "puilding",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"puilding\"",
+    "annotated_question": "Substitute 'b' with 'p' in |b|uilding."
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'opposite'.",
+    "answer": "opposote",
+    "p_answer": "opposoote",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"opposo|ote\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in oppos|i|te."
+  },
+  {
+    "question": "Substitute 'g' with 's' in 'language'.",
+    "answer": "lansuase",
+    "p_answer": "lansuase",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"lan|sua|se\"",
+    "annotated_question": "Substitute 'g' with 's' in lan|g|ua|g|e."
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'mountain'.",
+    "answer": "mountiin",
+    "p_answer": "mountiin",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mount|i|in\"",
+    "annotated_question": "Substitute 'a' with 'i' in mount|a|in."
+  },
+  {
+    "question": "Substitute 'd' with 't' in 'friendly'.",
+    "answer": "friently",
+    "p_answer": "friently",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"frient|ly\"\n}",
+    "annotated_question": "Substitute 'd' with 't' in frien|d|ly."
+  },
+  {
+    "question": "Substitute 'f' with 'l' in 'powerful'.",
+    "answer": "powerlul",
+    "p_answer": "powerllul",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"power|l|lul\"",
+    "annotated_question": "Substitute 'f' with 'l' in power|f|ul."
+  },
+  {
+    "question": "Substitute 'c' with 'g' in 'together'.",
+    "answer": "together",
+    "p_answer": "tgther",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"tgther\"",
+    "annotated_question": "Substitute 'c' with 'g' in together."
+  },
+  {
+    "question": "Substitute 's' with 'h' in 'question'.",
+    "answer": "quehtion",
+    "p_answer": "quehion",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"quehion\"",
+    "annotated_question": "Substitute 's' with 'h' in que|s|tion."
+  },
+  {
+    "question": "Substitute 'w' with 'd' in 'download'.",
+    "answer": "dodnload",
+    "p_answer": "dodnload",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"do|d|nload\"",
+    "annotated_question": "Substitute 'w' with 'd' in do|w|nload."
+  },
+  {
+    "question": "Substitute 'r' with 'l' in 'personal'.",
+    "answer": "pelsonal",
+    "p_answer": "plesonal",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ple|sonal\"\n}",
+    "annotated_question": "Substitute 'r' with 'l' in pe|r|sonal."
+  },
+  {
+    "question": "Substitute 'e' with 'u' in 'expensive'.",
+    "answer": "uxpunsivu",
+    "p_answer": "uxpuunsivu",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"|u|xpu|u|nsiv|u|\"",
+    "annotated_question": "Substitute 'e' with 'u' in |e|xp|e|nsiv|e|."
+  },
+  {
+    "question": "Substitute 't' with 'v' in 'apartment'.",
+    "answer": "aparvmenv",
+    "p_answer": "apavmenvven",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"apavmenvven\"",
+    "annotated_question": "Substitute 't' with 'v' in apar|t|men|t|."
+  },
+  {
+    "question": "Substitute 'r' with 'n' in 'container'.",
+    "answer": "containen",
+    "p_answer": "containenn",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"containen|n\"",
+    "annotated_question": "Substitute 'r' with 'n' in containe|r|."
+  },
+  {
+    "question": "Substitute 'p' with 'b' in 'important'.",
+    "answer": "imbortant",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"b_answer\": \"im|b|ortant\"\n}",
+    "annotated_question": "Substitute 'p' with 'b' in im|p|ortant."
+  },
+  {
+    "question": "Substitute 'e' with 'f' in 'different'.",
+    "answer": "difffrfnt",
+    "p_answer": "difffrfnt",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"diff|f|r|f|nt\"",
+    "annotated_question": "Substitute 'e' with 'f' in diff|e|r|e|nt."
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'beautiful'.",
+    "answer": "beaetifel",
+    "p_answer": "beefull",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beefull\"\n}",
+    "annotated_question": "Substitute 'u' with 'e' in bea|u|tif|u|l."
+  },
+  {
+    "question": "Substitute 's' with 't' in 'wonderful'.",
+    "answer": "wonderful",
+    "p_answer": "wondertful",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wondertful\"",
+    "annotated_question": "Substitute 's' with 't' in wonderful."
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'knowledge'.",
+    "answer": "kmowledge",
+    "p_answer": "kmmmowledge",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"km|m|m|owledge\"\n}",
+    "annotated_question": "Substitute 'n' with 'm' in k|n|owledge."
+  },
+  {
+    "question": "Substitute 'f' with 'v' in 'wonderful'.",
+    "answer": "wondervul",
+    "p_answer": "wondervul",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wonder|v|ul\"",
+    "annotated_question": "Substitute 'f' with 'v' in wonder|f|ul."
+  },
+  {
+    "question": "Substitute 's' with 'z' in 'excellent'.",
+    "answer": "excellent",
+    "p_answer": "ezzellent",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ezzellent\"",
+    "annotated_question": "Substitute 's' with 'z' in excellent."
+  },
+  {
+    "question": "Swap 't' and 'e' in 'time'.",
+    "answer": "eimt",
+    "p_answer": "timire",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"timire\"",
+    "annotated_question": "Swap 't' and 'e' in t|i|m|e."
+  },
+  {
+    "question": "Swap 'w' and 'a' in 'wash'.",
+    "answer": "awsh",
+    "p_answer": "awsh",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"aws|h\"",
+    "annotated_question": "Swap 'w' and 'a' in w|a|s|h."
+  },
+  {
+    "question": "Swap 'l' and 'p' in 'lamp'.",
+    "answer": "paml",
+    "p_answer": "pamp",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"p|a|m|p\"\n}",
+    "annotated_question": "Swap 'l' and 'p' in l|a|m|p."
+  },
+  {
+    "question": "Swap 'c' and 'o' in 'cold'.",
+    "answer": "ocld",
+    "p_answer": "cold",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"co|l|d\"",
+    "annotated_question": "Swap 'c' and 'o' in c|o|l|d."
+  },
+  {
+    "question": "Swap 'k' and 'e' in 'kind'.",
+    "answer": "eind",
+    "p_answer": "keind",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"kein|d\"\n}",
+    "annotated_question": "Swap 'k' and 'e' in k|i|n|d."
+  },
+  {
+    "question": "Swap 'a' and 'o' in 'goal'.",
+    "answer": "gaol",
+    "p_answer": "gola",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"g|o|l|a\"\n}",
+    "annotated_question": "Swap 'a' and 'o' in g|o|a|l."
+  },
+  {
+    "question": "Swap 'w' and 'h' in 'show'.",
+    "answer": "swoh",
+    "p_answer": "shoH",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"shoH\"",
+    "annotated_question": "Swap 'w' and 'h' in s|h|o|w."
+  },
+  {
+    "question": "Swap 'd' and 'i' in 'ride'.",
+    "answer": "rdie",
+    "p_answer": "rie",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ri|e\"\n}",
+    "annotated_question": "Swap 'd' and 'i' in r|i|d|e."
+  },
+  {
+    "question": "Swap 'n' and 'a' in 'name'.",
+    "answer": "anme",
+    "p_answer": "name",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"na|m|e\"\n}",
+    "annotated_question": "Swap 'n' and 'a' in n|a|m|e."
+  },
+  {
+    "question": "Swap 't' and 'h' in 'that'.",
+    "answer": "htah",
+    "p_answer": "hah",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"h|a|h\"",
+    "annotated_question": "Swap 't' and 'h' in t|h|a|t."
+  },
+  {
+    "question": "Swap 'a' and 'i' in 'train'.",
+    "answer": "trian",
+    "p_answer": "trin",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"t|r|i|n\"",
+    "annotated_question": "Swap 'a' and 'i' in t|r|a|i|n."
+  },
+  {
+    "question": "Swap 'e' and 'a' in 'beach'.",
+    "answer": "baech",
+    "p_answer": "bach",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"b|a|c|h\"",
+    "annotated_question": "Swap 'e' and 'a' in b|e|a|c|h."
+  },
+  {
+    "question": "Swap 'o' and 'u' in 'group'.",
+    "answer": "gruop",
+    "p_answer": "grup",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"g|r|u|p\"",
+    "annotated_question": "Swap 'o' and 'u' in g|r|o|u|p."
+  },
+  {
+    "question": "Swap 'c' and 'l' in 'cloud'.",
+    "answer": "lcoud",
+    "p_answer": "loud",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"l|o|u|d\"\n}",
+    "annotated_question": "Swap 'c' and 'l' in c|l|o|u|d."
+  },
+  {
+    "question": "Swap 's' and 'e' in 'house'.",
+    "answer": "houes",
+    "p_answer": "house",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"house\"",
+    "annotated_question": "Swap 's' and 'e' in h|o|u|s|e."
+  },
+  {
+    "question": "Swap 'p' and 'a' in 'paper'.",
+    "answer": "apaer",
+    "p_answer": "aper",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ap|e|r\"",
+    "annotated_question": "Swap 'p' and 'a' in p|a|p|e|r."
+  },
+  {
+    "question": "Swap 'k' and 't' in 'black'.",
+    "answer": "blact",
+    "p_answer": "tatc",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"t|a|tc\"",
+    "annotated_question": "Swap 'k' and 't' in b|l|a|c|k."
+  },
+  {
+    "question": "Swap 'a' and 'u' in 'drive'.",
+    "answer": "drive",
+    "p_answer": "duive",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"d|u|i|v|e\"",
+    "annotated_question": "Swap 'a' and 'u' in d|r|i|v|e."
+  },
+  {
+    "question": "Swap 'l' and 'e' in 'clean'.",
+    "answer": "celan",
+    "p_answer": "ceean",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"c|e|ea|n\"\n}",
+    "annotated_question": "Swap 'l' and 'e' in c|l|e|a|n."
+  },
+  {
+    "question": "Swap 'w' and 'o' in 'world'.",
+    "answer": "owrld",
+    "p_answer": "owrold",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ow|r|old\"\n}",
+    "annotated_question": "Swap 'w' and 'o' in w|o|r|l|d."
+  },
+  {
+    "question": "Swap 'h' and 'i' in 'behind'.",
+    "answer": "beihnd",
+    "p_answer": "beihind",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"b|e|i|h|i|n|d\"\n}",
+    "annotated_question": "Swap 'h' and 'i' in b|e|h|i|n|d."
+  },
+  {
+    "question": "Swap 'n' and 'e' in 'online'.",
+    "answer": "oelien",
+    "p_answer": "onelin",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"o|n|e|l|i|n\"\n}",
+    "annotated_question": "Swap 'n' and 'e' in o|n|l|i|n|e."
+  },
+  {
+    "question": "Swap 'p' and 'o' in 'people'.",
+    "answer": "oepole",
+    "p_answer": "people",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"peopl|e\"\n}",
+    "annotated_question": "Swap 'p' and 'o' in p|e|o|p|l|e."
+  },
+  {
+    "question": "Swap 'i' and 'o' in 'mobile'.",
+    "answer": "mibole",
+    "p_answer": "mobile",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"mob|il|e\"\n}",
+    "annotated_question": "Swap 'i' and 'o' in m|o|b|i|l|e."
+  },
+  {
+    "question": "Swap 'd' and 'a' in 'garden'.",
+    "answer": "gdraen",
+    "p_answer": "garan",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"g|a|r|a|n\"\n}",
+    "annotated_question": "Swap 'd' and 'a' in g|a|r|d|e|n."
+  },
+  {
+    "question": "Swap 'r' and 's' in 'street'.",
+    "answer": "rtseet",
+    "p_answer": "stseet",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"s|t|se|et\"\n}",
+    "annotated_question": "Swap 'r' and 's' in s|t|r|e|e|t."
+  },
+  {
+    "question": "Swap 'u' and 'e' in 'unique'.",
+    "answer": "eniqeu",
+    "p_answer": "uneique",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"uneique\"",
+    "annotated_question": "Swap 'u' and 'e' in u|n|i|q|u|e."
+  },
+  {
+    "question": "Swap 't' and 'o' in 'ticket'.",
+    "answer": "oickeo",
+    "p_answer": "oikoe",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"oikoe\"",
+    "annotated_question": "Swap 't' and 'o' in t|i|c|k|e|t."
+  },
+  {
+    "question": "Swap 'c' and 'o' in 'course'.",
+    "answer": "ocurse",
+    "p_answer": "coruse",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"c|o|r|u|s|e\"\n}",
+    "annotated_question": "Swap 'c' and 'o' in c|o|u|r|s|e."
+  },
+  {
+    "question": "Swap 'v' and 'i' in 'travel'.",
+    "answer": "traiel",
+    "p_answer": "tiarel",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"t|i|a|r|e|l\"",
+    "annotated_question": "Swap 'v' and 'i' in t|r|a|v|e|l."
+  },
+  {
+    "question": "Swap 'l' and 'i' in 'special'.",
+    "answer": "speclai",
+    "p_answer": "spiecial",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"spiecial\"",
+    "annotated_question": "Swap 'l' and 'i' in s|p|e|c|i|a|l."
+  },
+  {
+    "question": "Swap 'o' and 'p' in 'improve'.",
+    "answer": "imorpve",
+    "p_answer": "improve",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"imp|rove\"",
+    "annotated_question": "Swap 'o' and 'p' in i|m|p|r|o|v|e."
+  },
+  {
+    "question": "Swap 'e' and 'c' in 'perfect'.",
+    "answer": "pcrfcet",
+    "p_answer": "pcrfect",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pcrfec|t\"",
+    "annotated_question": "Swap 'e' and 'c' in p|e|r|f|e|c|t."
+  },
+  {
+    "question": "Swap 'u' and 'o' in 'holiday'.",
+    "answer": "huliday",
+    "p_answer": "holiday",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"h|o|l|i|d|a|y\"\n}",
+    "annotated_question": "Swap 'u' and 'o' in h|o|l|i|d|a|y."
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'another'.",
+    "answer": "anothre",
+    "p_answer": "arnothre",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"arnothre\"",
+    "annotated_question": "Swap 'e' and 'r' in a|n|o|t|h|e|r."
+  },
+  {
+    "question": "Swap 'a' and 'e' in 'general'.",
+    "answer": "ganarel",
+    "p_answer": "general",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"g|e|n|e|r|a|l\"",
+    "annotated_question": "Swap 'a' and 'e' in g|e|n|e|r|a|l."
+  },
+  {
+    "question": "Swap 'o' and 'n' in 'control'.",
+    "answer": "cnotrnl",
+    "p_answer": "cntrol",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|n|t|r|o|l\"",
+    "annotated_question": "Swap 'o' and 'n' in c|o|n|t|r|o|l."
+  },
+  {
+    "question": "Swap 'i' and 'a' in 'history'.",
+    "answer": "hostiry",
+    "p_answer": "hastory",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"h|a|s|t|o|r|y\"",
+    "annotated_question": "Swap 'i' and 'a' in h|i|s|t|o|r|y."
+  },
+  {
+    "question": "Swap 'l' and 't' in 'problem'.",
+    "answer": "probtem",
+    "p_answer": "ptroblem",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ptroblem\"",
+    "annotated_question": "Swap 'l' and 't' in p|r|o|b|l|e|m."
+  },
+  {
+    "question": "Swap 'e' and 'u' in 'support'.",
+    "answer": "sepport",
+    "p_answer": "support",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"suppor|t\"\n}",
+    "annotated_question": "Swap 'e' and 'u' in s|u|p|p|o|r|t."
+  },
+  {
+    "question": "Swap 'a' and 'i' in 'favorite'.",
+    "answer": "fivorate",
+    "p_answer": "fivorite",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"f|i|v|o|r|i|t|e\"\n}",
+    "annotated_question": "Swap 'a' and 'i' in f|a|v|o|r|i|t|e."
+  },
+  {
+    "question": "Swap 'i' and 'e' in 'together'.",
+    "answer": "togithir",
+    "p_answer": "teogethred",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"teogethre|d\"\n}",
+    "annotated_question": "Swap 'i' and 'e' in t|o|g|e|t|h|e|r."
+  },
+  {
+    "question": "Swap 'a' and 'o' in 'powerful'.",
+    "answer": "pawerful",
+    "p_answer": "powerful",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"powe|r|f|u|l\"",
+    "annotated_question": "Swap 'a' and 'o' in p|o|w|e|r|f|u|l."
+  },
+  {
+    "question": "Swap 'u' and 'l' in 'building'.",
+    "answer": "bliuding",
+    "p_answer": "blilding",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"b|l|i|l|d|i|n|g\"",
+    "annotated_question": "Swap 'u' and 'l' in b|u|i|l|d|i|n|g."
+  },
+  {
+    "question": "Swap 'e' and 's' in 'personal'.",
+    "answer": "psreonal",
+    "p_answer": "psronal",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"psro nal\"",
+    "annotated_question": "Swap 'e' and 's' in p|e|r|s|o|n|a|l."
+  },
+  {
+    "question": "Swap 'r' and 'o' in 'computer'.",
+    "answer": "crmputeo",
+    "p_answer": "computeo",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"computeo\"",
+    "annotated_question": "Swap 'r' and 'o' in c|o|m|p|u|t|e|r."
+  },
+  {
+    "question": "Swap 'i' and 'n' in 'question'.",
+    "answer": "questnoi",
+    "p_answer": "quneston",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"q|u|n|e|s|t|o|n\"\n}",
+    "annotated_question": "Swap 'i' and 'n' in q|u|e|s|t|i|o|n."
+  },
+  {
+    "question": "Swap 'y' and 'a' in 'friendly'.",
+    "answer": "friendla",
+    "p_answer": "fariendla",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"f|a|r|i|e|n|d|l|a\"",
+    "annotated_question": "Swap 'y' and 'a' in f|r|i|e|n|d|l|y."
+  },
+  {
+    "question": "Swap 'u' and 'a' in 'language'.",
+    "answer": "lungauge",
+    "p_answer": "langauge",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"l|a|ng|a|u|g|e\"\n}",
+    "annotated_question": "Swap 'u' and 'a' in l|a|n|g|u|a|g|e."
+  },
+  {
+    "question": "Swap 's' and 'i' in 'business'.",
+    "answer": "buisneii",
+    "p_answer": "biuinsies",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"biuinsies\"",
+    "annotated_question": "Swap 's' and 'i' in b|u|s|i|n|e|s|s."
+  },
+  {
+    "question": "Swap 'o' and 'i' in 'important'.",
+    "answer": "ompirtant",
+    "p_answer": "important",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"im|portant\"\n}",
+    "annotated_question": "Swap 'o' and 'i' in i|m|p|o|r|t|a|n|t."
+  },
+  {
+    "question": "Swap 'a' and 'e' in 'beautiful'.",
+    "answer": "baeutiful",
+    "p_answer": "beautiful",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"b|e|a|u|t|i|f|u|l\"\n}",
+    "annotated_question": "Swap 'a' and 'e' in b|e|a|u|t|i|f|u|l."
+  },
+  {
+    "question": "Swap 'c' and 'r' in 'container'.",
+    "answer": "rontainec",
+    "p_answer": "crontainr",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"cr|o|n|t|a|i|nr\"",
+    "annotated_question": "Swap 'c' and 'r' in c|o|n|t|a|i|n|e|r."
+  },
+  {
+    "question": "Swap 'u' and 'i' in 'curiosity'.",
+    "answer": "ciruosuty",
+    "p_answer": "ciriosity",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|i|r|i|o|s|i|t|y\"\n}",
+    "annotated_question": "Swap 'u' and 'i' in c|u|r|i|o|s|i|t|y."
+  },
+  {
+    "question": "Swap 'r' and 's' in 'wonderful'.",
+    "answer": "wondesful",
+    "p_answer": "wonsdesful",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"w|o|ns|d|e|sf|u|l\"\n}",
+    "annotated_question": "Swap 'r' and 's' in w|o|n|d|e|r|f|u|l."
+  },
+  {
+    "question": "Swap 'i' and 'e' in 'excellent'.",
+    "answer": "ixcillint",
+    "p_answer": "excellent",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"e|x|c|e|l|l|e|n|t\"\n}",
+    "annotated_question": "Swap 'i' and 'e' in e|x|c|e|l|l|e|n|t."
+  },
+  {
+    "question": "Swap 'p' and 'a' in 'apartment'.",
+    "answer": "paprtment",
+    "p_answer": "artment",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"a|r|t|m|e|n|t\"\n}",
+    "annotated_question": "Swap 'p' and 'a' in a|p|a|r|t|m|e|n|t."
+  },
+  {
+    "question": "Swap 'l' and 'd' in 'knowledge'.",
+    "answer": "knowdelge",
+    "p_answer": "knowdege",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"k|n|o|w|d|e|g|e\"\n}",
+    "annotated_question": "Swap 'l' and 'd' in k|n|o|w|l|e|d|g|e."
+  },
+  {
+    "question": "Swap 't' and 'e' in 'different'.",
+    "answer": "difftrtne",
+    "p_answer": "different",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"d|i|f|f|e|r|e|n|t\" -> \"d|i|ffe|r|er|en|d\"\n}",
+    "annotated_question": "Swap 't' and 'e' in d|i|f|f|e|r|e|n|t."
+  },
+  {
+    "question": "Swap 'i' and 'g' in 'imaginary'.",
+    "answer": "gmaignary",
+    "p_answer": "gmagnary",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"g|m|a|g|n|a|r|y\"",
+    "annotated_question": "Swap 'i' and 'g' in i|m|a|g|i|n|a|r|y."
+  },
+  {
+    "question": "Add 'e' after 'k' in 'book'.",
+    "answer": "booke",
+    "p_answer": "bokee",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|okee\"",
+    "annotated_question": "Add 'e' after 'k' in b|o|o|k."
+  },
+  {
+    "question": "Add 'a' after 't' in 'cat'.",
+    "answer": "cata",
+    "p_answer": "cat",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"cat\"\n}",
+    "annotated_question": "Add 'a' after 't' in c|a|t."
+  },
+  {
+    "question": "Add 'o' after 'l' in 'long'.",
+    "answer": "loong",
+    "p_answer": "longo",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"longo\"",
+    "annotated_question": "Add 'o' after 'l' in l|o|n|g."
+  },
+  {
+    "question": "Add 'i' after 'f' in 'fast'.",
+    "answer": "fiast",
+    "p_answer": "fais",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fais\"\n}",
+    "annotated_question": "Add 'i' after 'f' in f|a|s|t."
+  },
+  {
+    "question": "Add 's' after 'u' in 'true'.",
+    "answer": "truse",
+    "p_answer": "true's",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"true's\"\n}",
+    "annotated_question": "Add 's' after 'u' in t|r|u|e."
+  },
+  {
+    "question": "Add 'e' after 'r' in 'run'.",
+    "answer": "reun",
+    "p_answer": "rune",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"rune\"\n}",
+    "annotated_question": "Add 'e' after 'r' in r|u|n."
+  },
+  {
+    "question": "Add 'z' after 'c' in 'coke'.",
+    "answer": "czoke",
+    "p_answer": "czoke",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"c|z|o|k|e\"\n}",
+    "annotated_question": "Add 'z' after 'c' in c|o|k|e."
+  },
+  {
+    "question": "Add 't' after 'h' in 'hat'.",
+    "answer": "htat",
+    "p_answer": "hat",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"h|at\"\n}",
+    "annotated_question": "Add 't' after 'h' in h|a|t."
+  },
+  {
+    "question": "Add 'y' after 'l' in 'will'.",
+    "answer": "wilyly",
+    "p_answer": "will",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"will\"\n}",
+    "annotated_question": "Add 'y' after 'l' in w|i|l|l."
+  },
+  {
+    "question": "Add 'j' after 'o' in 'soon'.",
+    "answer": "sojojn",
+    "p_answer": "sooj",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"sooj\"\n}",
+    "annotated_question": "Add 'j' after 'o' in s|o|o|n."
+  },
+  {
+    "question": "Add 'b' after 'i' in 'short'.",
+    "answer": "short",
+    "p_answer": "isbort",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"isbort\"\n}",
+    "annotated_question": "Add 'b' after 'i' in s|h|o|r|t."
+  },
+  {
+    "question": "Add 'r' after 'l' in 'world'.",
+    "answer": "worlld",
+    "p_answer": "world",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"worl|d\"\n}",
+    "annotated_question": "Add 'r' after 'l' in w|o|r|l|d."
+  },
+  {
+    "question": "Add 'c' after 'a' in 'paper'.",
+    "answer": "pacper",
+    "p_answer": "capcer",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"capcer\"\n}",
+    "annotated_question": "Add 'c' after 'a' in p|a|p|e|r."
+  },
+  {
+    "question": "Add 'i' after 'p' in 'place'.",
+    "answer": "pilace",
+    "p_answer": "pilace",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"p|il|a|ce\"\n}",
+    "annotated_question": "Add 'i' after 'p' in p|l|a|c|e."
+  },
+  {
+    "question": "Add 's' after 'h' in 'house'.",
+    "answer": "hsouse",
+    "p_answer": "house",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"house\"\n}",
+    "annotated_question": "Add 's' after 'h' in h|o|u|s|e."
+  },
+  {
+    "question": "Add 't' after 'r' in 'river'.",
+    "answer": "rtivert",
+    "p_answer": "river",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"river\"\n}",
+    "annotated_question": "Add 't' after 'r' in r|i|v|e|r."
+  },
+  {
+    "question": "Add 'a' after 'k' in 'clean'.",
+    "answer": "clean",
+    "p_answer": "ckaleana",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"c|ka|lea|na\"\n}",
+    "annotated_question": "Add 'a' after 'k' in c|l|e|a|n."
+  },
+  {
+    "question": "Add 'v' after 'i' in 'drive'.",
+    "answer": "drivve",
+    "p_answer": "divie",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"divie\"\n}",
+    "annotated_question": "Add 'v' after 'i' in d|r|i|v|e."
+  },
+  {
+    "question": "Add 'e' after 'p' in 'apple'.",
+    "answer": "apepele",
+    "p_answer": "appele",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"appele\"",
+    "annotated_question": "Add 'e' after 'p' in a|p|p|l|e."
+  },
+  {
+    "question": "Add 'u' after 'l' in 'plane'.",
+    "answer": "pluane",
+    "p_answer": "planu",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"planu\"\n}",
+    "annotated_question": "Add 'u' after 'l' in p|l|a|n|e."
+  },
+  {
+    "question": "Add 'h' after 'e' in 'people'.",
+    "answer": "pehopleh",
+    "p_answer": "hopele",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"hopele\"",
+    "annotated_question": "Add 'h' after 'e' in p|e|o|p|l|e."
+  },
+  {
+    "question": "Add 'zz' after 'n' in 'online'.",
+    "answer": "onzzlinzze",
+    "p_answer": "onzzinez",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"o|n|zz|i|n|ez\"",
+    "annotated_question": "Add 'zz' after 'n' in o|n|l|i|n|e."
+  },
+  {
+    "question": "Add 'rh' after 'u' in 'summer'.",
+    "answer": "surhmmer",
+    "p_answer": "summer",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"summer\"\n}",
+    "annotated_question": "Add 'rh' after 'u' in s|u|m|m|e|r."
+  },
+  {
+    "question": "Add 'e' after 'r' in 'garden'.",
+    "answer": "gareden",
+    "p_answer": "garen",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"g|a|r|e|n\"\n}",
+    "annotated_question": "Add 'e' after 'r' in g|a|r|d|e|n."
+  },
+  {
+    "question": "Add 'oq' after 't' in 'ticket'.",
+    "answer": "toqicketoq",
+    "p_answer": "t{oq}k{e}t",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"t{oq}k{e}t\"\n}",
+    "annotated_question": "Add 'oq' after 't' in t|i|c|k|e|t."
+  },
+  {
+    "question": "Add 'ht' after 'g' in 'bright'.",
+    "answer": "brightht",
+    "p_answer": "bhtriht",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"b|ht|r|i|h|t\"\n}",
+    "annotated_question": "Add 'ht' after 'g' in b|r|i|g|h|t."
+  },
+  {
+    "question": "Add 't' after 'b' in 'mobile'.",
+    "answer": "mobtile",
+    "p_answer": "bottle",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bottle\"",
+    "annotated_question": "Add 't' after 'b' in m|o|b|i|l|e."
+  },
+  {
+    "question": "Add 'l' after 'r' in 'travel'.",
+    "answer": "trlavel",
+    "p_answer": "travell",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"travell\"",
+    "annotated_question": "Add 'l' after 'r' in t|r|a|v|e|l."
+  },
+  {
+    "question": "Add 'k' after 'c' in 'unique'.",
+    "answer": "unique",
+    "p_answer": "ckique",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"c|k|i|q|u|e\"\n}",
+    "annotated_question": "Add 'k' after 'c' in u|n|i|q|u|e."
+  },
+  {
+    "question": "Add 'd' after 'e' in 'street'.",
+    "answer": "strededt",
+    "p_answer": "streed",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"streed\"\n}",
+    "annotated_question": "Add 'd' after 'e' in s|t|r|e|e|t."
+  },
+  {
+    "question": "Add 'yt' after 't' in 'another'.",
+    "answer": "anotyther",
+    "p_answer": "anotheryt",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"a|n|o|t|h|e|r yt\"\n}",
+    "annotated_question": "Add 'yt' after 't' in a|n|o|t|h|e|r."
+  },
+  {
+    "question": "Add 'i' after 'e' in 'problem'.",
+    "answer": "probleim",
+    "p_answer": "problemi",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"problemi\"\n}",
+    "annotated_question": "Add 'i' after 'e' in p|r|o|b|l|e|m."
+  },
+  {
+    "question": "Add 'r' after 'e' in 'perfect'.",
+    "answer": "perrferct",
+    "p_answer": "perfect",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"perfect\"\n}",
+    "annotated_question": "Add 'r' after 'e' in p|e|r|f|e|c|t."
+  },
+  {
+    "question": "Add 'l' after 'e' in 'general'.",
+    "answer": "gelnelral",
+    "p_answer": "geleral",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"g|e|l|e|r|a|l\"\n}",
+    "annotated_question": "Add 'l' after 'e' in g|e|n|e|r|a|l."
+  },
+  {
+    "question": "Add 'gp' after 'o' in 'control'.",
+    "answer": "cogpntrogpl",
+    "p_answer": "cogprol",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|o|gp|r|o|l\"\n}",
+    "annotated_question": "Add 'gp' after 'o' in c|o|n|t|r|o|l."
+  },
+  {
+    "question": "Add 'o' after 'r' in 'history'.",
+    "answer": "hisotroy",
+    "p_answer": "history",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"history\"",
+    "annotated_question": "Add 'o' after 'r' in h|i|s|t|o|r|y."
+  },
+  {
+    "question": "Add 'l' after 'p' in 'support'.",
+    "answer": "suplplort",
+    "p_answer": "sploorlt",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"sploorlt\"\n}",
+    "annotated_question": "Add 'l' after 'p' in s|u|p|p|o|r|t."
+  },
+  {
+    "question": "Add 't' after 'l' in 'holiday'.",
+    "answer": "holtiday",
+    "p_answer": "holiday",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"holiday\"",
+    "annotated_question": "Add 't' after 'l' in h|o|l|i|d|a|y."
+  },
+  {
+    "question": "Add 'zh' after 'l' in 'village'.",
+    "answer": "vilzhlzhage",
+    "p_answer": "vizhllage",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"v|izhllage\"\n}",
+    "annotated_question": "Add 'zh' after 'l' in v|i|l|l|a|g|e."
+  },
+  {
+    "question": "Add 'qj' after 'e' in 'teacher'.",
+    "answer": "teqjacheqjr",
+    "p_answer": "tqjearcher",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"tqjearcher\"\n}",
+    "annotated_question": "Add 'qj' after 'e' in t|e|a|c|h|e|r."
+  },
+  {
+    "question": "Add 's' after 'i' in 'building'.",
+    "answer": "buisldisng",
+    "p_answer": "buiilding",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"buiilding\"\n}",
+    "annotated_question": "Add 's' after 'i' in b|u|i|l|d|i|n|g."
+  },
+  {
+    "question": "Add 'ppb' after 'a' in 'language'.",
+    "answer": "lappbnguappbge",
+    "p_answer": "lappbuage",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"l|a|ppb|u|a|g|e\"\n}",
+    "annotated_question": "Add 'ppb' after 'a' in l|a|n|g|u|a|g|e."
+  },
+  {
+    "question": "Add 'x' after 'e' in 'friendly'.",
+    "answer": "friexndly",
+    "p_answer": "fxrixexndly",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"f|x|r|i|x|e|x|n|d|l|y\"\n}",
+    "annotated_question": "Add 'x' after 'e' in f|r|i|e|n|d|l|y."
+  },
+  {
+    "question": "Add 'rs' after 's' in 'personal'.",
+    "answer": "persrsonal",
+    "p_answer": "personal",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"perso nal\"\n}",
+    "annotated_question": "Add 'rs' after 's' in p|e|r|s|o|n|a|l."
+  },
+  {
+    "question": "Add 'fr' after 'f' in 'powerful'.",
+    "answer": "powerffrul",
+    "p_answer": "powerfr",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"powerfr\"\n}",
+    "annotated_question": "Add 'fr' after 'f' in p|o|w|e|r|f|u|l."
+  },
+  {
+    "question": "Add 'sh' after 't' in 'together'.",
+    "answer": "tshogetshher",
+    "p_answer": "shogether",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"shogether\"",
+    "annotated_question": "Add 'sh' after 't' in t|o|g|e|t|h|e|r."
+  },
+  {
+    "question": "Add 'l' after 'o' in 'question'.",
+    "answer": "questioln",
+    "p_answer": "oluestion",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"oluestion\"",
+    "annotated_question": "Add 'l' after 'o' in q|u|e|s|t|i|o|n."
+  },
+  {
+    "question": "Add 'm' after 'n' in 'mountain'.",
+    "answer": "mounmtainm",
+    "p_answer": "momumimamim",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"m|o|m|u|m|i|m|a|m|i|m\"\n}",
+    "annotated_question": "Add 'm' after 'n' in m|o|u|n|t|a|i|n."
+  },
+  {
+    "question": "Add 'dr' after 'd' in 'download'.",
+    "answer": "ddrownloaddr",
+    "p_answer": "drownload",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"d|r|o|w|n|l|o|a|d\"\n}",
+    "annotated_question": "Add 'dr' after 'd' in d|o|w|n|l|o|a|d."
+  },
+  {
+    "question": "Add 'vz' after 's' in 'business'.",
+    "answer": "busvzinesvzsvz",
+    "p_answer": "buvziness",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"b|u|vz|i|n|e|s|s\"\n}",
+    "annotated_question": "Add 'vz' after 's' in b|u|s|i|n|e|s|s."
+  },
+  {
+    "question": "Add 'o' after 'f' in 'different'.",
+    "answer": "difofoerent",
+    "p_answer": "differeont",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"differeont\"\n}",
+    "annotated_question": "Add 'o' after 'f' in d|i|f|f|e|r|e|n|t."
+  },
+  {
+    "question": "Add 'l' after 'e' in 'knowledge'.",
+    "answer": "knowleldgel",
+    "p_answer": "knowleldge",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"k|n|o|w|l|e|l|d|g|e\"\n}",
+    "annotated_question": "Add 'l' after 'e' in k|n|o|w|l|e|d|g|e."
+  },
+  {
+    "question": "Add 'e' after 'r' in 'beautiful'.",
+    "answer": "beautiful",
+    "p_answer": "beautifule",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beautifule\"\n}",
+    "annotated_question": "Add 'e' after 'r' in b|e|a|u|t|i|f|u|l."
+  },
+  {
+    "question": "Add 's' after 'e' in 'excellent'.",
+    "answer": "esxcesllesnt",
+    "p_answer": "excellence",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"excellence\"",
+    "annotated_question": "Add 's' after 'e' in e|x|c|e|l|l|e|n|t."
+  },
+  {
+    "question": "Add 'tr' after 't' in 'apartment'.",
+    "answer": "aparttrmenttr",
+    "p_answer": "trapartment",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"trapartment\"\n}",
+    "annotated_question": "Add 'tr' after 't' in a|p|a|r|t|m|e|n|t."
+  },
+  {
+    "question": "Add 'tt' after 't' in 'important'.",
+    "answer": "importttanttt",
+    "p_answer": "imptant",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"imptant\"\n}",
+    "annotated_question": "Add 'tt' after 't' in i|m|p|o|r|t|a|n|t."
+  },
+  {
+    "question": "Add 'yb' after 'e' in 'expensive'.",
+    "answer": "eybxpeybnsiveyb",
+    "p_answer": "eybpensive",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"e|yb|p|e|n|s|i|v|e\"\n}",
+    "annotated_question": "Add 'yb' after 'e' in e|x|p|e|n|s|i|v|e."
+  },
+  {
+    "question": "Add 'k' after 'e' in 'wonderful'.",
+    "answer": "wondekrful",
+    "p_answer": "wonkderful",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\"p_answer\": \"w|o|n|k|d|e|r|f|u|l\"}",
+    "annotated_question": "Add 'k' after 'e' in w|o|n|d|e|r|f|u|l."
+  },
+  {
+    "question": "Add 'e' after 'a' in 'container'.",
+    "answer": "contaeiner",
+    "p_answer": "containeer",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"containeer\"\n}",
+    "annotated_question": "Add 'e' after 'a' in c|o|n|t|a|i|n|e|r."
+  },
+  {
+    "question": "Add 'o' after 'i' in 'curiosity'.",
+    "answer": "curioosioty",
+    "p_answer": "curi{o}os{i}ty",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|u|r|i{o}|o|s{i}|t|y\"\n}",
+    "annotated_question": "Add 'o' after 'i' in c|u|r|i|o|s|i|t|y."
+  },
+  {
+    "question": "Remove 'e' from 'like'.",
+    "answer": "lik",
+    "p_answer": "likl",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"lik|l\"",
+    "annotated_question": "Remove 'e' from lik|e|."
+  },
+  {
+    "question": "Remove 'o' from 'stop'.",
+    "answer": "stp",
+    "p_answer": "stp",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"st|p\"\n}",
+    "annotated_question": "Remove 'o' from st|o|p."
+  },
+  {
+    "question": "Remove 'u' from 'jump'.",
+    "answer": "jmp",
+    "p_answer": "jmp",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"jmp\"",
+    "annotated_question": "Remove 'u' from j|u|mp."
+  },
+  {
+    "question": "Remove 'a' from 'dark'.",
+    "answer": "drk",
+    "p_answer": "drk",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|rk\"",
+    "annotated_question": "Remove 'a' from d|a|rk."
+  },
+  {
+    "question": "Remove 'g' from 'long'.",
+    "answer": "lon",
+    "p_answer": "lonl",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"lon|l\"",
+    "annotated_question": "Remove 'g' from lon|g|."
+  },
+  {
+    "question": "Remove 'i' from 'bird'.",
+    "answer": "brd",
+    "p_answer": "brd",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|rd\"",
+    "annotated_question": "Remove 'i' from b|i|rd."
+  },
+  {
+    "question": "Remove 'h' from 'high'.",
+    "answer": "ig",
+    "p_answer": "ig",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"|ig|\"",
+    "annotated_question": "Remove 'h' from |h|ig|h|."
+  },
+  {
+    "question": "Remove 'l' from 'fall'.",
+    "answer": "fal",
+    "p_answer": "fafa",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"f|a|||f|a\"",
+    "annotated_question": "Remove 'l' from fa|l||l|."
+  },
+  {
+    "question": "Remove 'w' from 'wind'.",
+    "answer": "ind",
+    "p_answer": "ind",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"|ind\"",
+    "annotated_question": "Remove 'w' from |w|ind."
+  },
+  {
+    "question": "Remove 'b' from 'bold'.",
+    "answer": "old",
+    "p_answer": "old",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"old\"",
+    "annotated_question": "Remove 'b' from |b|old."
+  },
+  {
+    "question": "Remove 'r' from 'train'.",
+    "answer": "tain",
+    "p_answer": "tain",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"t|ain\"",
+    "annotated_question": "Remove 'r' from t|r|ain."
+  },
+  {
+    "question": "Remove 'a' from 'chair'.",
+    "answer": "chir",
+    "p_answer": "chir",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ch|ir\"",
+    "annotated_question": "Remove 'a' from ch|a|ir."
+  },
+  {
+    "question": "Remove 'e' from 'apple'.",
+    "answer": "appl",
+    "p_answer": "applapl",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"appl|apl\"",
+    "annotated_question": "Remove 'e' from appl|e|."
+  },
+  {
+    "question": "Remove 'o' from 'short'.",
+    "answer": "shrt",
+    "p_answer": "shrt",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sh|rt\"\n}",
+    "annotated_question": "Remove 'o' from sh|o|rt."
+  },
+  {
+    "question": "Remove 'i' from 'light'.",
+    "answer": "lght",
+    "p_answer": "lght",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lght\"",
+    "annotated_question": "Remove 'i' from l|i|ght."
+  },
+  {
+    "question": "Remove 'c' from 'clock'.",
+    "answer": "lock",
+    "p_answer": "lok",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"|lo|k\"",
+    "annotated_question": "Remove 'c' from |c|lo|c|k."
+  },
+  {
+    "question": "Remove 'd' from 'cloud'.",
+    "answer": "clou",
+    "p_answer": "clou",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"clou|\"\n}",
+    "annotated_question": "Remove 'd' from clou|d|."
+  },
+  {
+    "question": "Remove 'e' from 'water'.",
+    "answer": "watr",
+    "p_answer": "watr",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"wat|r\"",
+    "annotated_question": "Remove 'e' from wat|e|r."
+  },
+  {
+    "question": "Remove 'u' from 'group'.",
+    "answer": "grop",
+    "p_answer": "grop",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"grop\"",
+    "annotated_question": "Remove 'u' from gro|u|p."
+  },
+  {
+    "question": "Remove 'r' from 'river'.",
+    "answer": "iver",
+    "p_answer": "ive",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ive\"",
+    "annotated_question": "Remove 'r' from |r|ive|r|."
+  },
+  {
+    "question": "Remove 'u' from 'purple'.",
+    "answer": "prple",
+    "p_answer": "prple",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"prple\"",
+    "annotated_question": "Remove 'u' from p|u|rple."
+  },
+  {
+    "question": "Remove 'g' from 'orange'.",
+    "answer": "orane",
+    "p_answer": "orane",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"oran|e\"\n}",
+    "annotated_question": "Remove 'g' from oran|g|e."
+  },
+  {
+    "question": "Remove 's' from 'forest'.",
+    "answer": "foret",
+    "p_answer": "foret",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"fore|t\"",
+    "annotated_question": "Remove 's' from fore|s|t."
+  },
+  {
+    "question": "Remove 'c' from 'tackle'.",
+    "answer": "takle",
+    "p_answer": "tkle",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"t|k|le\"",
+    "annotated_question": "Remove 'c' from ta|c|kle."
+  },
+  {
+    "question": "Remove 'e' from 'sturdy'.",
+    "answer": "sturdy",
+    "p_answer": "sturdy",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sturdy\"",
+    "annotated_question": "Remove 'e' from sturdy."
+  },
+  {
+    "question": "Remove 'm' from 'monkey'.",
+    "answer": "onkey",
+    "p_answer": "onkey",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"onkey\"",
+    "annotated_question": "Remove 'm' from |m|onkey."
+  },
+  {
+    "question": "Remove 'b' from 'bright'.",
+    "answer": "right",
+    "p_answer": "right",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"right\"",
+    "annotated_question": "Remove 'b' from |b|right."
+  },
+  {
+    "question": "Remove 'r' from 'rabbit'.",
+    "answer": "abbit",
+    "p_answer": "abbit",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"abbit\"",
+    "annotated_question": "Remove 'r' from |r|abbit."
+  },
+  {
+    "question": "Remove 'w' from 'window'.",
+    "answer": "indoe",
+    "p_answer": "indo",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"|indo|\"\n}",
+    "annotated_question": "Remove 'w' from |w|indo|w|."
+  },
+  {
+    "question": "Remove 't' from 'street'.",
+    "answer": "sreet",
+    "p_answer": "sree",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sree|\"",
+    "annotated_question": "Remove 't' from s|t|ree|t|."
+  },
+  {
+    "question": "Remove 'n' from 'channel'.",
+    "answer": "chanel",
+    "p_answer": "chalel",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ch|al||el\"\n}",
+    "annotated_question": "Remove 'n' from cha|n||n|el."
+  },
+  {
+    "question": "Remove 'l' from 'element'.",
+    "answer": "ement",
+    "p_answer": "ement",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"e|ment\"\n}",
+    "annotated_question": "Remove 'l' from e|l|ement."
+  },
+  {
+    "question": "Remove 'c' from 'teacher'.",
+    "answer": "teaher",
+    "p_answer": "teaher",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"tea|her\"\n}",
+    "annotated_question": "Remove 'c' from tea|c|her."
+  },
+  {
+    "question": "Remove 'p' from 'prepare'.",
+    "answer": "repare",
+    "p_answer": "eare",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|e|are\"\n}",
+    "annotated_question": "Remove 'p' from |p|re|p|are."
+  },
+  {
+    "question": "Remove 'f' from 'perfect'.",
+    "answer": "perect",
+    "p_answer": "perect",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"per|ect\"\n}",
+    "annotated_question": "Remove 'f' from per|f|ect."
+  },
+  {
+    "question": "Remove 'u' from 'sunrise'.",
+    "answer": "snrise",
+    "p_answer": "snrise",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"s|nrise\"",
+    "annotated_question": "Remove 'u' from s|u|nrise."
+  },
+  {
+    "question": "Remove 'o' from 'country'.",
+    "answer": "cuntry",
+    "p_answer": "cuntry",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|untry\"\n}",
+    "annotated_question": "Remove 'o' from c|o|untry."
+  },
+  {
+    "question": "Remove 'l' from 'village'.",
+    "answer": "vilage",
+    "p_answer": "viage",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"vi|age\"",
+    "annotated_question": "Remove 'l' from vi|l||l|age."
+  },
+  {
+    "question": "Remove 'p' from 'support'.",
+    "answer": "suport",
+    "p_answer": "suport",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"suport\"",
+    "annotated_question": "Remove 'p' from su|p||p|ort."
+  },
+  {
+    "question": "Remove 'e' from 'believe'.",
+    "answer": "belive",
+    "p_answer": "blvbv",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"b|lv|bv|\"",
+    "annotated_question": "Remove 'e' from b|e|li|e|v|e|."
+  },
+  {
+    "question": "Remove 'b' from 'building'.",
+    "answer": "uilding",
+    "p_answer": "uilding",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"uilding\"",
+    "annotated_question": "Remove 'b' from |b|uilding."
+  },
+  {
+    "question": "Remove 'o' from 'opposite'.",
+    "answer": "pposite",
+    "p_answer": "ppsite",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"|ppsite\"",
+    "annotated_question": "Remove 'o' from |o|pp|o|site."
+  },
+  {
+    "question": "Remove 'a' from 'language'.",
+    "answer": "lnguage",
+    "p_answer": "lnguage",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"lnguage\"",
+    "annotated_question": "Remove 'a' from l|a|ngu|a|ge."
+  },
+  {
+    "question": "Remove 'o' from 'mountain'.",
+    "answer": "muntin",
+    "p_answer": "muntain",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"m|u|ntain\"\n}",
+    "annotated_question": "Remove 'o' from m|o|untain."
+  },
+  {
+    "question": "Remove 'n' from 'friendly'.",
+    "answer": "friedly",
+    "p_answer": "frieldly",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"frieldly\"",
+    "annotated_question": "Remove 'n' from frie|n|dly."
+  },
+  {
+    "question": "Remove 'p' from 'powerful'.",
+    "answer": "owerful",
+    "p_answer": "oweful",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"oweful\"",
+    "annotated_question": "Remove 'p' from |p|owerful."
+  },
+  {
+    "question": "Remove 't' from 'together'.",
+    "answer": "ogether",
+    "p_answer": "ogeher",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"oge|her\"",
+    "annotated_question": "Remove 't' from |t|oge|t|her."
+  },
+  {
+    "question": "Remove 'q' from 'question'.",
+    "answer": "uestion",
+    "p_answer": "uestion",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"uestion\"",
+    "annotated_question": "Remove 'q' from |q|uestion."
+  },
+  {
+    "question": "Remove 'l' from 'download'.",
+    "answer": "downoad",
+    "p_answer": "downoad",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"down|oad\"\n}",
+    "annotated_question": "Remove 'l' from down|l|oad."
+  },
+  {
+    "question": "Remove 'e' from 'personal'.",
+    "answer": "prsonal",
+    "p_answer": "personal",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"personal\"",
+    "annotated_question": "Remove 'e' from p|e|rsonal."
+  },
+  {
+    "question": "Remove 'e' from 'expensive'.",
+    "answer": "xpensive",
+    "p_answer": "xpxnsiv",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"xpxnsiv\"",
+    "annotated_question": "Remove 'e' from |e|xp|e|nsiv|e|."
+  },
+  {
+    "question": "Remove 'a' from 'apartment'.",
+    "answer": "prtment",
+    "p_answer": "prtment",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"|p|rtment\"\n}",
+    "annotated_question": "Remove 'a' from |a|p|a|rtment."
+  },
+  {
+    "question": "Remove 'o' from 'container'.",
+    "answer": "cntainer",
+    "p_answer": "cntainer",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|ntainer\"",
+    "annotated_question": "Remove 'o' from c|o|ntainer."
+  },
+  {
+    "question": "Remove 'i' from 'important'.",
+    "answer": "mportant",
+    "p_answer": "mportant",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"mportant\"",
+    "annotated_question": "Remove 'i' from |i|mportant."
+  },
+  {
+    "question": "Remove 'f' from 'different'.",
+    "answer": "diferent",
+    "p_answer": "dierent",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"di|erent\"",
+    "annotated_question": "Remove 'f' from di|f||f|erent."
+  },
+  {
+    "question": "Remove 'u' from 'beautiful'.",
+    "answer": "beatiful",
+    "p_answer": "beatifl",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beatifl\"",
+    "annotated_question": "Remove 'u' from bea|u|tif|u|l."
+  },
+  {
+    "question": "Remove 'e' from 'wonderful'.",
+    "answer": "wondrful",
+    "p_answer": "wondrful",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wond|rful\"\n}",
+    "annotated_question": "Remove 'e' from wond|e|rful."
+  },
+  {
+    "question": "Remove 'o' from 'knowledge'.",
+    "answer": "knwledge",
+    "p_answer": "knledge",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"knledge\"",
+    "annotated_question": "Remove 'o' from kn|o|wledge."
+  },
+  {
+    "question": "Remove 't' from 'excellent'.",
+    "answer": "excellen",
+    "p_answer": "exellenl",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"exellen|l\"",
+    "annotated_question": "Remove 't' from excellen|t|."
+  },
+  {
+    "question": "Remove 'i' from 'curiosity'.",
+    "answer": "curiosty",
+    "p_answer": "curosty",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"cur|os|ty\"\n}",
+    "annotated_question": "Remove 'i' from cur|i|os|i|ty."
+  },
+  {
+    "question": "Substitute 'a' with 'o' in 'game'",
+    "answer": "gome",
+    "p_answer": "gomoe",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"g|o|moe\"",
+    "annotated_question": "Substitute 'a' with 'o' in g|a|me"
+  },
+  {
+    "question": "Substitute 't' with 's' in 'fast'",
+    "answer": "fass",
+    "p_answer": "fass",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fas|s\"",
+    "annotated_question": "Substitute 't' with 's' in fas|t|"
+  },
+  {
+    "question": "Substitute 'r' with 't' in 'bark'",
+    "answer": "batk",
+    "p_answer": "batk",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ba|t|k\"",
+    "annotated_question": "Substitute 'r' with 't' in ba|r|k"
+  },
+  {
+    "question": "Substitute 'c' with 'p' in 'pack'",
+    "answer": "papk",
+    "p_answer": "pak",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"pak\"",
+    "annotated_question": "Substitute 'c' with 'p' in pa|c|k"
+  },
+  {
+    "question": "Substitute 'o' with 'e' in 'stone'",
+    "answer": "stene",
+    "p_answer": "steene",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"steene\"",
+    "annotated_question": "Substitute 'o' with 'e' in st|o|ne"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'drink'",
+    "answer": "drank",
+    "p_answer": "drank",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"dr|a|nk\"\n}",
+    "annotated_question": "Substitute 'i' with 'a' in dr|i|nk"
+  },
+  {
+    "question": "Substitute 'k' with 'c' in 'black'",
+    "answer": "blacc",
+    "p_answer": "blacc",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"blac|c\"",
+    "annotated_question": "Substitute 'k' with 'c' in blac|k|"
+  },
+  {
+    "question": "Substitute 'e' with 'u' in 'silver'",
+    "answer": "silvur",
+    "p_answer": "sulvir",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sulvir\"",
+    "annotated_question": "Substitute 'e' with 'u' in silv|e|r"
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'banner'",
+    "answer": "bamner",
+    "p_answer": "bamer",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bamer\"",
+    "annotated_question": "Substitute 'n' with 'm' in ba|n||n|er"
+  },
+  {
+    "question": "Substitute 'l' with 'r' in 'bottle'",
+    "answer": "bottre",
+    "p_answer": "bottre",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bott|r|e\"\n}",
+    "annotated_question": "Substitute 'l' with 'r' in bott|l|e"
+  },
+  {
+    "question": "Substitute 'c' with 's' in 'crystal'",
+    "answer": "srystal",
+    "p_answer": "systal",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|s|ystal\"",
+    "annotated_question": "Substitute 'c' with 's' in |c|rystal"
+  },
+  {
+    "question": "Substitute 'm' with 'n' in 'monster'",
+    "answer": "nonster",
+    "p_answer": "noster",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"noster\"",
+    "annotated_question": "Substitute 'm' with 'n' in |m|onster"
+  },
+  {
+    "question": "Substitute 'p' with 'b' in 'printer'",
+    "answer": "brinter",
+    "p_answer": "brinter",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"brinter\"",
+    "annotated_question": "Substitute 'p' with 'b' in |p|rinter"
+  },
+  {
+    "question": "Substitute 'r' with 'l' in 'elevator'",
+    "answer": "elevalol",
+    "p_answer": "elevatol",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"elevatol|\"\n}",
+    "annotated_question": "Substitute 'r' with 'l' in elevato|r|"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'standard'",
+    "answer": "stenderd",
+    "p_answer": "stenderd",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"st|e|nd|e|rd\"\n}",
+    "annotated_question": "Substitute 'a' with 'e' in st|a|nd|a|rd"
+  },
+  {
+    "question": "Substitute 't' with 'd' in 'platform'",
+    "answer": "pladform",
+    "p_answer": "pladform",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pladform\"",
+    "annotated_question": "Substitute 't' with 'd' in pla|t|form"
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'adventure'",
+    "answer": "advemture",
+    "p_answer": "advemture",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"adve|m|ture\"",
+    "annotated_question": "Substitute 'n' with 'm' in adve|n|ture"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'chocolate'",
+    "answer": "chocolata",
+    "p_answer": "chocolata",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"chocolata\"",
+    "annotated_question": "Substitute 'e' with 'a' in chocolat|e|"
+  },
+  {
+    "question": "Substitute 'r' with 's' in 'classroom'",
+    "answer": "classsoom",
+    "p_answer": "classsoom",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"class|s|oom\"\n}",
+    "annotated_question": "Substitute 'r' with 's' in class|r|oom"
+  },
+  {
+    "question": "Swap 'a' and 'm' in 'game'",
+    "answer": "gmae",
+    "p_answer": "gmame",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"g|m|a|m|e\"",
+    "annotated_question": "Swap 'a' and 'm' in g|a|m|e"
+  },
+  {
+    "question": "Swap 'f' and 't' in 'fast'",
+    "answer": "tasf",
+    "p_answer": "tast",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"t|a|s|t\"",
+    "annotated_question": "Swap 'f' and 't' in f|a|s|t"
+  },
+  {
+    "question": "Swap 'b' and 'r' in 'bark'",
+    "answer": "rabk",
+    "p_answer": "rark",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"r|a|r|k\"",
+    "annotated_question": "Swap 'b' and 'r' in b|a|r|k"
+  },
+  {
+    "question": "Swap 'p' and 'a' in 'pack'",
+    "answer": "apck",
+    "p_answer": "akac",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"a|k|a|c\"\n}",
+    "annotated_question": "Swap 'p' and 'a' in p|a|c|k"
+  },
+  {
+    "question": "Swap 's' and 'n' in 'stone'",
+    "answer": "ntose",
+    "p_answer": "ntone",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"n|t|o|ne\"",
+    "annotated_question": "Swap 's' and 'n' in s|t|o|n|e"
+  },
+  {
+    "question": "Swap 'd' and 'k' in 'drink'",
+    "answer": "krind",
+    "p_answer": "drik",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"d|r|i|k\"\n}",
+    "annotated_question": "Swap 'd' and 'k' in d|r|i|n|k"
+  },
+  {
+    "question": "Swap 'b' and 'c' in 'black'",
+    "answer": "clabk",
+    "p_answer": "clak",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"c|l|a|k\"",
+    "annotated_question": "Swap 'b' and 'c' in b|l|a|c|k"
+  },
+  {
+    "question": "Swap 's' and 'r' in 'silver'",
+    "answer": "rilves",
+    "p_answer": "sviver",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sviver\"",
+    "annotated_question": "Swap 's' and 'r' in s|i|l|v|e|r"
+  },
+  {
+    "question": "Swap 'a' and 'n' in 'banner'",
+    "answer": "bnnaer",
+    "p_answer": "bnanr",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"b|n|a|n|r\"",
+    "annotated_question": "Swap 'a' and 'n' in b|a|n|n|e|r"
+  },
+  {
+    "question": "Swap 't' and 'l' in 'bottle'",
+    "answer": "boltle",
+    "p_answer": "bole",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"b|o|l|e\"",
+    "annotated_question": "Swap 't' and 'l' in b|o|t|t|l|e"
+  },
+  {
+    "question": "Swap 'r' and 'y' in 'crystal'",
+    "answer": "cystral",
+    "p_answer": "cyystalyal",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"cy|ys|talya|l\"",
+    "annotated_question": "Swap 'r' and 'y' in c|r|y|s|t|a|l"
+  },
+  {
+    "question": "Swap 'o' and 'n' in 'monster'",
+    "answer": "mnstero",
+    "p_answer": "mnster",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"m|n|s|t|e|r\"",
+    "annotated_question": "Swap 'o' and 'n' in m|o|n|s|t|e|r"
+  },
+  {
+    "question": "Swap 'p' and 't' in 'printer'",
+    "answer": "trinerp",
+    "p_answer": "trinter",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"t|r|i|n|t|e|r\"\n}",
+    "annotated_question": "Swap 'p' and 't' in p|r|i|n|t|e|r"
+  },
+  {
+    "question": "Swap 'a' and 'r' in 'elevator'",
+    "answer": "elervato",
+    "p_answer": "evrtor",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"e|v|r|t|o|r\"",
+    "annotated_question": "Swap 'a' and 'r' in e|l|e|v|a|t|o|r"
+  },
+  {
+    "question": "Swap 's' and 't' in 'standard'",
+    "answer": "tsandard",
+    "p_answer": "tstandard",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"t|s|t|a|n|d|a|r|d\"\n}",
+    "annotated_question": "Swap 's' and 't' in s|t|a|n|d|a|r|d"
+  },
+  {
+    "question": "Swap 'p' and 'f' in 'platform'",
+    "answer": "flatpor m",
+    "p_answer": "formatf",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"f|o|r|m|a|t|f\"\n}",
+    "annotated_question": "Swap 'p' and 'f' in p|l|a|t|f|o|r|m"
+  },
+  {
+    "question": "Swap 'v' and 'd' in 'adventure'",
+    "answer": "adventurd",
+    "p_answer": "adventure",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"a|d|v|e|n|t|u|r|e\"\n}",
+    "annotated_question": "Swap 'v' and 'd' in a|d|v|e|n|t|u|r|e"
+  },
+  {
+    "question": "Swap 'c' and 'o' in 'chocolate'",
+    "answer": "ochcolate",
+    "p_answer": "oholate",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"o|h|o|l|a|t|e\"\n}",
+    "annotated_question": "Swap 'c' and 'o' in c|h|o|c|o|l|a|t|e"
+  },
+  {
+    "question": "Swap 'm' and 's' in 'classroom'",
+    "answer": "classro om",
+    "p_answer": "csassroos",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|s|a|ss|r|oo|s\"\n}",
+    "annotated_question": "Swap 'm' and 's' in c|l|a|s|s|r|o|o|m"
+  },
+  {
+    "question": "Add 'z' after every 'm' in 'game'",
+    "answer": "gamze",
+    "p_answer": "gazame",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"g|az|ame\"",
+    "annotated_question": "Add 'z' after every 'm' in g|a|m|e"
+  },
+  {
+    "question": "Add 'x' after every 'f' in 'fast'",
+    "answer": "faxst",
+    "p_answer": "xast",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"xast\"\n}",
+    "annotated_question": "Add 'x' after every 'f' in f|a|s|t"
+  },
+  {
+    "question": "Add 'q' after every 'r' in 'bark'",
+    "answer": "barqk",
+    "p_answer": "baqqark",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"baq|qark\"",
+    "annotated_question": "Add 'q' after every 'r' in b|a|r|k"
+  },
+  {
+    "question": "Add 'e' after every 'c' in 'pack'",
+    "answer": "paeck",
+    "p_answer": "packe",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"packe\"",
+    "annotated_question": "Add 'e' after every 'c' in p|a|c|k"
+  },
+  {
+    "question": "Add 'y' after every 'o' in 'stone'",
+    "answer": "stoyne",
+    "p_answer": "stoye",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|t|oye\"",
+    "annotated_question": "Add 'y' after every 'o' in s|t|o|n|e"
+  },
+  {
+    "question": "Add 'r' after every 'd' in 'drink'",
+    "answer": "drirnk",
+    "p_answer": "drink",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"drink\"",
+    "annotated_question": "Add 'r' after every 'd' in d|r|i|n|k"
+  },
+  {
+    "question": "Add 'm' after every 'k' in 'black'",
+    "answer": "blacmk",
+    "p_answer": "bmalmck",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"b|m|al|m|ck\"",
+    "annotated_question": "Add 'm' after every 'k' in b|l|a|c|k"
+  },
+  {
+    "question": "Add 'e' after every 's' in 'silver'",
+    "answer": "sielver",
+    "p_answer": "sievre",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sievre\"\n}",
+    "annotated_question": "Add 'e' after every 's' in s|i|l|v|e|r"
+  },
+  {
+    "question": "Add 'p' after every 'n' in 'banner'",
+    "answer": "banpner",
+    "p_answer": "bpanner",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bp|anne|r\"",
+    "annotated_question": "Add 'p' after every 'n' in b|a|n|n|e|r"
+  },
+  {
+    "question": "Add 'l' after every 't' in 'bottle'",
+    "answer": "bolttle",
+    "p_answer": "boltle",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"b|o|l|t|l|e\"",
+    "annotated_question": "Add 'l' after every 't' in b|o|t|t|l|e"
+  },
+  {
+    "question": "Add 'u' after every 'c' in 'crystal'",
+    "answer": "cruystal",
+    "p_answer": "curyul",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|u|r|y|u|l\"\n}",
+    "annotated_question": "Add 'u' after every 'c' in c|r|y|s|t|a|l"
+  },
+  {
+    "question": "Add 'o' after every 'm' in 'monster'",
+    "answer": "moonster",
+    "p_answer": "monostere",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"monostere\"",
+    "annotated_question": "Add 'o' after every 'm' in m|o|n|s|t|e|r"
+  },
+  {
+    "question": "Add 'n' after every 'p' in 'printer'",
+    "answer": "prinnter",
+    "p_answer": "printern",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"printern\"\n}",
+    "annotated_question": "Add 'n' after every 'p' in p|r|i|n|t|e|r"
+  },
+  {
+    "question": "Add 'a' after every 'v' in 'elevator'",
+    "answer": "elavator",
+    "p_answer": "elavataor",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"e|la|va|ta|o|r\"\n}",
+    "annotated_question": "Add 'a' after every 'v' in e|l|e|v|a|t|o|r"
+  },
+  {
+    "question": "Add 'e' after every 't' in 'standard'",
+    "answer": "staendard",
+    "p_answer": "stendered",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"s|te|n|de|re|d\"\n}",
+    "annotated_question": "Add 'e' after every 't' in s|t|a|n|d|a|r|d"
+  },
+  {
+    "question": "Add 'm' after every 'r' in 'platform'",
+    "answer": "platmform",
+    "p_answer": "platformorm",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"platformorm\"",
+    "annotated_question": "Add 'm' after every 'r' in p|l|a|t|f|o|r|m"
+  },
+  {
+    "question": "Add 'x' after every 'd' in 'adventure'",
+    "answer": "advexture",
+    "p_answer": "alxdvenxturxe",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"alxdvenxturxe\"",
+    "annotated_question": "Add 'x' after every 'd' in a|d|v|e|n|t|u|r|e"
+  },
+  {
+    "question": "Add 'o' after every 'c' in 'chocolate'",
+    "answer": "choocolate",
+    "p_answer": "choolate",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"choolate\"\n}",
+    "annotated_question": "Add 'o' after every 'c' in c|h|o|c|o|l|a|t|e"
+  },
+  {
+    "question": "Add 'n' after every 'm' in 'classroom'",
+    "answer": "clasnsroom",
+    "p_answer": "cnasroonm",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|n|a|s|r|o|o|nm\"",
+    "annotated_question": "Add 'n' after every 'm' in c|l|a|s|s|r|o|o|m"
+  },
+  {
+    "question": "Remove 'a' after every 'g' in 'game'",
+    "answer": "gme",
+    "p_answer": "gme",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"g|me\"\n}",
+    "annotated_question": "Remove 'a' after every 'g' in g|a|me"
+  },
+  {
+    "question": "Remove 's' after every 'a' in 'fast'",
+    "answer": "fat",
+    "p_answer": "fat",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"f|a|t\"",
+    "annotated_question": "Remove 's' after every 'a' in fa|s|t"
+  },
+  {
+    "question": "Remove 'r' after every 'b' in 'bark'",
+    "answer": "bak",
+    "p_answer": "bak",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ba|k\"",
+    "annotated_question": "Remove 'r' after every 'b' in ba|r|k"
+  },
+  {
+    "question": "Remove 'a' after every 'p' in 'pack'",
+    "answer": "pck",
+    "p_answer": "pck",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"pck\"",
+    "annotated_question": "Remove 'a' after every 'p' in p|a|ck"
+  },
+  {
+    "question": "Remove 'n' after every 'o' in 'stone'",
+    "answer": "stoe",
+    "p_answer": "stoe",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"st|o|e\"",
+    "annotated_question": "Remove 'n' after every 'o' in sto|n|e"
+  },
+  {
+    "question": "Remove 'i' after every 'r' in 'drink'",
+    "answer": "drnk",
+    "p_answer": "drk",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"dr|k\"",
+    "annotated_question": "Remove 'i' after every 'r' in dr|i|nk"
+  },
+  {
+    "question": "Remove 'c' after every 'a' in 'black'",
+    "answer": "blak",
+    "p_answer": "blak",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"bl|a|k\"",
+    "annotated_question": "Remove 'c' after every 'a' in bla|c|k"
+  },
+  {
+    "question": "Remove 'l' after every 'i' in 'silver'",
+    "answer": "siver",
+    "p_answer": "sivver",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sivver\"",
+    "annotated_question": "Remove 'l' after every 'i' in si|l|ver"
+  },
+  {
+    "question": "Remove 'n' after every 'a' in 'banner'",
+    "answer": "baner",
+    "p_answer": "baler",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ba|ler\"",
+    "annotated_question": "Remove 'n' after every 'a' in ba|n||n|er"
+  },
+  {
+    "question": "Remove 't' after every 'o' in 'bottle'",
+    "answer": "bole",
+    "p_answer": "bollble",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bo|ll||b||l||e\"\n}",
+    "annotated_question": "Remove 't' after every 'o' in bo|t||t|le"
+  },
+  {
+    "question": "Remove 'y' after every 'r' in 'crystal'",
+    "answer": "crstal",
+    "p_answer": "crtstal",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"cr|t|stal\"",
+    "annotated_question": "Remove 'y' after every 'r' in cr|y|stal"
+  },
+  {
+    "question": "Remove 's' after every 'o' in 'monster'",
+    "answer": "monter",
+    "p_answer": "monoster",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"mon|o|ster\"",
+    "annotated_question": "Remove 's' after every 'o' in mon|s|ter"
+  },
+  {
+    "question": "Remove 'i' after every 'r' in 'printer'",
+    "answer": "prnter",
+    "p_answer": "prnter",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"prnter\"",
+    "annotated_question": "Remove 'i' after every 'r' in pr|i|nter"
+  },
+  {
+    "question": "Remove 'a' after every 'v' in 'elevator'",
+    "answer": "elvator",
+    "p_answer": "elevvtor",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\"p_answer\": \"elev|vtor\"}",
+    "annotated_question": "Remove 'a' after every 'v' in elev|a|tor"
+  },
+  {
+    "question": "Remove 'a' after every 't' in 'standard'",
+    "answer": "stndard",
+    "p_answer": "stndrd",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"st|nd|rd\"",
+    "annotated_question": "Remove 'a' after every 't' in st|a|nd|a|rd"
+  },
+  {
+    "question": "Remove 'f' after every 'l' in 'platform'",
+    "answer": "platorm",
+    "p_answer": "platorm",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"plat|orm\"\n}",
+    "annotated_question": "Remove 'f' after every 'l' in plat|f|orm"
+  },
+  {
+    "question": "Remove 'd' after every 'n' in 'adventure'",
+    "answer": "aventur",
+    "p_answer": "avnture",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"a|v|ntu|re\"\n}",
+    "annotated_question": "Remove 'd' after every 'n' in a|d|venture"
+  },
+  {
+    "question": "Remove 'a' after every 'l' in 'chocolate'",
+    "answer": "choclate",
+    "p_answer": "chocolt",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"chocol|t\"\n}",
+    "annotated_question": "Remove 'a' after every 'l' in chocol|a|te"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'classroom'",
+    "answer": "clasroom",
+    "p_answer": "classraam",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"classr|a||a|m\"",
+    "annotated_question": "Remove 'o' after every 'r' in classr|o||o|m"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'dear'",
+    "answer": "daar",
+    "p_answer": "daar",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"daar\"",
+    "annotated_question": "Substitute 'e' with 'a' in d|e|ar"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'book'",
+    "answer": "biik",
+    "p_answer": "biik",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|i||i|k\"",
+    "annotated_question": "Substitute 'o' with 'i' in b|o||o|k"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'cake'",
+    "answer": "ceke",
+    "p_answer": "ceke",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"c|e|ke\"",
+    "annotated_question": "Substitute 'a' with 'e' in c|a|ke"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'fish'",
+    "answer": "fosh",
+    "p_answer": "f{osh",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"f{o|sh\"",
+    "annotated_question": "Substitute 'i' with 'o' in f|i|sh"
+  },
+  {
+    "question": "Substitute 'u' with 'a' in 'duck'",
+    "answer": "dack",
+    "p_answer": "dack",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|a|ck\"",
+    "annotated_question": "Substitute 'u' with 'a' in d|u|ck"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'bell'",
+    "answer": "boll",
+    "p_answer": "bollo",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bollo\"",
+    "annotated_question": "Substitute 'e' with 'o' in b|e|ll"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'hand'",
+    "answer": "hind",
+    "p_answer": "hind",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hi|nd\"",
+    "annotated_question": "Substitute 'a' with 'i' in h|a|nd"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'door'",
+    "answer": "duur",
+    "p_answer": "duur",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|u||u|r\"",
+    "annotated_question": "Substitute 'o' with 'u' in d|o||o|r"
+  },
+  {
+    "question": "Substitute 'i' with 'e' in 'milk'",
+    "answer": "melk",
+    "p_answer": "melk",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"m|e|lk\"\n}",
+    "annotated_question": "Substitute 'i' with 'e' in m|i|lk"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'tree'",
+    "answer": "trii",
+    "p_answer": "trii",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"tri||i|\"",
+    "annotated_question": "Substitute 'e' with 'i' in tr|e||e|"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'table'",
+    "answer": "teble",
+    "p_answer": "etable",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"etable\"",
+    "annotated_question": "Substitute 'a' with 'e' in t|a|ble"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'photo'",
+    "answer": "phiti",
+    "p_answer": "phiti",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ph|i|t|i|\"",
+    "annotated_question": "Substitute 'o' with 'i' in ph|o|t|o|"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'sleep'",
+    "answer": "slaap",
+    "p_answer": "slaapa",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sl|a||a|pa\"",
+    "annotated_question": "Substitute 'e' with 'a' in sl|e||e|p"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'light'",
+    "answer": "loght",
+    "p_answer": "olght",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"olght\"",
+    "annotated_question": "Substitute 'i' with 'o' in l|i|ght"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'sound'",
+    "answer": "soend",
+    "p_answer": "seend",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"se|end\"",
+    "annotated_question": "Substitute 'u' with 'e' in so|u|nd"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'salty'",
+    "answer": "silty",
+    "p_answer": "silty",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|i|lty\"",
+    "annotated_question": "Substitute 'a' with 'i' in s|a|lty"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'green'",
+    "answer": "groon",
+    "p_answer": "grooorn",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"grooorn\"",
+    "annotated_question": "Substitute 'e' with 'o' in gr|e||e|n"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'smile'",
+    "answer": "smale",
+    "p_answer": "smale",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sma|le\"\n}",
+    "annotated_question": "Substitute 'i' with 'a' in sm|i|le"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'bloom'",
+    "answer": "bluum",
+    "p_answer": "bluum",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"bl|u||u|m\"",
+    "annotated_question": "Substitute 'o' with 'u' in bl|o||o|m"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'sheep'",
+    "answer": "shiip",
+    "p_answer": "shipiship",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"shi|pi|ship\"",
+    "annotated_question": "Substitute 'e' with 'i' in sh|e||e|p"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'garden'",
+    "answer": "gerden",
+    "p_answer": "gerden",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"gerden\"",
+    "annotated_question": "Substitute 'a' with 'e' in g|a|rden"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'window'",
+    "answer": "windiw",
+    "p_answer": "windiw",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"wind|i|w\"\n}",
+    "annotated_question": "Substitute 'o' with 'i' in wind|o|w"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'circle'",
+    "answer": "carcla",
+    "p_answer": "circaa",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"circa|a\"",
+    "annotated_question": "Substitute 'e' with 'a' in circl|e|"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'spirit'",
+    "answer": "sporot",
+    "p_answer": "spoirit",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spoirit\"",
+    "annotated_question": "Substitute 'i' with 'o' in sp|i|r|i|t"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'autumn'",
+    "answer": "aetemn",
+    "p_answer": "autmn",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"autmn\"",
+    "annotated_question": "Substitute 'u' with 'e' in a|u|t|u|mn"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'shadow'",
+    "answer": "shidow",
+    "p_answer": "shidow",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sh|i|dow\"\n}",
+    "annotated_question": "Substitute 'a' with 'i' in sh|a|dow"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'letter'",
+    "answer": "lottor",
+    "p_answer": "loottor",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"loottor\"",
+    "annotated_question": "Substitute 'e' with 'o' in l|e|tt|e|r"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'vision'",
+    "answer": "vasion",
+    "p_answer": "vaison",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"vaison\"",
+    "annotated_question": "Substitute 'i' with 'a' in v|i|s|i|on"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'motion'",
+    "answer": "mutiun",
+    "p_answer": "mutiun",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"m|u|ti|u|n\"",
+    "annotated_question": "Substitute 'o' with 'u' in m|o|ti|o|n"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'desert'",
+    "answer": "disirt",
+    "p_answer": "disirt",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"d|is|i|r|t\"",
+    "annotated_question": "Substitute 'e' with 'i' in d|e|s|e|rt"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'blanket'",
+    "answer": "blenket",
+    "p_answer": "bleenket",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"bleenket\"",
+    "annotated_question": "Substitute 'a' with 'e' in bl|a|nket"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'control'",
+    "answer": "cintril",
+    "p_answer": "cintriil",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|intr|i|il\"",
+    "annotated_question": "Substitute 'o' with 'i' in c|o|ntr|o|l"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'message'",
+    "answer": "massaga",
+    "p_answer": "massaga",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"massaga\"",
+    "annotated_question": "Substitute 'e' with 'a' in m|e|ssag|e|"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'picture'",
+    "answer": "poctura",
+    "p_answer": "picture",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"picture\"",
+    "annotated_question": "Substitute 'i' with 'o' in p|i|cture"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'current'",
+    "answer": "cerrent",
+    "p_answer": "cerrent",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|e|rrent\"\n}",
+    "annotated_question": "Substitute 'u' with 'e' in c|u|rrent"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'lantern'",
+    "answer": "lintern",
+    "p_answer": "lintern",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"lintern\"",
+    "annotated_question": "Substitute 'a' with 'i' in l|a|ntern"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'present'",
+    "answer": "prosont",
+    "p_answer": "porosnt",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"porosnt\"",
+    "annotated_question": "Substitute 'e' with 'o' in pr|e|s|e|nt"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'fiction'",
+    "answer": "factoon",
+    "p_answer": "factaon",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"f|a|ct|a|on\"",
+    "annotated_question": "Substitute 'i' with 'a' in f|i|ct|i|on"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'freedom'",
+    "answer": "freudum",
+    "p_answer": "freedum",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"freed|u|m\"",
+    "annotated_question": "Substitute 'o' with 'u' in freed|o|m"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'element'",
+    "answer": "ilimint",
+    "p_answer": "ilimint",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|i|l|i|m|i|nt\"\n}",
+    "annotated_question": "Substitute 'e' with 'i' in |e|l|e|m|e|nt"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'calendar'",
+    "answer": "celender",
+    "p_answer": "ceender",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ce|end|er\"\n}",
+    "annotated_question": "Substitute 'a' with 'e' in c|a|lend|a|r"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'tomorrow'",
+    "answer": "timirriw",
+    "p_answer": "timirwi",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"t|im|i|rwi\"",
+    "annotated_question": "Substitute 'o' with 'i' in t|o|m|o|rr|o|w"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'sentence'",
+    "answer": "santanca",
+    "p_answer": "santanca",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"s|a|nt|a|nc|a\"",
+    "annotated_question": "Substitute 'e' with 'a' in s|e|nt|e|nc|e|"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'building'",
+    "answer": "buoldong",
+    "p_answer": "buooldoing",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"buo|oldoing\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in bu|i|ld|i|ng"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'audience'",
+    "answer": "aedience",
+    "p_answer": "audience",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"audience\"\n}",
+    "annotated_question": "Substitute 'u' with 'e' in a|u|dience"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'distance'",
+    "answer": "distince",
+    "p_answer": "distince",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"dist|i|nce\"",
+    "annotated_question": "Substitute 'a' with 'i' in dist|a|nce"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'customer'",
+    "answer": "custimor",
+    "p_answer": "customor",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"custom|o|r\"",
+    "annotated_question": "Substitute 'e' with 'o' in custom|e|r"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'mountain'",
+    "answer": "mauntean",
+    "p_answer": "mountaaln",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mounta|al|n\"\n}",
+    "annotated_question": "Substitute 'i' with 'a' in mounta|i|n"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'protocol'",
+    "answer": "prutucul",
+    "p_answer": "prutul",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pru|t|u|l\"",
+    "annotated_question": "Substitute 'o' with 'u' in pr|o|t|o|c|o|l"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'employee'",
+    "answer": "impliyii",
+    "p_answer": "iniyiii",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"|i|ni|yi|i||i\"",
+    "annotated_question": "Substitute 'e' with 'i' in |e|mploy|e||e|"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'challenge'",
+    "answer": "chellenge",
+    "p_answer": "chellenge",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ch|e|llenge\"\n}",
+    "annotated_question": "Substitute 'a' with 'e' in ch|a|llenge"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'condition'",
+    "answer": "cinditian",
+    "p_answer": "cinditiin",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|i|nditi|i|n\"",
+    "annotated_question": "Substitute 'o' with 'i' in c|o|nditi|o|n"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'adventure'",
+    "answer": "advuntura",
+    "p_answer": "advantaure",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"advantaure\"",
+    "annotated_question": "Substitute 'e' with 'a' in adv|e|ntur|e|"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'direction'",
+    "answer": "doractoon",
+    "p_answer": "dorecton",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"d|o|rect|o|n\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in d|i|rect|i|on"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'structure'",
+    "answer": "strectere",
+    "p_answer": "structere",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"structere\"",
+    "annotated_question": "Substitute 'u' with 'e' in str|u|ct|u|re"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'landscape'",
+    "answer": "lindscape",
+    "p_answer": "lindscipe",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"l|i|ndsc|i|pe\"\n}",
+    "annotated_question": "Substitute 'a' with 'i' in l|a|ndsc|a|pe"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'statement'",
+    "answer": "statomont",
+    "p_answer": "statoromoint",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"statoromoint\"",
+    "annotated_question": "Substitute 'e' with 'o' in stat|e|m|e|nt"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'provision'",
+    "answer": "pravosion",
+    "p_answer": "provaision",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"provaision\"",
+    "annotated_question": "Substitute 'i' with 'a' in prov|i|s|i|on"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'promotion'",
+    "answer": "prumution",
+    "p_answer": "prumutiun",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"pr|u|m|u|ti|u|n\"\n}",
+    "annotated_question": "Substitute 'o' with 'u' in pr|o|m|o|ti|o|n"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'agreement'",
+    "answer": "agriimint",
+    "p_answer": "agriiiimiii",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"agrii||i||i|mii||i\"",
+    "annotated_question": "Substitute 'e' with 'i' in agr|e||e|m|e|nt"
+  },
+  {
+    "question": "Swap 'e' and 'a' in 'dear'",
+    "answer": "daer",
+    "p_answer": "dar",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"da|r\"",
+    "annotated_question": "Swap 'e' and 'a' in d|e|a|r"
+  },
+  {
+    "question": "Swap 'o' and 'k' in 'book'",
+    "answer": "boko",
+    "p_answer": "bkok",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|k|o|k\"",
+    "annotated_question": "Swap 'o' and 'k' in b|o|o|k"
+  },
+  {
+    "question": "Swap 'a' and 'k' in 'cake'",
+    "answer": "ckae",
+    "p_answer": "ckae",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"c|k|a|e\"",
+    "annotated_question": "Swap 'a' and 'k' in c|a|k|e"
+  },
+  {
+    "question": "Swap 'i' and 'h' in 'fish'",
+    "answer": "fhis",
+    "p_answer": "fhsh",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"f|h|s|h\"",
+    "annotated_question": "Swap 'i' and 'h' in f|i|s|h"
+  },
+  {
+    "question": "Swap 'u' and 'c' in 'duck'",
+    "answer": "dcuk",
+    "p_answer": "dck",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|c|k\"",
+    "annotated_question": "Swap 'u' and 'c' in d|u|c|k"
+  },
+  {
+    "question": "Swap 'e' and 'l' in 'bell'",
+    "answer": "blel",
+    "p_answer": "bll",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|l|l\"",
+    "annotated_question": "Swap 'e' and 'l' in b|e|l|l"
+  },
+  {
+    "question": "Swap 'a' and 'n' in 'hand'",
+    "answer": "hnad",
+    "p_answer": "hnad",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"h|n|a|d\"",
+    "annotated_question": "Swap 'a' and 'n' in h|a|n|d"
+  },
+  {
+    "question": "Swap 'o' and 'r' in 'door'",
+    "answer": "doro",
+    "p_answer": "doror",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|o|r|o|r\"",
+    "annotated_question": "Swap 'o' and 'r' in d|o|o|r"
+  },
+  {
+    "question": "Swap 'i' and 'l' in 'milk'",
+    "answer": "mlik",
+    "p_answer": "milk",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"milk\"",
+    "annotated_question": "Swap 'i' and 'l' in m|i|l|k"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'tree'",
+    "answer": "rtee",
+    "p_answer": "tare",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"t|a|r|e\"",
+    "annotated_question": "Swap 'e' and 'r' in t|r|e|e"
+  },
+  {
+    "question": "Swap 'a' and 'b' in 'table'",
+    "answer": "tbael",
+    "p_answer": "tbale",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"t|b|a|l|e\"\n}",
+    "annotated_question": "Swap 'a' and 'b' in t|a|b|l|e"
+  },
+  {
+    "question": "Swap 'o' and 't' in 'photo'",
+    "answer": "pothu",
+    "p_answer": "potot",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"potot\"",
+    "annotated_question": "Swap 'o' and 't' in p|h|o|t|o"
+  },
+  {
+    "question": "Swap 'e' and 'p' in 'sleep'",
+    "answer": "slpee",
+    "p_answer": "splep",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|p|l|e|p\"",
+    "annotated_question": "Swap 'e' and 'p' in s|l|e|e|p"
+  },
+  {
+    "question": "Swap 'i' and 'g' in 'light'",
+    "answer": "lgith",
+    "p_answer": "lgth",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lgth\"",
+    "annotated_question": "Swap 'i' and 'g' in l|i|g|h|t"
+  },
+  {
+    "question": "Swap 'u' and 'n' in 'sound'",
+    "answer": "snodu",
+    "p_answer": "sonud",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|o|n|u|d\"\n}",
+    "annotated_question": "Swap 'u' and 'n' in s|o|u|n|d"
+  },
+  {
+    "question": "Swap 'a' and 'l' in 'salty'",
+    "answer": "slaty",
+    "p_answer": "sllty",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|l|l|t|y\"",
+    "annotated_question": "Swap 'a' and 'l' in s|a|l|t|y"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'green'",
+    "answer": "rgeen",
+    "p_answer": "gren",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"gr|en\"",
+    "annotated_question": "Swap 'e' and 'r' in g|r|e|e|n"
+  },
+  {
+    "question": "Swap 'i' and 'm' in 'smile'",
+    "answer": "msile",
+    "p_answer": "smile",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sm|il|e\"\n}",
+    "annotated_question": "Swap 'i' and 'm' in s|m|i|l|e"
+  },
+  {
+    "question": "Swap 'o' and 'm' in 'bloom'",
+    "answer": "bolmo",
+    "p_answer": "blmom",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"b|l|m|o|m\"",
+    "annotated_question": "Swap 'o' and 'm' in b|l|o|o|m"
+  },
+  {
+    "question": "Swap 'e' and 'p' in 'sheep'",
+    "answer": "spehe",
+    "p_answer": "shpep",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sh|p|ep\"",
+    "annotated_question": "Swap 'e' and 'p' in s|h|e|e|p"
+  },
+  {
+    "question": "Swap 'a' and 'd' in 'garden'",
+    "answer": "dgaren",
+    "p_answer": "gdraen",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"g|d|r|a|e|n\"\n}",
+    "annotated_question": "Swap 'a' and 'd' in g|a|r|d|e|n"
+  },
+  {
+    "question": "Swap 'o' and 'w' in 'window'",
+    "answer": "woidwn",
+    "p_answer": "window",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"w|i|n|d|o|w\"",
+    "annotated_question": "Swap 'o' and 'w' in w|i|n|d|o|w"
+  },
+  {
+    "question": "Swap 'e' and 'c' in 'circle'",
+    "answer": "cirelc",
+    "p_answer": "circla",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"c|i|r|c|l|a\"",
+    "annotated_question": "Swap 'e' and 'c' in c|i|r|c|l|e"
+  },
+  {
+    "question": "Swap 'i' and 'r' in 'spirit'",
+    "answer": "sripit",
+    "p_answer": "spririt",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spririt\"",
+    "annotated_question": "Swap 'i' and 'r' in s|p|i|r|i|t"
+  },
+  {
+    "question": "Swap 'u' and 't' in 'autumn'",
+    "answer": "atuumn",
+    "p_answer": "attmn",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"at|t|m|n\"",
+    "annotated_question": "Swap 'u' and 't' in a|u|t|u|m|n"
+  },
+  {
+    "question": "Swap 'a' and 'd' in 'shadow'",
+    "answer": "sdahow",
+    "p_answer": "shdow",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"s|h|d|o|w\"",
+    "annotated_question": "Swap 'a' and 'd' in s|h|a|d|o|w"
+  },
+  {
+    "question": "Swap 'e' and 't' in 'letter'",
+    "answer": "lteter",
+    "p_answer": "ltttr",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"l|t|t|t|r\"",
+    "annotated_question": "Swap 'e' and 't' in l|e|t|t|e|r"
+  },
+  {
+    "question": "Swap 'i' and 's' in 'vision'",
+    "answer": "vsiion",
+    "p_answer": "visoin",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"visoin\"",
+    "annotated_question": "Swap 'i' and 's' in v|i|s|i|o|n"
+  },
+  {
+    "question": "Swap 'o' and 't' in 'motion'",
+    "answer": "mtoion",
+    "p_answer": "mtion",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"m|t|i|o|n\"",
+    "annotated_question": "Swap 'o' and 't' in m|o|t|i|o|n"
+  },
+  {
+    "question": "Swap 'e' and 's' in 'desert'",
+    "answer": "sdeert",
+    "p_answer": "dsert",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"d|s|e|r|t\"",
+    "annotated_question": "Swap 'e' and 's' in d|e|s|e|r|t"
+  },
+  {
+    "question": "Swap 'a' and 'k' in 'blanket'",
+    "answer": "kblaent",
+    "p_answer": "bkanet",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"b|k|a|n|e|t\"",
+    "annotated_question": "Swap 'a' and 'k' in b|l|a|n|k|e|t"
+  },
+  {
+    "question": "Swap 'o' and 'r' in 'control'",
+    "answer": "rcotnol",
+    "p_answer": "cnrtrol",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|n|r|t|r|o|l\"",
+    "annotated_question": "Swap 'o' and 'r' in c|o|n|t|r|o|l"
+  },
+  {
+    "question": "Swap 'e' and 's' in 'message'",
+    "answer": "smseage",
+    "p_answer": "messsage",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"messsage\"",
+    "annotated_question": "Swap 'e' and 's' in m|e|s|s|a|g|e"
+  },
+  {
+    "question": "Swap 'i' and 'c' in 'picture'",
+    "answer": "cpituer",
+    "p_answer": "cure",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|u|r|e\"\n}",
+    "annotated_question": "Swap 'i' and 'c' in p|i|c|t|u|r|e"
+  },
+  {
+    "question": "Swap 'u' and 'r' in 'current'",
+    "answer": "rcurent",
+    "p_answer": "crurrent",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|r|u|r|r|e|n|t\"",
+    "annotated_question": "Swap 'u' and 'r' in c|u|r|r|e|n|t"
+  },
+  {
+    "question": "Swap 'a' and 't' in 'lantern'",
+    "answer": "tlanern",
+    "p_answer": "tnatern",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"t|n|a|t|e|r|n\"\n}",
+    "annotated_question": "Swap 'a' and 't' in l|a|n|t|e|r|n"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'present'",
+    "answer": "rpesent",
+    "p_answer": "prsent",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pr|sen|t\"",
+    "annotated_question": "Swap 'e' and 'r' in p|r|e|s|e|n|t"
+  },
+  {
+    "question": "Swap 'i' and 'c' in 'fiction'",
+    "answer": "cfitio",
+    "p_answer": "fctcion",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"f|c|t|c|i|o|n\"\n}",
+    "annotated_question": "Swap 'i' and 'c' in f|i|c|t|i|o|n"
+  },
+  {
+    "question": "Swap 'o' and 'd' in 'freedom'",
+    "answer": "dfreom",
+    "p_answer": "fdeedm",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"f|d|e|e|d|m\"",
+    "annotated_question": "Swap 'o' and 'd' in f|r|e|e|d|o|m"
+  },
+  {
+    "question": "Swap 'e' and 'm' in 'element'",
+    "answer": "meleent",
+    "p_answer": "mlmnt",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"m|l|m|n|t\"",
+    "annotated_question": "Swap 'e' and 'm' in e|l|e|m|e|n|t"
+  },
+  {
+    "question": "Swap 'a' and 'l' in 'calendar'",
+    "answer": "lcaednar",
+    "p_answer": "clalendar",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"cl|a|l|e|n|d|ar\"",
+    "annotated_question": "Swap 'a' and 'l' in c|a|l|e|n|d|a|r"
+  },
+  {
+    "question": "Swap 'o' and 'r' in 'tomorrow'",
+    "answer": "rtomworow",
+    "p_answer": "tomromrrol",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"t|o|m|r|o|m|r|r|o|l\"",
+    "annotated_question": "Swap 'o' and 'r' in t|o|m|o|r|r|o|w"
+  },
+  {
+    "question": "Swap 'e' and 'n' in 'sentence'",
+    "answer": "nsnetecne",
+    "p_answer": "sntncndc",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"s|n|t|n|c|n|d|c\"",
+    "annotated_question": "Swap 'e' and 'n' in s|e|n|t|e|n|c|e"
+  },
+  {
+    "question": "Swap 'i' and 'l' in 'building'",
+    "answer": "lbuidilng",
+    "p_answer": "buling",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"b|u|l|i|n|g\"",
+    "annotated_question": "Swap 'i' and 'l' in b|u|i|l|d|i|n|g"
+  },
+  {
+    "question": "Swap 'u' and 'd' in 'audience'",
+    "answer": "dauidnece",
+    "p_answer": "adience",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"a|d|i|e|n|c|e\"\n}",
+    "annotated_question": "Swap 'u' and 'd' in a|u|d|i|e|n|c|e"
+  },
+  {
+    "question": "Swap 'a' and 't' in 'distance'",
+    "answer": "tdisatnce",
+    "p_answer": "tistance",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"t|is|tance\"",
+    "annotated_question": "Swap 'a' and 't' in d|i|s|t|a|n|c|e"
+  },
+  {
+    "question": "Swap 'e' and 's' in 'customer'",
+    "answer": "scutmoesr",
+    "p_answer": "customsr",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"c|u|s|t|o|m|s|r\"",
+    "annotated_question": "Swap 'e' and 's' in c|u|s|t|o|m|e|r"
+  },
+  {
+    "question": "Swap 'i' and 'n' in 'mountain'",
+    "answer": "nmoutnai",
+    "p_answer": "mountani",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"m|o|u|n|t|a|n|i\"\n}",
+    "annotated_question": "Swap 'i' and 'n' in m|o|u|n|t|a|i|n"
+  },
+  {
+    "question": "Swap 'o' and 'c' in 'protocol'",
+    "answer": "cporotol",
+    "p_answer": "proctol",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pr|oc|tol\"",
+    "annotated_question": "Swap 'o' and 'c' in p|r|o|t|o|c|o|l"
+  },
+  {
+    "question": "Swap 'e' and 'p' in 'employee'",
+    "answer": "pemloeyee",
+    "p_answer": "pmploypp",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"p|m|p|l|o|y|p|p\"\n}",
+    "annotated_question": "Swap 'e' and 'p' in e|m|p|l|o|y|e|e"
+  },
+  {
+    "question": "Swap 'a' and 'l' in 'challenge'",
+    "answer": "lcahllngee",
+    "p_answer": "chlallenge",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|h|l|a|l|l|e|n|g|e\"\n}",
+    "annotated_question": "Swap 'a' and 'l' in c|h|a|l|l|e|n|g|e"
+  },
+  {
+    "question": "Swap 'o' and 'd' in 'condition'",
+    "answer": "dcnoditino",
+    "p_answer": "cdnditidi",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|d|n|d|i|t|i|d|i\"\n}",
+    "annotated_question": "Swap 'o' and 'd' in c|o|n|d|i|t|i|o|n"
+  },
+  {
+    "question": "Swap 'e' and 'v' in 'adventure'",
+    "answer": "vdaevtnure",
+    "p_answer": "advnuvrue",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"advnuvrue\"",
+    "annotated_question": "Swap 'e' and 'v' in a|d|v|e|n|t|u|r|e"
+  },
+  {
+    "question": "Swap 'i' and 'r' in 'direction'",
+    "answer": "rdiection",
+    "p_answer": "drecti{on",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"d|r|e|c|t|i{o|n\"",
+    "annotated_question": "Swap 'i' and 'r' in d|i|r|e|c|t|i|o|n"
+  },
+  {
+    "question": "Swap 'u' and 't' in 'structure'",
+    "answer": "tsurtcure",
+    "p_answer": "structure",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"s|t|r|u|c|t|u|r|e\" becomes \"s|t|r|t|u|c|r|u|r\"\n}",
+    "annotated_question": "Swap 'u' and 't' in s|t|r|u|c|t|u|r|e"
+  },
+  {
+    "question": "Swap 'a' and 'd' in 'landscape'",
+    "answer": "dlasncap",
+    "p_answer": "ldanscape",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"l|d|a|n|s|c|a|p|e\"\n}",
+    "annotated_question": "Swap 'a' and 'd' in l|a|n|d|s|c|a|p|e"
+  },
+  {
+    "question": "Swap 'e' and 't' in 'statement'",
+    "answer": "tsattemen",
+    "p_answer": "statemtent",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"statemtent\"",
+    "annotated_question": "Swap 'e' and 't' in s|t|a|t|e|m|e|n|t"
+  },
+  {
+    "question": "Swap 'i' and 's' in 'provision'",
+    "answer": "sprvoisi",
+    "p_answer": "provission",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"provission\"",
+    "annotated_question": "Swap 'i' and 's' in p|r|o|v|i|s|i|o|n"
+  },
+  {
+    "question": "Swap 'o' and 'm' in 'promotion'",
+    "answer": "mporotino",
+    "p_answer": "pmortmion",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"pm|ort|mion\"",
+    "annotated_question": "Swap 'o' and 'm' in p|r|o|m|o|t|i|o|n"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'agreement'",
+    "answer": "rgaeremtn",
+    "p_answer": "argrermermnt",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ar|g|r|e|r|m|er|m|nt\"\n}",
+    "annotated_question": "Swap 'e' and 'r' in a|g|r|e|e|m|e|n|t"
+  },
+  {
+    "question": "Add 'z' after every 'n' in 'dean'",
+    "answer": "deazn",
+    "p_answer": "dezan",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dezan\"\n}",
+    "annotated_question": "Add 'z' after every 'n' in d|e|a|n"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'book'",
+    "answer": "booxk",
+    "p_answer": "bxoxox",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|x|o|x|o|x\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in b|o|o|k"
+  },
+  {
+    "question": "Add 'y' after every 'a' in 'cake'",
+    "answer": "cayke",
+    "p_answer": "cyayke",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"c|y|a|y|k|e\"\n}",
+    "annotated_question": "Add 'y' after every 'a' in c|a|k|e"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'fish'",
+    "answer": "fiwsh",
+    "p_answer": "fwish",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"f|wis|h\"",
+    "annotated_question": "Add 'w' after every 'i' in f|i|s|h"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'duck'",
+    "answer": "duzck",
+    "p_answer": "duzck",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|uzck\"",
+    "annotated_question": "Add 'z' after every 'u' in d|u|c|k"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'bell'",
+    "answer": "bexll",
+    "p_answer": "bxellxll",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|xell|xll\"",
+    "annotated_question": "Add 'x' after every 'e' in b|e|l|l"
+  },
+  {
+    "question": "Add 'y' after every 'a' in 'hand'",
+    "answer": "haynd",
+    "p_answer": "hyndy",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"h|y|ndy\"",
+    "annotated_question": "Add 'y' after every 'a' in h|a|n|d"
+  },
+  {
+    "question": "Add 'w' after every 'o' in 'door'",
+    "answer": "dowor",
+    "p_answer": "dwowr",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dwowr\"",
+    "annotated_question": "Add 'w' after every 'o' in d|o|o|r"
+  },
+  {
+    "question": "Add 'z' after every 'i' in 'milk'",
+    "answer": "mizlk",
+    "p_answer": "mzilk",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"m|zil|k\"",
+    "annotated_question": "Add 'z' after every 'i' in m|i|l|k"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'tree'",
+    "answer": "trexe",
+    "p_answer": "txrxxx",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"txr|x|xx\"",
+    "annotated_question": "Add 'x' after every 'e' in t|r|e|e"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'table'",
+    "answer": "tazble",
+    "p_answer": "tzblez",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"t|z|b|l|ez\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in t|a|b|l|e"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'photo'",
+    "answer": "phoxto",
+    "p_answer": "phxotx",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"phx|otx\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in p|h|o|t|o"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'sleep'",
+    "answer": "sleyep",
+    "p_answer": "slyeyep",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|lye|yep\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in s|l|e|e|p"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'light'",
+    "answer": "liwght",
+    "p_answer": "lwgwhtr",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lwgwhtr\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in l|i|g|h|t"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'sound'",
+    "answer": "sozund",
+    "p_answer": "souznd",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|o|uz|n|d\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in s|o|u|n|d"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'salty'",
+    "answer": "saxlty",
+    "p_answer": "saxty",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|ax|ty\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in s|a|l|t|y"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'green'",
+    "answer": "greyen",
+    "p_answer": "gyryyn",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"g|y|r|y|y|n\"",
+    "annotated_question": "Add 'y' after every 'e' in g|r|e|e|n"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'smile'",
+    "answer": "smiwle",
+    "p_answer": "swmiwlew",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sw|m|iw|l|ew\"",
+    "annotated_question": "Add 'w' after every 'i' in s|m|i|l|e"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'bloom'",
+    "answer": "blozom",
+    "p_answer": "bzlzm",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"b|z|l|z|m\"",
+    "annotated_question": "Add 'z' after every 'o' in b|l|o|o|m"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'sheep'",
+    "answer": "shexep",
+    "p_answer": "sxhp",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sx|hp\"",
+    "annotated_question": "Add 'x' after every 'e' in s|h|e|e|p"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'garden'",
+    "answer": "gazrden",
+    "p_answer": "gzarden",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"g|z|a|r|d|e|n\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in g|a|r|d|e|n"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'window'",
+    "answer": "wixndow",
+    "p_answer": "xindow",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"xindow\"",
+    "annotated_question": "Add 'x' after every 'o' in w|i|n|d|o|w"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'circle'",
+    "answer": "ciryche",
+    "p_answer": "cyrcly",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"c|y|r|c|l|y\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in c|i|r|c|l|e"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'spirit'",
+    "answer": "spiwrit",
+    "p_answer": "spwrit",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spwrit\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in s|p|i|r|i|t"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'autumn'",
+    "answer": "auztumn",
+    "p_answer": "azumn",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"a|z|u|m|n\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in a|u|t|u|m|n"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'shadow'",
+    "answer": "shaxdow",
+    "p_answer": "sxhaxxdxxoxxw",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"s|x|h|a|x|x|d|x|x|o|x|x|w\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in s|h|a|d|o|w"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'letter'",
+    "answer": "letyter",
+    "p_answer": "lyettyr",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"l|y|ett|y|r\"",
+    "annotated_question": "Add 'y' after every 'e' in l|e|t|t|e|r"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'vision'",
+    "answer": "viwsion",
+    "p_answer": "vwisowin",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"vwi|so|win\"",
+    "annotated_question": "Add 'w' after every 'i' in v|i|s|i|o|n"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'motion'",
+    "answer": "moztion",
+    "p_answer": "mzotizon",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"m|z|o|t|i|z|o|n\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in m|o|t|i|o|n"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'desert'",
+    "answer": "dexsert",
+    "p_answer": "dxserxt",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"dxserxt\"",
+    "annotated_question": "Add 'x' after every 'e' in d|e|s|e|r|t"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'blanket'",
+    "answer": "blaznket",
+    "p_answer": "bznkezet",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"bz|n|k|ez|et\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in b|l|a|n|k|e|t"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'control'",
+    "answer": "coxntrol",
+    "p_answer": "cxnxrxoxl",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|x|n|x|r|x|o|x|l\"",
+    "annotated_question": "Add 'x' after every 'o' in c|o|n|t|r|o|l"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'message'",
+    "answer": "mesysage",
+    "p_answer": "mysysaagy",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"mysysaagy\"",
+    "annotated_question": "Add 'y' after every 'e' in m|e|s|s|a|g|e"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'picture'",
+    "answer": "piwcture",
+    "p_answer": "pwictwrue",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pwictwrue\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in p|i|c|t|u|r|e"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'current'",
+    "answer": "curzrent",
+    "p_answer": "czrreznt",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|z|r|r|ezn|t\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in c|u|r|r|e|n|t"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'lantern'",
+    "answer": "laxntern",
+    "p_answer": "laxnterxn",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"l|a|xnterxn\"",
+    "annotated_question": "Add 'x' after every 'a' in l|a|n|t|e|r|n"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'present'",
+    "answer": "preysent",
+    "p_answer": "pryssynt",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pr|yss|ynt\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in p|r|e|s|e|n|t"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'fiction'",
+    "answer": "fiwction",
+    "p_answer": "fwictwion",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"f|w|i|c|t|w|i|o|n\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in f|i|c|t|i|o|n"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'freedom'",
+    "answer": "frezdom",
+    "p_answer": "fzreezm",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"f|z|r|e|ez|m\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in f|r|e|e|d|o|m"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'element'",
+    "answer": "elexment",
+    "p_answer": "xlxmxexmxenxt",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"x|l|x|m|xe|xm|xen|xt\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in e|l|e|m|e|n|t"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'calendar'",
+    "answer": "cazlendzar",
+    "p_answer": "czalezdar",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"c|z|a|l|ezd|ar\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in c|a|l|e|n|d|a|r"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'tomorrow'",
+    "answer": "toxmoxrrow",
+    "p_answer": "txmxrrxrx",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"t|x|m|x|r|r|x|r|x\"w\n}",
+    "annotated_question": "Add 'x' after every 'o' in t|o|m|o|r|r|o|w"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'sentence'",
+    "answer": "seyntyence",
+    "p_answer": "syntyncy",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"s|y|nt|y|nc|y\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in s|e|n|t|e|n|c|e"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'building'",
+    "answer": "buiwldiwng",
+    "p_answer": "buiwldiw",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"b|u|i|w|l|d|i|w\"|din|g\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in b|u|i|l|d|i|n|g"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'audience'",
+    "answer": "auzdiezce",
+    "p_answer": "azdience",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"a|z|d|i|e|n|c|e\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in a|u|d|i|e|n|c|e"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'distance'",
+    "answer": "dixstaxnce",
+    "p_answer": "dxisxtxaxxxxxxxxx",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"d|x|i|s|x|t|x|a|x|x|x|x|x|x|x|x|x\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in d|i|s|t|a|n|c|e"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'customer'",
+    "answer": "custoyemr",
+    "p_answer": "cusyymor",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"c|u|sy|y|m|o|r\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in c|u|s|t|o|m|e|r"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'mountain'",
+    "answer": "mouwtani",
+    "p_answer": "mouwntaiwin",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"m|ou|wnta|i|win\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in m|o|u|n|t|a|i|n"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'protocol'",
+    "answer": "protzocozl",
+    "p_answer": "przortzcol",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pr|z|ort|z|col\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in p|r|o|t|o|c|o|l"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'employee'",
+    "answer": "empxloyxee",
+    "p_answer": "xmployxe",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"xmployxe\"",
+    "annotated_question": "Add 'x' after every 'e' in e|m|p|l|o|y|e|e"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'challenge'",
+    "answer": "chazllenzge",
+    "p_answer": "czhazzlenge",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|z|h|a|zz|l|e|n|g|e\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in c|h|a|l|l|e|n|g|e"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'condition'",
+    "answer": "coxnditixn",
+    "p_answer": "cxoxixtixix{oxi{ox}",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|x|o|x|i|x|t|i|x|i|x{o|x|i{o|x}\"",
+    "annotated_question": "Add 'x' after every 'o' in c|o|n|d|i|t|i|o|n"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'adventure'",
+    "answer": "adyventuyre",
+    "p_answer": "adveniturere",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"adveniturere\"",
+    "annotated_question": "Add 'y' after every 'e' in a|d|v|e|n|t|u|r|e"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'direction'",
+    "answer": "dirwectiwon",
+    "p_answer": "dwirctwectiwon",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"d|wirc|twectiwon\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in d|i|r|e|c|t|i|o|n"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'structure'",
+    "answer": "struzctuzre",
+    "p_answer": "struzctzurez",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"s|t|r|uz|c|tz|u|r|ez\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in s|t|r|u|c|t|u|r|e"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'landscape'",
+    "answer": "laxndscaxpe",
+    "p_answer": "laxdxsxcxaxpxe",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"l|a|x|d|x|s|x|c|x|a|x|p|x|e\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in l|a|n|d|s|c|a|p|e"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'statement'",
+    "answer": "statyemyent",
+    "p_answer": "statymenyment",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"s|t|a|ty|m|e|ny|m|e|nt\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in s|t|a|t|e|m|e|n|t"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'provision'",
+    "answer": "prowvisiwon",
+    "p_answer": "provwisoin",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"provwisoin\"",
+    "annotated_question": "Add 'w' after every 'i' in p|r|o|v|i|s|i|o|n"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'promotion'",
+    "answer": "prozmotizon",
+    "p_answer": "przmzrzizrzizrzizrz",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"pr|z|m|z|r|z|i|z|r|z|i|z|r|z|i|z|r|z\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in p|r|o|m|o|t|i|o|n"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'agreement'",
+    "answer": "agryexemyent",
+    "p_answer": "algxrxxmxtnt",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"algxrxxmxtnt\"",
+    "annotated_question": "Add 'x' after every 'e' in a|g|r|e|e|m|e|n|t"
+  },
+  {
+    "question": "Remove 'e' after every 'd' in 'dear'",
+    "answer": "dar",
+    "p_answer": "dar",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|a|r\"",
+    "annotated_question": "Remove 'e' after every 'd' in d|e|ar"
+  },
+  {
+    "question": "Remove 'o' after every 'b' in 'book'",
+    "answer": "bok",
+    "p_answer": "bbbk",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|b||b|k\"",
+    "annotated_question": "Remove 'o' after every 'b' in b|o||o|k"
+  },
+  {
+    "question": "Remove 'a' after every 'c' in 'cake'",
+    "answer": "cke",
+    "p_answer": "cke",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\"p_answer\": \"ck|e\"}",
+    "annotated_question": "Remove 'a' after every 'c' in c|a|ke"
+  },
+  {
+    "question": "Remove 'i' after every 'f' in 'fish'",
+    "answer": "fsh",
+    "p_answer": "fsh",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"f|sh\"",
+    "annotated_question": "Remove 'i' after every 'f' in f|i|sh"
+  },
+  {
+    "question": "Remove 'u' after every 'd' in 'duck'",
+    "answer": "dck",
+    "p_answer": "dcck",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|cck\"",
+    "annotated_question": "Remove 'u' after every 'd' in d|u|ck"
+  },
+  {
+    "question": "Remove 'e' after every 'b' in 'bell'",
+    "answer": "bll",
+    "p_answer": "bll",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"b|ll\"",
+    "annotated_question": "Remove 'e' after every 'b' in b|e|ll"
+  },
+  {
+    "question": "Remove 'a' after every 'h' in 'hand'",
+    "answer": "hnd",
+    "p_answer": "hnd",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"h|nd\"",
+    "annotated_question": "Remove 'a' after every 'h' in h|a|nd"
+  },
+  {
+    "question": "Remove 'o' after every 'd' in 'door'",
+    "answer": "dor",
+    "p_answer": "dr",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"d|||r\"",
+    "annotated_question": "Remove 'o' after every 'd' in d|o||o|r"
+  },
+  {
+    "question": "Remove 'i' after every 'm' in 'milk'",
+    "answer": "mlk",
+    "p_answer": "mlk",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"mlk\"",
+    "annotated_question": "Remove 'i' after every 'm' in m|i|lk"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'tree'",
+    "answer": "tre",
+    "p_answer": "trare",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"tra||r|e\"\n}",
+    "annotated_question": "Remove 'e' after every 'r' in tr|e||e|"
+  },
+  {
+    "question": "Remove 'a' after every 't' in 'table'",
+    "answer": "tble",
+    "p_answer": "tble",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"t|b|le\"",
+    "annotated_question": "Remove 'a' after every 't' in t|a|ble"
+  },
+  {
+    "question": "Remove 'o' after every 'h' in 'photo'",
+    "answer": "phto",
+    "p_answer": "phth",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ph|t|h\"\n}",
+    "annotated_question": "Remove 'o' after every 'h' in ph|o|t|o|"
+  },
+  {
+    "question": "Remove 'e' after every 'l' in 'sleep'",
+    "answer": "slep",
+    "p_answer": "slalp",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sl|alp\"",
+    "annotated_question": "Remove 'e' after every 'l' in sl|e||e|p"
+  },
+  {
+    "question": "Remove 'i' after every 'l' in 'light'",
+    "answer": "lght",
+    "p_answer": "lght",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lght\"",
+    "annotated_question": "Remove 'i' after every 'l' in l|i|ght"
+  },
+  {
+    "question": "Remove 'u' after every 'o' in 'sound'",
+    "answer": "sond",
+    "p_answer": "sond",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|ond\"",
+    "annotated_question": "Remove 'u' after every 'o' in so|u|nd"
+  },
+  {
+    "question": "Remove 'a' after every 's' in 'salty'",
+    "answer": "slty",
+    "p_answer": "sltys",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"s|ltys\"",
+    "annotated_question": "Remove 'a' after every 's' in s|a|lty"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'green'",
+    "answer": "gren",
+    "p_answer": "grn",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"gr||n\"",
+    "annotated_question": "Remove 'e' after every 'r' in gr|e||e|n"
+  },
+  {
+    "question": "Remove 'i' after every 'm' in 'smile'",
+    "answer": "smle",
+    "p_answer": "smle",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sm|le\"",
+    "annotated_question": "Remove 'i' after every 'm' in sm|i|le"
+  },
+  {
+    "question": "Remove 'o' after every 'l' in 'bloom'",
+    "answer": "blom",
+    "p_answer": "bllm",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"bl|l|m\"",
+    "annotated_question": "Remove 'o' after every 'l' in bl|o||o|m"
+  },
+  {
+    "question": "Remove 'e' after every 'h' in 'sheep'",
+    "answer": "shep",
+    "p_answer": "shaap",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sh|a||ap\"",
+    "annotated_question": "Remove 'e' after every 'h' in sh|e||e|p"
+  },
+  {
+    "question": "Remove 'a' after every 'g' in 'garden'",
+    "answer": "grden",
+    "p_answer": "grden",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"g|rden\"",
+    "annotated_question": "Remove 'a' after every 'g' in g|a|rden"
+  },
+  {
+    "question": "Remove 'o' after every 'w' in 'window'",
+    "answer": "windw",
+    "p_answer": "windw",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"wind|w\"\n}",
+    "annotated_question": "Remove 'o' after every 'w' in wind|o|w"
+  },
+  {
+    "question": "Remove 'e' after every 'c' in 'circle'",
+    "answer": "circl",
+    "p_answer": "circlc",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"circl|c\"\n}",
+    "annotated_question": "Remove 'e' after every 'c' in circl|e|"
+  },
+  {
+    "question": "Remove 'i' after every 'p' in 'spirit'",
+    "answer": "sprt",
+    "p_answer": "sprt",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spr|t\"",
+    "annotated_question": "Remove 'i' after every 'p' in sp|i|r|i|t"
+  },
+  {
+    "question": "Remove 'u' after every 'a' in 'autumn'",
+    "answer": "atumn",
+    "p_answer": "altmn",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"altmn\"",
+    "annotated_question": "Remove 'u' after every 'a' in a|u|t|u|mn"
+  },
+  {
+    "question": "Remove 'a' after every 'h' in 'shadow'",
+    "answer": "shdow",
+    "p_answer": "shdw",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sh|dw\"\n}",
+    "annotated_question": "Remove 'a' after every 'h' in sh|a|dow"
+  },
+  {
+    "question": "Remove 'e' after every 't' in 'letter'",
+    "answer": "ltter",
+    "p_answer": "lttr",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ltt|r\"",
+    "annotated_question": "Remove 'e' after every 't' in l|e|tt|e|r"
+  },
+  {
+    "question": "Remove 'i' after every 'v' in 'vision'",
+    "answer": "vsion",
+    "p_answer": "vson",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"v|s|on\"",
+    "annotated_question": "Remove 'i' after every 'v' in v|i|s|i|on"
+  },
+  {
+    "question": "Remove 'o' after every 'm' in 'motion'",
+    "answer": "mtion",
+    "p_answer": "mitn",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"m|it|n\"\n}",
+    "annotated_question": "Remove 'o' after every 'm' in m|o|ti|o|n"
+  },
+  {
+    "question": "Remove 'e' after every 's' in 'desert'",
+    "answer": "dsert",
+    "p_answer": "dsrt",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"dsrt\"",
+    "annotated_question": "Remove 'e' after every 's' in d|e|s|e|rt"
+  },
+  {
+    "question": "Remove 'a' after every 'l' in 'blanket'",
+    "answer": "blnket",
+    "p_answer": "blnket",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"bl|nket\"",
+    "annotated_question": "Remove 'a' after every 'l' in bl|a|nket"
+  },
+  {
+    "question": "Remove 'o' after every 'c' in 'control'",
+    "answer": "cntrol",
+    "p_answer": "cntrll",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|ntr|ll\"",
+    "annotated_question": "Remove 'o' after every 'c' in c|o|ntr|o|l"
+  },
+  {
+    "question": "Remove 'e' after every 's' in 'message'",
+    "answer": "mssage",
+    "p_answer": "massaga",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"m|a|ssag|a\"",
+    "annotated_question": "Remove 'e' after every 's' in m|e|ssag|e|"
+  },
+  {
+    "question": "Remove 'i' after every 'p' in 'picture'",
+    "answer": "pcture",
+    "p_answer": "pctur",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"p|ctur\"",
+    "annotated_question": "Remove 'i' after every 'p' in p|i|cture"
+  },
+  {
+    "question": "Remove 'u' after every 'r' in 'current'",
+    "answer": "crrent",
+    "p_answer": "currnet",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"c|urrnet\"",
+    "annotated_question": "Remove 'u' after every 'r' in c|u|rrent"
+  },
+  {
+    "question": "Remove 'a' after every 'n' in 'lantern'",
+    "answer": "lntern",
+    "p_answer": "lntern",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"lntern\"",
+    "annotated_question": "Remove 'a' after every 'n' in l|a|ntern"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'present'",
+    "answer": "prsnt",
+    "p_answer": "prsnt",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pr|s|nt\"",
+    "annotated_question": "Remove 'e' after every 'r' in pr|e|s|e|nt"
+  },
+  {
+    "question": "Remove 'i' after every 'f' in 'fiction'",
+    "answer": "fction",
+    "p_answer": "fcton",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"f|ct|on\"",
+    "annotated_question": "Remove 'i' after every 'f' in f|i|ct|i|on"
+  },
+  {
+    "question": "Remove 'o' after every 'e' in 'freedom'",
+    "answer": "fredm",
+    "p_answer": "freedm",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"freed|m\"\n}",
+    "annotated_question": "Remove 'o' after every 'e' in freed|o|m"
+  },
+  {
+    "question": "Remove 'e' after every 'l' in 'element'",
+    "answer": "elmnt",
+    "p_answer": "lmnt",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"|l|m|nt\"",
+    "annotated_question": "Remove 'e' after every 'l' in |e|l|e|m|e|nt"
+  },
+  {
+    "question": "Remove 'a' after every 'c' in 'calendar'",
+    "answer": "clendar",
+    "p_answer": "clendcr",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"c|lend|cr\"\n}",
+    "annotated_question": "Remove 'a' after every 'c' in c|a|lend|a|r"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'tomorrow'",
+    "answer": "tmrrow",
+    "p_answer": "timrrow",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"t|im|rrow\"",
+    "annotated_question": "Remove 'o' after every 'r' in t|o|m|o|rr|o|w"
+  },
+  {
+    "question": "Remove 'e' after every 's' in 'sentence'",
+    "answer": "sntence",
+    "p_answer": "sntncnc",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"s|ntncnc\"",
+    "annotated_question": "Remove 'e' after every 's' in s|e|nt|e|nc|e|"
+  },
+  {
+    "question": "Remove 'i' after every 'u' in 'building'",
+    "answer": "bulding",
+    "p_answer": "buuldng",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"bu|ul|d|ng\"\n}",
+    "annotated_question": "Remove 'i' after every 'u' in bu|i|ld|i|ng"
+  },
+  {
+    "question": "Remove 'u' after every 'a' in 'audience'",
+    "answer": "adience",
+    "p_answer": "adience",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"a|dience\"",
+    "annotated_question": "Remove 'u' after every 'a' in a|u|dience"
+  },
+  {
+    "question": "Remove 'a' after every 't' in 'distance'",
+    "answer": "dstnce",
+    "p_answer": "distrnce",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"distrnce\"",
+    "annotated_question": "Remove 'a' after every 't' in dist|a|nce"
+  },
+  {
+    "question": "Remove 'e' after every 't' in 'customer'",
+    "answer": "custmr",
+    "p_answer": "customt",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"custom|t\"\n}",
+    "annotated_question": "Remove 'e' after every 't' in custom|e|r"
+  },
+  {
+    "question": "Remove 'i' after every 'a' in 'mountain'",
+    "answer": "mountan",
+    "p_answer": "mountaalyn",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mounta|alyn\"\n}",
+    "annotated_question": "Remove 'i' after every 'a' in mounta|i|n"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'protocol'",
+    "answer": "prtocl",
+    "p_answer": "prtcl",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pr|t|c|l\"",
+    "annotated_question": "Remove 'o' after every 'r' in pr|o|t|o|c|o|l"
+  },
+  {
+    "question": "Remove 'e' after every 'y' in 'employee'",
+    "answer": "employe",
+    "p_answer": "ymployyy",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ymployy|y\"",
+    "annotated_question": "Remove 'e' after every 'y' in |e|mploy|e||e|"
+  },
+  {
+    "question": "Remove 'a' after every 'h' in 'challenge'",
+    "answer": "chllenge",
+    "p_answer": "chllenge",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ch|llenge\"",
+    "annotated_question": "Remove 'a' after every 'h' in ch|a|llenge"
+  },
+  {
+    "question": "Remove 'o' after every 'c' in 'condition'",
+    "answer": "cndition",
+    "p_answer": "cnditcin",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"c|nditci|n\"\n}",
+    "annotated_question": "Remove 'o' after every 'c' in c|o|nditi|o|n"
+  },
+  {
+    "question": "Remove 'e' after every 'v' in 'adventure'",
+    "answer": "advnture",
+    "p_answer": "advnturv",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"advntur|v\"\n}",
+    "annotated_question": "Remove 'e' after every 'v' in adv|e|ntur|e|"
+  },
+  {
+    "question": "Remove 'i' after every 'r' in 'direction'",
+    "answer": "drection",
+    "p_answer": "",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"d|ect|r|\n}",
+    "annotated_question": "Remove 'i' after every 'r' in d|i|rect|i|on"
+  },
+  {
+    "question": "Remove 'u' after every 't' in 'structure'",
+    "answer": "strcture",
+    "p_answer": "strtcure",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"str|t|cure\"",
+    "annotated_question": "Remove 'u' after every 't' in str|u|ct|u|re"
+  },
+  {
+    "question": "Remove 'a' after every 'd' in 'landscape'",
+    "answer": "lndscape",
+    "p_answer": "lndscpe",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"l|ndsc|pe\"\n}",
+    "annotated_question": "Remove 'a' after every 'd' in l|a|ndsc|a|pe"
+  },
+  {
+    "question": "Remove 'e' after every 't' in 'statement'",
+    "answer": "statment",
+    "p_answer": "statmnt",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"stat|m|nt\"",
+    "annotated_question": "Remove 'e' after every 't' in stat|e|m|e|nt"
+  },
+  {
+    "question": "Remove 'i' after every 's' in 'provision'",
+    "answer": "provson",
+    "p_answer": "provspon",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"prov|s|p|on\"",
+    "annotated_question": "Remove 'i' after every 's' in prov|i|s|i|on"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'promotion'",
+    "answer": "prmotion",
+    "p_answer": "prmpritin",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"pr|m|pri|ti|n\"",
+    "annotated_question": "Remove 'o' after every 'r' in pr|o|m|o|ti|o|n"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'agreement'",
+    "answer": "agrment",
+    "p_answer": "agrmnt",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"agr||m|nt\"",
+    "annotated_question": "Remove 'e' after every 'r' in agr|e||e|m|e|nt"
+  }
+]

@@ -1,0 +1,6 @@
+Check the previous output and ensure it strictly follows the instruction.
+
+If incorrect, correct it and return again in this format:
+{
+ "p_answer": "<final transformed word only>"
+}

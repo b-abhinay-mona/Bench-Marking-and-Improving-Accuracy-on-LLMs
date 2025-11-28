@@ -1,0 +1,3 @@
+file,samples,overall_accuracy,swap_accuracy,add_accuracy
+llama3_tocad_swap_eval.json,2500,100.0,0.0,0.0
+llama3_tocad_swap_eval.jsonl,2500,100.0,0.0,0.0

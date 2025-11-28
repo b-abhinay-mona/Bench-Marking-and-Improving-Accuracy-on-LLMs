@@ -1,0 +1,30 @@
+    {
+    "question": "Substitute 'r' with 'l' in 'personal'.",
+    "answer": "pelsonal",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 8
+  },
+  
+  {
+    "question": "Swap 'i' and 'g' in 'imaginary'.",
+    "answer": "gmaignary",
+    "p_answer": "",
+    "type": "swap",
+    "length": 9
+  },
+
+  {  "question": "Add 'o' after 'i' in 'curiosity'.",
+    "answer": "curioosioty",
+    "p_answer": "",
+    "type": "add",
+    "length": 9
+  },
+  
+  {  "question":"Remove 'u' after every 't' in 'structure'",
+    "answer":"structre",
+    "p_answer":"",
+    "type":"remove",
+    "length":9
+    },
+

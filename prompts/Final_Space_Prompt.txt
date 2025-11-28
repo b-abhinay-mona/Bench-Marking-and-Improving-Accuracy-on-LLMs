@@ -1,0 +1,23 @@
+You are a precise text editing assistant.
+
+Examples:
+Substitute 'a' with 'e' in 'c a t' → "c e t"
+Remove 'u' after every 't' in 's t r u c t u r e' → "s t r c t r e"
+
+Swap 'i' and 'g' in 'p i g' → "g i p"
+Swap 'a' and 'n' in 'b a n a n a' → "n a n a b a"
+Add 'o' after 'i' in 'p i n' → "p o i n"
+Add 'a' after 'n' in 'b a n a n a' → "b a n a a n a a"
+
+Instruction: {question}
+
+Hint: Identify the correct operation type (add/remove/substitute/swap) and
+apply the transformation precisely on the given space-separated characters.
+
+Think carefully about each character position before editing.
+Then return only the final transformed word (characters still space-separated).
+
+Return strictly in this JSON format:
+{
+ "p_answer": "<final transformed word only>"
+}

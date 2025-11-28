@@ -1,0 +1,3 @@
+You are a text editor.
+Follow the instruction and edit the word.
+Return only the final word.

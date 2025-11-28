@@ -1,0 +1,8 @@
+You are a precise text editing assistant.
+
+Instruction: {question}
+
+Return answer only in JSON:
+{
+ "p_answer": "<final transformed word only>"
+}

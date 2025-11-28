@@ -1,0 +1,5006 @@
+[
+  {
+    "question": "Substitute 'r' with 's' in 'park'.",
+    "answer": "pask",
+    "p_answer": "psk",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"psk\"\n}",
+    "annotated_question": "Substitute 'r' with 's' in <<park>>."
+  },
+  {
+    "question": "Substitute 'c' with 't' in 'cake'.",
+    "answer": "take",
+    "p_answer": "take",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"take\"",
+    "annotated_question": "Substitute 'c' with 't' in <<cake>>."
+  },
+  {
+    "question": "Substitute 'l' with 'n' in 'leaf'.",
+    "answer": "neaf",
+    "p_answer": "neaf",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"neaf\"",
+    "annotated_question": "Substitute 'l' with 'n' in <<leaf>>."
+  },
+  {
+    "question": "Substitute 'k' with 'c' in 'bike'.",
+    "answer": "bice",
+    "p_answer": "bice",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bice\"",
+    "annotated_question": "Substitute 'k' with 'c' in <<bike>>."
+  },
+  {
+    "question": "Substitute 'e' with 'f' in 'dice'.",
+    "answer": "dicf",
+    "p_answer": "dificf",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dificf\"",
+    "annotated_question": "Substitute 'e' with 'f' in <<dice>>."
+  },
+  {
+    "question": "Substitute 'o' with 'k' in 'song'.",
+    "answer": "skng",
+    "p_answer": "sng",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"sng\"",
+    "annotated_question": "Substitute 'o' with 'k' in <<song>>."
+  },
+  {
+    "question": "Substitute 'h' with 'w' in 'fish'.",
+    "answer": "fisw",
+    "p_answer": "wsh",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"wsh\" \n}",
+    "annotated_question": "Substitute 'h' with 'w' in <<fish>>."
+  },
+  {
+    "question": "Substitute 't' with 'j' in 'hats'.",
+    "answer": "hajs",
+    "p_answer": "hajjs",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hajjs\"\n}",
+    "annotated_question": "Substitute 't' with 'j' in <<hats>>."
+  },
+  {
+    "question": "Substitute 't' with 'v' in 'tall'.",
+    "answer": "vall",
+    "p_answer": "vallv",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"vallv\"",
+    "annotated_question": "Substitute 't' with 'v' in <<tall>>."
+  },
+  {
+    "question": "Substitute 'j' with 'l' in 'gate'.",
+    "answer": "gate",
+    "p_answer": "gatel",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"gatel\"",
+    "annotated_question": "Substitute 'j' with 'l' in <<gate>>."
+  },
+  {
+    "question": "Substitute 's' with 'a' in 'house'.",
+    "answer": "houae",
+    "p_answer": "hause",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"hause\"",
+    "annotated_question": "Substitute 's' with 'a' in <<house>>."
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'table'.",
+    "answer": "tabli",
+    "p_answer": "taibl",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"taibl\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<table>>."
+  },
+  {
+    "question": "Substitute 'n' with 't' in 'night'.",
+    "answer": "tight",
+    "p_answer": "tight",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"tight\"\n}",
+    "annotated_question": "Substitute 'n' with 't' in <<night>>."
+  },
+  {
+    "question": "Substitute 'a' with 's' in 'brown'.",
+    "answer": "brown",
+    "p_answer": "brons",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"brons\"",
+    "annotated_question": "Substitute 'a' with 's' in <<brown>>."
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'water'.",
+    "answer": "weter",
+    "p_answer": "weter",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"weter\"\n}",
+    "annotated_question": "Substitute 'a' with 'e' in <<water>>."
+  },
+  {
+    "question": "Substitute 'c' with 'p' in 'clock'.",
+    "answer": "plopk",
+    "p_answer": "plock",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"plock\"",
+    "annotated_question": "Substitute 'c' with 'p' in <<clock>>."
+  },
+  {
+    "question": "Substitute 's' with 'l' in 'glass'.",
+    "answer": "glall",
+    "p_answer": "glalL",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"glalL\" \n}",
+    "annotated_question": "Substitute 's' with 'l' in <<glass>>."
+  },
+  {
+    "question": "Substitute 'o' with 'g' in 'plane'.",
+    "answer": "plane",
+    "p_answer": "plag",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"plag\"",
+    "annotated_question": "Substitute 'o' with 'g' in <<plane>>."
+  },
+  {
+    "question": "Substitute 'd' with 's' in 'cloud'.",
+    "answer": "clous",
+    "p_answer": "clows",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"clows\"\n}",
+    "annotated_question": "Substitute 'd' with 's' in <<cloud>>."
+  },
+  {
+    "question": "Substitute 'h' with 'b' in 'chair'.",
+    "answer": "cbair",
+    "p_answer": "cbair",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"cbair\"\n}",
+    "annotated_question": "Substitute 'h' with 'b' in <<chair>>."
+  },
+  {
+    "question": "Substitute 'p' with 'g' in 'purple'.",
+    "answer": "gurgle",
+    "p_answer": "<ggurple>",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"<ggurple>\" \n}",
+    "annotated_question": "Substitute 'p' with 'g' in <<purple>>."
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'orange'.",
+    "answer": "oramge",
+    "p_answer": "orame",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"orame\"",
+    "annotated_question": "Substitute 'n' with 'm' in <<orange>>."
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'forest'.",
+    "answer": "forast",
+    "p_answer": "forast",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"forast\"",
+    "annotated_question": "Substitute 'e' with 'a' in <<forest>>."
+  },
+  {
+    "question": "Substitute 'c' with 'k' in 'tackle'.",
+    "answer": "takkle",
+    "p_answer": "tackl",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"tackl\"",
+    "annotated_question": "Substitute 'c' with 'k' in <<tackle>>."
+  },
+  {
+    "question": "Substitute 'u' with 'a' in 'suaurdy'.",
+    "answer": "saaardy",
+    "p_answer": "sauardy",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sauardy\"\n}",
+    "annotated_question": "Substitute 'u' with 'a' in <<suaurdy>>."
+  },
+  {
+    "question": "Substitute 'k' with 'm' in 'monkey'.",
+    "answer": "monmey",
+    "p_answer": "monemoy",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"monemoy\"",
+    "annotated_question": "Substitute 'k' with 'm' in <<monkey>>."
+  },
+  {
+    "question": "Substitute 'h' with 'i' in 'bright'.",
+    "answer": "brigit",
+    "p_answer": "briit",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"briit\"\n}",
+    "annotated_question": "Substitute 'h' with 'i' in <<bright>>."
+  },
+  {
+    "question": "Substitute 'b' with 'd' in 'rabbit'.",
+    "answer": "raddit",
+    "p_answer": "ddabbit",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ddabbit\"\n}",
+    "annotated_question": "Substitute 'b' with 'd' in <<rabbit>>."
+  },
+  {
+    "question": "Substitute 'n' with 'l' in 'window'.",
+    "answer": "wildow",
+    "p_answer": "wolowd",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"wolowd\"\n}",
+    "annotated_question": "Substitute 'n' with 'l' in <<window>>."
+  },
+  {
+    "question": "Substitute 'e' with 'n' in 'street'.",
+    "answer": "strnnt",
+    "p_answer": "strnnt",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"strnnt\"",
+    "annotated_question": "Substitute 'e' with 'n' in <<street>>."
+  },
+  {
+    "question": "Substitute 'c' with 'l' in 'channel'.",
+    "answer": "lhannel",
+    "p_answer": "lannel",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"lannel\"",
+    "annotated_question": "Substitute 'c' with 'l' in <<channel>>."
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'element'.",
+    "answer": "ilimint",
+    "p_answer": "liment",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"liment\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<element>>."
+  },
+  {
+    "question": "Substitute 'e' with 't' in 'teacher'.",
+    "answer": "ttachtr",
+    "p_answer": "tachttr",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"tachttr\"",
+    "annotated_question": "Substitute 'e' with 't' in <<teacher>>."
+  },
+  {
+    "question": "Substitute 'p' with 'k' in 'prepare'.",
+    "answer": "krekare",
+    "p_answer": "kpare",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"kpare\"\n}",
+    "annotated_question": "Substitute 'p' with 'k' in <<prepare>>."
+  },
+  {
+    "question": "Substitute 't' with 'b' in 'perfect'.",
+    "answer": "perfecb",
+    "p_answer": "perfeb",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"perfeb\"",
+    "annotated_question": "Substitute 't' with 'b' in <<perfect>>."
+  },
+  {
+    "question": "Substitute 's' with 'v' in 'sunrise'.",
+    "answer": "vunrive",
+    "p_answer": "uvnvr",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"uvnvr\" \n}",
+    "annotated_question": "Substitute 's' with 'v' in <<sunrise>>."
+  },
+  {
+    "question": "Substitute 'k' with 'a' in 'country'.",
+    "answer": "country",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "I'm ready to assist. What is the country you'd like me to substitute 'k' with 'a' for?",
+    "annotated_question": "Substitute 'k' with 'a' in <<country>>."
+  },
+  {
+    "question": "Substitute 'l' with 'g' in 'village'.",
+    "answer": "viggage",
+    "p_answer": "village",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"village\" \n}",
+    "annotated_question": "Substitute 'l' with 'g' in <<village>>."
+  },
+  {
+    "question": "Substitute 'o' with 'r' in 'support'.",
+    "answer": "supprrt",
+    "p_answer": "surrprt",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"surrprt\"",
+    "annotated_question": "Substitute 'o' with 'r' in <<support>>."
+  },
+  {
+    "question": "Substitute 'd' with 'g' in 'believe'.",
+    "answer": "believe",
+    "p_answer": "beGieve",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"beGieve\"\n}",
+    "annotated_question": "Substitute 'd' with 'g' in <<believe>>."
+  },
+  {
+    "question": "Substitute 'b' with 'p' in 'building'.",
+    "answer": "puilding",
+    "p_answer": "ppuilding",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ppuilding\"\n}",
+    "annotated_question": "Substitute 'b' with 'p' in <<building>>."
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'opposite'.",
+    "answer": "opposote",
+    "p_answer": "oppoeote",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"oppoeote\"",
+    "annotated_question": "Substitute 'i' with 'o' in <<opposite>>."
+  },
+  {
+    "question": "Substitute 'g' with 's' in 'language'.",
+    "answer": "lansuase",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "To substitute 'g' with 's', I will apply the transformation to the language. However, you didn't specify a language. Please provide a language, and I'll be happy to assist you.\n\nOnce you provide the language, I'll transform it according to your instruction and return the result in the specified JSON format.",
+    "annotated_question": "Substitute 'g' with 's' in <<language>>."
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'mountain'.",
+    "answer": "mountiin",
+    "p_answer": "mounitn",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mounitn\"\n}",
+    "annotated_question": "Substitute 'a' with 'i' in <<mountain>>."
+  },
+  {
+    "question": "Substitute 'd' with 't' in 'friendly'.",
+    "answer": "friently",
+    "p_answer": "frienlt",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"frienlt\" \n}",
+    "annotated_question": "Substitute 'd' with 't' in <<friendly>>."
+  },
+  {
+    "question": "Substitute 'f' with 'l' in 'powerful'.",
+    "answer": "powerlul",
+    "p_answer": "<powerfl>",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"<powerfl>\"",
+    "annotated_question": "Substitute 'f' with 'l' in <<powerful>>."
+  },
+  {
+    "question": "Substitute 'c' with 'g' in 'together'.",
+    "answer": "together",
+    "p_answer": "togther",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"togther\"",
+    "annotated_question": "Substitute 'c' with 'g' in <<together>>."
+  },
+  {
+    "question": "Substitute 's' with 'h' in 'question'.",
+    "answer": "quehtion",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "I'm ready to assist. What is the question you'd like me to transform?",
+    "annotated_question": "Substitute 's' with 'h' in <<question>>."
+  },
+  {
+    "question": "Substitute 'w' with 'd' in 'download'.",
+    "answer": "dodnload",
+    "p_answer": "dlownoad",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"dlownoad\"\n}",
+    "annotated_question": "Substitute 'w' with 'd' in <<download>>."
+  },
+  {
+    "question": "Substitute 'r' with 'l' in 'personal'.",
+    "answer": "pelsonal",
+    "p_answer": "peonal",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"peonal\" \n}",
+    "annotated_question": "Substitute 'r' with 'l' in <<personal>>."
+  },
+  {
+    "question": "Substitute 'e' with 'u' in 'expensive'.",
+    "answer": "uxpunsivu",
+    "p_answer": "xupnsivu",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"xupnsivu\"",
+    "annotated_question": "Substitute 'e' with 'u' in <<expensive>>."
+  },
+  {
+    "question": "Substitute 't' with 'v' in 'apartment'.",
+    "answer": "aparvmenv",
+    "p_answer": "apavement",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"apavement\" \n}",
+    "annotated_question": "Substitute 't' with 'v' in <<apartment>>."
+  },
+  {
+    "question": "Substitute 'r' with 'n' in 'container'.",
+    "answer": "containen",
+    "p_answer": "cnonntner",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"cnonntner\"",
+    "annotated_question": "Substitute 'r' with 'n' in <<container>>."
+  },
+  {
+    "question": "Substitute 'p' with 'b' in 'important'.",
+    "answer": "imbortant",
+    "p_answer": "<b>important</b>",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"<b>important</b>\"\n}",
+    "annotated_question": "Substitute 'p' with 'b' in <<important>>."
+  },
+  {
+    "question": "Substitute 'e' with 'f' in 'different'.",
+    "answer": "difffrfnt",
+    "p_answer": "diffrnt",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"diffrnt\"",
+    "annotated_question": "Substitute 'e' with 'f' in <<different>>."
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'beautiful'.",
+    "answer": "beaetifel",
+    "p_answer": "beautifel",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beautifel\" \n}",
+    "annotated_question": "Substitute 'u' with 'e' in <<beautiful>>."
+  },
+  {
+    "question": "Substitute 's' with 't' in 'wonderful'.",
+    "answer": "wonderful",
+    "p_answer": "wondertful",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wondertful\"\n}",
+    "annotated_question": "Substitute 's' with 't' in <<wonderful>>."
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'knowledge'.",
+    "answer": "kmowledge",
+    "p_answer": "kmowledge",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"kmowledge\"\n}",
+    "annotated_question": "Substitute 'n' with 'm' in <<knowledge>>."
+  },
+  {
+    "question": "Substitute 'f' with 'v' in 'wonderful'.",
+    "answer": "wondervul",
+    "p_answer": "wonderful",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wonderful\" \n}",
+    "annotated_question": "Substitute 'f' with 'v' in <<wonderful>>."
+  },
+  {
+    "question": "Substitute 's' with 'z' in 'excellent'.",
+    "answer": "excellent",
+    "p_answer": "xzcellez",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"xzcellez\"\n}",
+    "annotated_question": "Substitute 's' with 'z' in <<excellent>>."
+  },
+  {
+    "question": "Swap 't' and 'e' in 'time'.",
+    "answer": "eimt",
+    "p_answer": "imie",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"imie\" \n}",
+    "annotated_question": "Swap 't' and 'e' in <<time>>."
+  },
+  {
+    "question": "Swap 'w' and 'a' in 'wash'.",
+    "answer": "awsh",
+    "p_answer": "ash",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ash\"",
+    "annotated_question": "Swap 'w' and 'a' in <<wash>>."
+  },
+  {
+    "question": "Swap 'l' and 'p' in 'lamp'.",
+    "answer": "paml",
+    "p_answer": "plamp",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"plamp\"\n}",
+    "annotated_question": "Swap 'l' and 'p' in <<lamp>>."
+  },
+  {
+    "question": "Swap 'c' and 'o' in 'cold'.",
+    "answer": "ocld",
+    "p_answer": "old",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"old\"",
+    "annotated_question": "Swap 'c' and 'o' in <<cold>>."
+  },
+  {
+    "question": "Swap 'k' and 'e' in 'kind'.",
+    "answer": "eind",
+    "p_answer": "ind",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ind\"",
+    "annotated_question": "Swap 'k' and 'e' in <<kind>>."
+  },
+  {
+    "question": "Swap 'a' and 'o' in 'goal'.",
+    "answer": "gaol",
+    "p_answer": "goal",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"goal\" \n}",
+    "annotated_question": "Swap 'a' and 'o' in <<goal>>."
+  },
+  {
+    "question": "Swap 'w' and 'h' in 'show'.",
+    "answer": "swoh",
+    "p_answer": "shoh",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"shoh\"\n}",
+    "annotated_question": "Swap 'w' and 'h' in <<show>>."
+  },
+  {
+    "question": "Swap 'd' and 'i' in 'ride'.",
+    "answer": "rdie",
+    "p_answer": "ride",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ride\"",
+    "annotated_question": "Swap 'd' and 'i' in <<ride>>."
+  },
+  {
+    "question": "Swap 'n' and 'a' in 'name'.",
+    "answer": "anme",
+    "p_answer": "haoJ",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "Since I don't have any information about the name, I'll use a placeholder. Let's say the name is \"John\".\n\nSwapping 'n' and 'a' in \"John\" results in \"haoJ\". \n\nHere is the JSON response:\n\n{\n  \"p_answer\": \"haoJ\"\n}",
+    "annotated_question": "Swap 'n' and 'a' in <<name>>."
+  },
+  {
+    "question": "Swap 't' and 'h' in 'that'.",
+    "answer": "htah",
+    "p_answer": "hatc",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hatc\"",
+    "annotated_question": "Swap 't' and 'h' in <<that>>."
+  },
+  {
+    "question": "Swap 'a' and 'i' in 'train'.",
+    "answer": "trian",
+    "p_answer": "trian",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"trian\"",
+    "annotated_question": "Swap 'a' and 'i' in <<train>>."
+  },
+  {
+    "question": "Swap 'e' and 'a' in 'beach'.",
+    "answer": "baech",
+    "p_answer": "baach",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"baach\" \n}",
+    "annotated_question": "Swap 'e' and 'a' in <<beach>>."
+  },
+  {
+    "question": "Swap 'o' and 'u' in 'group'.",
+    "answer": "gruop",
+    "p_answer": "grop",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"grop\"",
+    "annotated_question": "Swap 'o' and 'u' in <<group>>."
+  },
+  {
+    "question": "Swap 'c' and 'l' in 'cloud'.",
+    "answer": "lcoud",
+    "p_answer": "loud",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"loud\"\n}",
+    "annotated_question": "Swap 'c' and 'l' in <<cloud>>."
+  },
+  {
+    "question": "Swap 's' and 'e' in 'house'.",
+    "answer": "houes",
+    "p_answer": "hoese",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"hoese\" \n}",
+    "annotated_question": "Swap 's' and 'e' in <<house>>."
+  },
+  {
+    "question": "Swap 'p' and 'a' in 'paper'.",
+    "answer": "apaer",
+    "p_answer": "apaper",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"apaper\"\n}",
+    "annotated_question": "Swap 'p' and 'a' in <<paper>>."
+  },
+  {
+    "question": "Swap 'k' and 't' in 'black'.",
+    "answer": "blact",
+    "p_answer": "blac<|f0|>t",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"blac<|f0|>t\"",
+    "annotated_question": "Swap 'k' and 't' in <<black>>."
+  },
+  {
+    "question": "Swap 'a' and 'u' in 'drive'.",
+    "answer": "drive",
+    "p_answer": "divue",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"divue\"\n}",
+    "annotated_question": "Swap 'a' and 'u' in <<drive>>."
+  },
+  {
+    "question": "Swap 'l' and 'e' in 'clean'.",
+    "answer": "celan",
+    "p_answer": "cean",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"cean\"",
+    "annotated_question": "Swap 'l' and 'e' in <<clean>>."
+  },
+  {
+    "question": "Swap 'w' and 'o' in 'world'.",
+    "answer": "owrld",
+    "p_answer": "orld",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"orld\"",
+    "annotated_question": "Swap 'w' and 'o' in <<world>>."
+  },
+  {
+    "question": "Swap 'h' and 'i' in 'behind'.",
+    "answer": "beihnd",
+    "p_answer": "beidn",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"beidn\" \n}",
+    "annotated_question": "Swap 'h' and 'i' in <<behind>>."
+  },
+  {
+    "question": "Swap 'n' and 'e' in 'online'.",
+    "answer": "oelien",
+    "p_answer": "onlinl",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"onlinl\"",
+    "annotated_question": "Swap 'n' and 'e' in <<online>>."
+  },
+  {
+    "question": "Swap 'p' and 'o' in 'people'.",
+    "answer": "oepole",
+    "p_answer": "pleoe",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"pleoe\" \n}",
+    "annotated_question": "Swap 'p' and 'o' in <<people>>."
+  },
+  {
+    "question": "Swap 'i' and 'o' in 'mobile'.",
+    "answer": "mibole",
+    "p_answer": "mobole",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"mobole\" \n}",
+    "annotated_question": "Swap 'i' and 'o' in <<mobile>>."
+  },
+  {
+    "question": "Swap 'd' and 'a' in 'garden'.",
+    "answer": "gdraen",
+    "p_answer": "agaren",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"agaren\"",
+    "annotated_question": "Swap 'd' and 'a' in <<garden>>."
+  },
+  {
+    "question": "Swap 'r' and 's' in 'street'.",
+    "answer": "rtseet",
+    "p_answer": "streeet",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"streeet\" \n}",
+    "annotated_question": "Swap 'r' and 's' in <<street>>."
+  },
+  {
+    "question": "Swap 'u' and 'e' in 'unique'.",
+    "answer": "eniqeu",
+    "p_answer": "unike",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"unike\"",
+    "annotated_question": "Swap 'u' and 'e' in <<unique>>."
+  },
+  {
+    "question": "Swap 't' and 'o' in 'ticket'.",
+    "answer": "oickeo",
+    "p_answer": "icket",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"icket\"",
+    "annotated_question": "Swap 't' and 'o' in <<ticket>>."
+  },
+  {
+    "question": "Swap 'c' and 'o' in 'course'.",
+    "answer": "ocurse",
+    "p_answer": "ours",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ours\"",
+    "annotated_question": "Swap 'c' and 'o' in <<course>>."
+  },
+  {
+    "question": "Swap 'v' and 'i' in 'travel'.",
+    "answer": "traiel",
+    "p_answer": "travil",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"travil\"\n}",
+    "annotated_question": "Swap 'v' and 'i' in <<travel>>."
+  },
+  {
+    "question": "Swap 'l' and 'i' in 'special'.",
+    "answer": "speclai",
+    "p_answer": "spicial",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"spicial\" \n}",
+    "annotated_question": "Swap 'l' and 'i' in <<special>>."
+  },
+  {
+    "question": "Swap 'o' and 'p' in 'improve'.",
+    "answer": "imorpve",
+    "p_answer": "impore",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"impore\"\n}",
+    "annotated_question": "Swap 'o' and 'p' in <<improve>>."
+  },
+  {
+    "question": "Swap 'e' and 'c' in 'perfect'.",
+    "answer": "pcrfcet",
+    "p_answer": "pcrfct",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pcrfct\"",
+    "annotated_question": "Swap 'e' and 'c' in <<perfect>>."
+  },
+  {
+    "question": "Swap 'u' and 'o' in 'holiday'.",
+    "answer": "huliday",
+    "p_answer": "holiiday",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"holiiday\"\n}",
+    "annotated_question": "Swap 'u' and 'o' in <<holiday>>."
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'another'.",
+    "answer": "anothre",
+    "p_answer": "anothar",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"anothar\"\n}",
+    "annotated_question": "Swap 'e' and 'r' in <<another>>."
+  },
+  {
+    "question": "Swap 'a' and 'e' in 'general'.",
+    "answer": "ganarel",
+    "p_answer": "genelr",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"genelr\"",
+    "annotated_question": "Swap 'a' and 'e' in <<general>>."
+  },
+  {
+    "question": "Swap 'o' and 'n' in 'control'.",
+    "answer": "cnotrnl",
+    "p_answer": "cntrl",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"cntrl\" \n}",
+    "annotated_question": "Swap 'o' and 'n' in <<control>>."
+  },
+  {
+    "question": "Swap 'i' and 'a' in 'history'.",
+    "answer": "hostiry",
+    "p_answer": "histrory",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"histrory\"\n}",
+    "annotated_question": "Swap 'i' and 'a' in <<history>>."
+  },
+  {
+    "question": "Swap 'l' and 't' in 'problem'.",
+    "answer": "probtem",
+    "p_answer": "",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "I'm ready to assist. What is the input string?",
+    "annotated_question": "Swap 'l' and 't' in <<problem>>."
+  },
+  {
+    "question": "Swap 'e' and 'u' in 'support'.",
+    "answer": "sepport",
+    "p_answer": "suppot",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"suppot\" \n}",
+    "annotated_question": "Swap 'e' and 'u' in <<support>>."
+  },
+  {
+    "question": "Swap 'a' and 'i' in 'favorite'.",
+    "answer": "fivorate",
+    "p_answer": "fivorite",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"fivorite\"\n}",
+    "annotated_question": "Swap 'a' and 'i' in <<favorite>>."
+  },
+  {
+    "question": "Swap 'i' and 'e' in 'together'.",
+    "answer": "togithir",
+    "p_answer": "tegero",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"tegero\" \n}",
+    "annotated_question": "Swap 'i' and 'e' in <<together>>."
+  },
+  {
+    "question": "Swap 'a' and 'o' in 'powerful'.",
+    "answer": "pawerful",
+    "p_answer": "poweful",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"poweful\"\n}",
+    "annotated_question": "Swap 'a' and 'o' in <<powerful>>."
+  },
+  {
+    "question": "Swap 'u' and 'l' in 'building'.",
+    "answer": "bliuding",
+    "p_answer": "buildling",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"buildling\"\n}",
+    "annotated_question": "Swap 'u' and 'l' in <<building>>."
+  },
+  {
+    "question": "Swap 'e' and 's' in 'personal'.",
+    "answer": "psreonal",
+    "p_answer": "persnal",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"persnal\"\n}",
+    "annotated_question": "Swap 'e' and 's' in <<personal>>."
+  },
+  {
+    "question": "Swap 'r' and 'o' in 'computer'.",
+    "answer": "crmputeo",
+    "p_answer": "compoer",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"compoer\"\n}",
+    "annotated_question": "Swap 'r' and 'o' in <<computer>>."
+  },
+  {
+    "question": "Swap 'i' and 'n' in 'question'.",
+    "answer": "questnoi",
+    "p_answer": "",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "I'm ready to assist. What is the question?",
+    "annotated_question": "Swap 'i' and 'n' in <<question>>."
+  },
+  {
+    "question": "Swap 'y' and 'a' in 'friendly'.",
+    "answer": "friendla",
+    "p_answer": "frendial",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"frendial\"",
+    "annotated_question": "Swap 'y' and 'a' in <<friendly>>."
+  },
+  {
+    "question": "Swap 'u' and 'a' in 'language'.",
+    "answer": "lungauge",
+    "p_answer": "anglais",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "Since the instruction is to swap 'u' and 'a' in the language, I'll assume the language is \"English\". Here's the result:\n\n\n{\n  \"p_answer\": \"anglais\"\n}",
+    "annotated_question": "Swap 'u' and 'a' in <<language>>."
+  },
+  {
+    "question": "Swap 's' and 'i' in 'business'.",
+    "answer": "buisneii",
+    "p_answer": "busines",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"busines\"",
+    "annotated_question": "Swap 's' and 'i' in <<business>>."
+  },
+  {
+    "question": "Swap 'o' and 'i' in 'important'.",
+    "answer": "ompirtant",
+    "p_answer": "<impotni>",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"<impotni>\" \n}",
+    "annotated_question": "Swap 'o' and 'i' in <<important>>."
+  },
+  {
+    "question": "Swap 'a' and 'e' in 'beautiful'.",
+    "answer": "baeutiful",
+    "p_answer": "beautifl",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beautifl\"\n}",
+    "annotated_question": "Swap 'a' and 'e' in <<beautiful>>."
+  },
+  {
+    "question": "Swap 'c' and 'r' in 'container'.",
+    "answer": "rontainec",
+    "p_answer": "tainer",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"tainer\" \n}",
+    "annotated_question": "Swap 'c' and 'r' in <<container>>."
+  },
+  {
+    "question": "Swap 'u' and 'i' in 'curiosity'.",
+    "answer": "ciruosuty",
+    "p_answer": "ciriity",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ciriity\"\n}",
+    "annotated_question": "Swap 'u' and 'i' in <<curiosity>>."
+  },
+  {
+    "question": "Swap 'r' and 's' in 'wonderful'.",
+    "answer": "wondesful",
+    "p_answer": "wonsderful",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wonsderful\"\n}",
+    "annotated_question": "Swap 'r' and 's' in <<wonderful>>."
+  },
+  {
+    "question": "Swap 'i' and 'e' in 'excellent'.",
+    "answer": "ixcillint",
+    "p_answer": "exellent",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"exellent\"\n}",
+    "annotated_question": "Swap 'i' and 'e' in <<excellent>>."
+  },
+  {
+    "question": "Swap 'p' and 'a' in 'apartment'.",
+    "answer": "paprtment",
+    "p_answer": "apartmen",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"apartmen\"",
+    "annotated_question": "Swap 'p' and 'a' in <<apartment>>."
+  },
+  {
+    "question": "Swap 'l' and 'd' in 'knowledge'.",
+    "answer": "knowdelge",
+    "p_answer": "knwdege",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"knwdege\"",
+    "annotated_question": "Swap 'l' and 'd' in <<knowledge>>."
+  },
+  {
+    "question": "Swap 't' and 'e' in 'different'.",
+    "answer": "difftrtne",
+    "p_answer": "diferent",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"diferent\"",
+    "annotated_question": "Swap 't' and 'e' in <<different>>."
+  },
+  {
+    "question": "Swap 'i' and 'g' in 'imaginary'.",
+    "answer": "gmaignary",
+    "p_answer": "maginary",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"maginary\"\n}",
+    "annotated_question": "Swap 'i' and 'g' in <<imaginary>>."
+  },
+  {
+    "question": "Add 'e' after 'k' in 'book'.",
+    "answer": "booke",
+    "p_answer": "booke",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"booke\"\n}",
+    "annotated_question": "Add 'e' after 'k' in <<book>>."
+  },
+  {
+    "question": "Add 'a' after 't' in 'cat'.",
+    "answer": "cata",
+    "p_answer": "cat",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"cat\"\n}",
+    "annotated_question": "Add 'a' after 't' in <<cat>>."
+  },
+  {
+    "question": "Add 'o' after 'l' in 'long'.",
+    "answer": "loong",
+    "p_answer": "longo",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"longo\"\n}",
+    "annotated_question": "Add 'o' after 'l' in <<long>>."
+  },
+  {
+    "question": "Add 'i' after 'f' in 'fast'.",
+    "answer": "fiast",
+    "p_answer": "fasti",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fasti\"\n}",
+    "annotated_question": "Add 'i' after 'f' in <<fast>>."
+  },
+  {
+    "question": "Add 's' after 'u' in 'true'.",
+    "answer": "truse",
+    "p_answer": "true's",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"true's\"\n}",
+    "annotated_question": "Add 's' after 'u' in <<true>>."
+  },
+  {
+    "question": "Add 'e' after 'r' in 'run'.",
+    "answer": "reun",
+    "p_answer": "rune",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"rune\"\n}",
+    "annotated_question": "Add 'e' after 'r' in <<run>>."
+  },
+  {
+    "question": "Add 'z' after 'c' in 'coke'.",
+    "answer": "czoke",
+    "p_answer": "cocke",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"cocke\"\n}",
+    "annotated_question": "Add 'z' after 'c' in <<coke>>."
+  },
+  {
+    "question": "Add 't' after 'h' in 'hat'.",
+    "answer": "htat",
+    "p_answer": "hat",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hat\"\n}",
+    "annotated_question": "Add 't' after 'h' in <<hat>>."
+  },
+  {
+    "question": "Add 'y' after 'l' in 'will'.",
+    "answer": "wilyly",
+    "p_answer": "will'y",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"will'y\"\n}",
+    "annotated_question": "Add 'y' after 'l' in <<will>>."
+  },
+  {
+    "question": "Add 'j' after 'o' in 'soon'.",
+    "answer": "sojojn",
+    "p_answer": "sooj",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"sooj\"\n}",
+    "annotated_question": "Add 'j' after 'o' in <<soon>>."
+  },
+  {
+    "question": "Add 'b' after 'i' in 'short'.",
+    "answer": "short",
+    "p_answer": "i<b>b",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"i<b>b\"\n}",
+    "annotated_question": "Add 'b' after 'i' in <<short>>."
+  },
+  {
+    "question": "Add 'r' after 'l' in 'world'.",
+    "answer": "worlld",
+    "p_answer": "worlrd",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"worlrd\"\n}",
+    "annotated_question": "Add 'r' after 'l' in <<world>>."
+  },
+  {
+    "question": "Add 'c' after 'a' in 'paper'.",
+    "answer": "pacper",
+    "p_answer": "aperc",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"aperc\"\n}",
+    "annotated_question": "Add 'c' after 'a' in <<paper>>."
+  },
+  {
+    "question": "Add 'i' after 'p' in 'place'.",
+    "answer": "pilace",
+    "p_answer": "placei",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"placei\"\n}",
+    "annotated_question": "Add 'i' after 'p' in <<place>>."
+  },
+  {
+    "question": "Add 's' after 'h' in 'house'.",
+    "answer": "hsouse",
+    "p_answer": "house's",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"house's\"\n}",
+    "annotated_question": "Add 's' after 'h' in <<house>>."
+  },
+  {
+    "question": "Add 't' after 'r' in 'river'.",
+    "answer": "rtivert",
+    "p_answer": "rivert",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"rivert\"\n}",
+    "annotated_question": "Add 't' after 'r' in <<river>>."
+  },
+  {
+    "question": "Add 'a' after 'k' in 'clean'.",
+    "answer": "clean",
+    "p_answer": "cleana",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"cleana\"\n}",
+    "annotated_question": "Add 'a' after 'k' in <<clean>>."
+  },
+  {
+    "question": "Add 'v' after 'i' in 'drive'.",
+    "answer": "drivve",
+    "p_answer": "i<drive>v",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"i<drive>v\"\n}",
+    "annotated_question": "Add 'v' after 'i' in <<drive>>."
+  },
+  {
+    "question": "Add 'e' after 'p' in 'apple'.",
+    "answer": "apepele",
+    "p_answer": "apple",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"apple\"\n}",
+    "annotated_question": "Add 'e' after 'p' in <<apple>>."
+  },
+  {
+    "question": "Add 'u' after 'l' in 'plane'.",
+    "answer": "pluane",
+    "p_answer": "planeu",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"planeu\"\n}",
+    "annotated_question": "Add 'u' after 'l' in <<plane>>."
+  },
+  {
+    "question": "Add 'h' after 'e' in 'people'.",
+    "answer": "pehopleh",
+    "p_answer": "peopl<h>",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"peopl<h>\"\n}",
+    "annotated_question": "Add 'h' after 'e' in <<people>>."
+  },
+  {
+    "question": "Add 'zz' after 'n' in 'online'.",
+    "answer": "onzzlinzze",
+    "p_answer": "onlinezz",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"onlinezz\"\n}",
+    "annotated_question": "Add 'zz' after 'n' in <<online>>."
+  },
+  {
+    "question": "Add 'rh' after 'u' in 'summer'.",
+    "answer": "surhmmer",
+    "p_answer": "summerh",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"summerh\"\n}",
+    "annotated_question": "Add 'rh' after 'u' in <<summer>>."
+  },
+  {
+    "question": "Add 'e' after 'r' in 'garden'.",
+    "answer": "gareden",
+    "p_answer": "garene",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"garene\"\n}",
+    "annotated_question": "Add 'e' after 'r' in <<garden>>."
+  },
+  {
+    "question": "Add 'oq' after 't' in 'ticket'.",
+    "answer": "toqicketoq",
+    "p_answer": "t oq",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"t oq\"\n}",
+    "annotated_question": "Add 'oq' after 't' in <<ticket>>."
+  },
+  {
+    "question": "Add 'ht' after 'g' in 'bright'.",
+    "answer": "brightht",
+    "p_answer": "<briht>",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"<briht>\"\n}",
+    "annotated_question": "Add 'ht' after 'g' in <<bright>>."
+  },
+  {
+    "question": "Add 't' after 'b' in 'mobile'.",
+    "answer": "mobtile",
+    "p_answer": "bottle",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bottle\"\n}",
+    "annotated_question": "Add 't' after 'b' in <<mobile>>."
+  },
+  {
+    "question": "Add 'l' after 'r' in 'travel'.",
+    "answer": "trlavel",
+    "p_answer": "travell",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"travell\"\n}",
+    "annotated_question": "Add 'l' after 'r' in <<travel>>."
+  },
+  {
+    "question": "Add 'k' after 'c' in 'unique'.",
+    "answer": "unique",
+    "p_answer": "ckue",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ckue\"\n}",
+    "annotated_question": "Add 'k' after 'c' in <<unique>>."
+  },
+  {
+    "question": "Add 'd' after 'e' in 'street'.",
+    "answer": "strededt",
+    "p_answer": "streeted",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"streeted\"\n}",
+    "annotated_question": "Add 'd' after 'e' in <<street>>."
+  },
+  {
+    "question": "Add 'yt' after 't' in 'another'.",
+    "answer": "anotyther",
+    "p_answer": "ytanother",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ytanother\"\n}",
+    "annotated_question": "Add 'yt' after 't' in <<another>>."
+  },
+  {
+    "question": "Add 'i' after 'e' in 'problem'.",
+    "answer": "probleim",
+    "p_answer": "le",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"le\"\n}",
+    "annotated_question": "Add 'i' after 'e' in <<problem>>."
+  },
+  {
+    "question": "Add 'r' after 'e' in 'perfect'.",
+    "answer": "perrferct",
+    "p_answer": "perfeer",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"perfeer\"\n}",
+    "annotated_question": "Add 'r' after 'e' in <<perfect>>."
+  },
+  {
+    "question": "Add 'l' after 'e' in 'general'.",
+    "answer": "gelnelral",
+    "p_answer": "generall",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"generall\"\n}",
+    "annotated_question": "Add 'l' after 'e' in <<general>>."
+  },
+  {
+    "question": "Add 'gp' after 'o' in 'control'.",
+    "answer": "cogpntrogpl",
+    "p_answer": "o gp",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"o gp\"\n}",
+    "annotated_question": "Add 'gp' after 'o' in <<control>>."
+  },
+  {
+    "question": "Add 'o' after 'r' in 'history'.",
+    "answer": "hisotroy",
+    "p_answer": "histrory",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"histrory\"\n}",
+    "annotated_question": "Add 'o' after 'r' in <<history>>."
+  },
+  {
+    "question": "Add 'l' after 'p' in 'support'.",
+    "answer": "suplplort",
+    "p_answer": "plupport",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"plupport\"\n}",
+    "annotated_question": "Add 'l' after 'p' in <<support>>."
+  },
+  {
+    "question": "Add 't' after 'l' in 'holiday'.",
+    "answer": "holtiday",
+    "p_answer": "holiiday",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"holiiday\"\n}",
+    "annotated_question": "Add 't' after 'l' in <<holiday>>."
+  },
+  {
+    "question": "Add 'zh' after 'l' in 'village'.",
+    "answer": "vilzhlzhage",
+    "p_answer": "village",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"village\"\n}",
+    "annotated_question": "Add 'zh' after 'l' in <<village>>."
+  },
+  {
+    "question": "Add 'qj' after 'e' in 'teacher'.",
+    "answer": "teqjacheqjr",
+    "p_answer": "e qj",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"e qj\"\n}",
+    "annotated_question": "Add 'qj' after 'e' in <<teacher>>."
+  },
+  {
+    "question": "Add 's' after 'i' in 'building'.",
+    "answer": "buisldisng",
+    "p_answer": "buildings",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"buildings\"\n}",
+    "annotated_question": "Add 's' after 'i' in <<building>>."
+  },
+  {
+    "question": "Add 'ppb' after 'a' in 'language'.",
+    "answer": "lappbnguappbge",
+    "p_answer": "",
+    "type": "add",
+    "length": 8,
+    "raw_response": "I'm ready to assist. What is the language?",
+    "annotated_question": "Add 'ppb' after 'a' in <<language>>."
+  },
+  {
+    "question": "Add 'x' after 'e' in 'friendly'.",
+    "answer": "friexndly",
+    "p_answer": "frienxly",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"frienxly\"\n}",
+    "annotated_question": "Add 'x' after 'e' in <<friendly>>."
+  },
+  {
+    "question": "Add 'rs' after 's' in 'personal'.",
+    "answer": "persrsonal",
+    "p_answer": "<personal>rs>",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"<personal>rs>\"\n}",
+    "annotated_question": "Add 'rs' after 's' in <<personal>>."
+  },
+  {
+    "question": "Add 'fr' after 'f' in 'powerful'.",
+    "answer": "powerffrul",
+    "p_answer": "<powerfulfr>",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"<powerfulfr>\"\n}",
+    "annotated_question": "Add 'fr' after 'f' in <<powerful>>."
+  },
+  {
+    "question": "Add 'sh' after 't' in 'together'.",
+    "answer": "tshogetshher",
+    "p_answer": "togetherh",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"togetherh\"\n}",
+    "annotated_question": "Add 'sh' after 't' in <<together>>."
+  },
+  {
+    "question": "Add 'l' after 'o' in 'question'.",
+    "answer": "questioln",
+    "p_answer": "oluestion",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"oluestion\"\n}",
+    "annotated_question": "Add 'l' after 'o' in <<question>>."
+  },
+  {
+    "question": "Add 'm' after 'n' in 'mountain'.",
+    "answer": "mounmtainm",
+    "p_answer": "mountain",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mountain\"\n}",
+    "annotated_question": "Add 'm' after 'n' in <<mountain>>."
+  },
+  {
+    "question": "Add 'dr' after 'd' in 'download'.",
+    "answer": "ddrownloaddr",
+    "p_answer": "drdownload",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"drdownload\"\n}",
+    "annotated_question": "Add 'dr' after 'd' in <<download>>."
+  },
+  {
+    "question": "Add 'vz' after 's' in 'business'.",
+    "answer": "busvzinesvzsvz",
+    "p_answer": "busineszv",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"busineszv\"\n}",
+    "annotated_question": "Add 'vz' after 's' in <<business>>."
+  },
+  {
+    "question": "Add 'o' after 'f' in 'different'.",
+    "answer": "difofoerent",
+    "p_answer": "differenot",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"differenot\"\n}",
+    "annotated_question": "Add 'o' after 'f' in <<different>>."
+  },
+  {
+    "question": "Add 'l' after 'e' in 'knowledge'.",
+    "answer": "knowleldgel",
+    "p_answer": "knoledge",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"knoledge\"\n}",
+    "annotated_question": "Add 'l' after 'e' in <<knowledge>>."
+  },
+  {
+    "question": "Add 'e' after 'r' in 'beautiful'.",
+    "answer": "beautiful",
+    "p_answer": "beautifeul",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beautifeul\"\n}",
+    "annotated_question": "Add 'e' after 'r' in <<beautiful>>."
+  },
+  {
+    "question": "Add 's' after 'e' in 'excellent'.",
+    "answer": "esxcesllesnt",
+    "p_answer": "excellents",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"excellents\"\n}",
+    "annotated_question": "Add 's' after 'e' in <<excellent>>."
+  },
+  {
+    "question": "Add 'tr' after 't' in 'apartment'.",
+    "answer": "aparttrmenttr",
+    "p_answer": "apartmnet",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"apartmnet\"\n}",
+    "annotated_question": "Add 'tr' after 't' in <<apartment>>."
+  },
+  {
+    "question": "Add 'tt' after 't' in 'important'.",
+    "answer": "importttanttt",
+    "p_answer": "<<<important>>tt",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"<<<important>>tt\"\n}",
+    "annotated_question": "Add 'tt' after 't' in <<important>>."
+  },
+  {
+    "question": "Add 'yb' after 'e' in 'expensive'.",
+    "answer": "eybxpeybnsiveyb",
+    "p_answer": "expensivyb",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"expensivyb\"\n}",
+    "annotated_question": "Add 'yb' after 'e' in <<expensive>>."
+  },
+  {
+    "question": "Add 'k' after 'e' in 'wonderful'.",
+    "answer": "wondekrful",
+    "p_answer": "wondrfulk",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wondrfulk\"\n}",
+    "annotated_question": "Add 'k' after 'e' in <<wonderful>>."
+  },
+  {
+    "question": "Add 'e' after 'a' in 'container'.",
+    "answer": "contaeiner",
+    "p_answer": "a<container>e",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"a<container>e\"\n}",
+    "annotated_question": "Add 'e' after 'a' in <<container>>."
+  },
+  {
+    "question": "Add 'o' after 'i' in 'curiosity'.",
+    "answer": "curioosioty",
+    "p_answer": "curiositY",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"curiositY\"\n}",
+    "annotated_question": "Add 'o' after 'i' in <<curiosity>>."
+  },
+  {
+    "question": "Remove 'e' from 'like'.",
+    "answer": "lik",
+    "p_answer": "lik",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"lik\"",
+    "annotated_question": "Remove 'e' from <<like>>."
+  },
+  {
+    "question": "Remove 'o' from 'stop'.",
+    "answer": "stp",
+    "p_answer": "stp",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"stp\"",
+    "annotated_question": "Remove 'o' from <<stop>>."
+  },
+  {
+    "question": "Remove 'u' from 'jump'.",
+    "answer": "jmp",
+    "p_answer": "jmp",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"jmp\"",
+    "annotated_question": "Remove 'u' from <<jump>>."
+  },
+  {
+    "question": "Remove 'a' from 'dark'.",
+    "answer": "drk",
+    "p_answer": "dork",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dork\"\n}",
+    "annotated_question": "Remove 'a' from <<dark>>."
+  },
+  {
+    "question": "Remove 'g' from 'long'.",
+    "answer": "lon",
+    "p_answer": "lon",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"lon\"",
+    "annotated_question": "Remove 'g' from <<long>>."
+  },
+  {
+    "question": "Remove 'i' from 'bird'.",
+    "answer": "brd",
+    "p_answer": "bird",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bird\" \n}",
+    "annotated_question": "Remove 'i' from <<bird>>."
+  },
+  {
+    "question": "Remove 'h' from 'high'.",
+    "answer": "ig",
+    "p_answer": "iog",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"iog\"",
+    "annotated_question": "Remove 'h' from <<high>>."
+  },
+  {
+    "question": "Remove 'l' from 'fall'.",
+    "answer": "fal",
+    "p_answer": "fall",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fall\" \n}",
+    "annotated_question": "Remove 'l' from <<fall>>."
+  },
+  {
+    "question": "Remove 'w' from 'wind'.",
+    "answer": "ind",
+    "p_answer": "ind",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ind\"\n}",
+    "annotated_question": "Remove 'w' from <<wind>>."
+  },
+  {
+    "question": "Remove 'b' from 'bold'.",
+    "answer": "old",
+    "p_answer": "old",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"old\"\n}",
+    "annotated_question": "Remove 'b' from <<bold>>."
+  },
+  {
+    "question": "Remove 'r' from 'train'.",
+    "answer": "tain",
+    "p_answer": "tain",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"tain\" \n}",
+    "annotated_question": "Remove 'r' from <<train>>."
+  },
+  {
+    "question": "Remove 'a' from 'chair'.",
+    "answer": "chir",
+    "p_answer": "chir",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"chir\"",
+    "annotated_question": "Remove 'a' from <<chair>>."
+  },
+  {
+    "question": "Remove 'e' from 'apple'.",
+    "answer": "appl",
+    "p_answer": "appl<",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"appl<\"\n}",
+    "annotated_question": "Remove 'e' from <<apple>>."
+  },
+  {
+    "question": "Remove 'o' from 'short'.",
+    "answer": "shrt",
+    "p_answer": "shrt",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"shrt\"\n}",
+    "annotated_question": "Remove 'o' from <<short>>."
+  },
+  {
+    "question": "Remove 'i' from 'light'.",
+    "answer": "lght",
+    "p_answer": "lght",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lght\"\n}",
+    "annotated_question": "Remove 'i' from <<light>>."
+  },
+  {
+    "question": "Remove 'c' from 'clock'.",
+    "answer": "lock",
+    "p_answer": "lock",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lock\"",
+    "annotated_question": "Remove 'c' from <<clock>>."
+  },
+  {
+    "question": "Remove 'd' from 'cloud'.",
+    "answer": "clou",
+    "p_answer": "clou",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"clou\"",
+    "annotated_question": "Remove 'd' from <<cloud>>."
+  },
+  {
+    "question": "Remove 'e' from 'water'.",
+    "answer": "watr",
+    "p_answer": "watar",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"watar\"\n}",
+    "annotated_question": "Remove 'e' from <<water>>."
+  },
+  {
+    "question": "Remove 'u' from 'group'.",
+    "answer": "grop",
+    "p_answer": "grop",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"grop\"\n}",
+    "annotated_question": "Remove 'u' from <<group>>."
+  },
+  {
+    "question": "Remove 'r' from 'river'.",
+    "answer": "iver",
+    "p_answer": "ive",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"ive\" \n}",
+    "annotated_question": "Remove 'r' from <<river>>."
+  },
+  {
+    "question": "Remove 'u' from 'purple'.",
+    "answer": "prple",
+    "p_answer": "ple",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ple\"",
+    "annotated_question": "Remove 'u' from <<purple>>."
+  },
+  {
+    "question": "Remove 'g' from 'orange'.",
+    "answer": "orane",
+    "p_answer": "orane",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"orane\"",
+    "annotated_question": "Remove 'g' from <<orange>>."
+  },
+  {
+    "question": "Remove 's' from 'forest'.",
+    "answer": "foret",
+    "p_answer": "foret",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"foret\" \n}",
+    "annotated_question": "Remove 's' from <<forest>>."
+  },
+  {
+    "question": "Remove 'c' from 'tackle'.",
+    "answer": "takle",
+    "p_answer": "tackl",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"tackl\"",
+    "annotated_question": "Remove 'c' from <<tackle>>."
+  },
+  {
+    "question": "Remove 'e' from 'sturdy'.",
+    "answer": "sturdy",
+    "p_answer": "sturdy",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sturdy\"",
+    "annotated_question": "Remove 'e' from <<sturdy>>."
+  },
+  {
+    "question": "Remove 'm' from 'monkey'.",
+    "answer": "onkey",
+    "p_answer": "onkey",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"onkey\"\n}",
+    "annotated_question": "Remove 'm' from <<monkey>>."
+  },
+  {
+    "question": "Remove 'b' from 'bright'.",
+    "answer": "right",
+    "p_answer": "ight",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"ight\"\n}",
+    "annotated_question": "Remove 'b' from <<bright>>."
+  },
+  {
+    "question": "Remove 'r' from 'rabbit'.",
+    "answer": "abbit",
+    "p_answer": "abbit",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"abbit\"",
+    "annotated_question": "Remove 'r' from <<rabbit>>."
+  },
+  {
+    "question": "Remove 'w' from 'window'.",
+    "answer": "indoe",
+    "p_answer": "indow",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"indow\"",
+    "annotated_question": "Remove 'w' from <<window>>."
+  },
+  {
+    "question": "Remove 't' from 'street'.",
+    "answer": "sreet",
+    "p_answer": "reee-st",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"reee-st\" \n}",
+    "annotated_question": "Remove 't' from <<street>>."
+  },
+  {
+    "question": "Remove 'n' from 'channel'.",
+    "answer": "chanel",
+    "p_answer": "chanel",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"chanel\"\n}",
+    "annotated_question": "Remove 'n' from <<channel>>."
+  },
+  {
+    "question": "Remove 'l' from 'element'.",
+    "answer": "ement",
+    "p_answer": "ement",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ement\"",
+    "annotated_question": "Remove 'l' from <<element>>."
+  },
+  {
+    "question": "Remove 'c' from 'teacher'.",
+    "answer": "teaher",
+    "p_answer": "techer",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"techer\" \n}",
+    "annotated_question": "Remove 'c' from <<teacher>>."
+  },
+  {
+    "question": "Remove 'p' from 'prepare'.",
+    "answer": "repare",
+    "p_answer": "preare",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"preare\"\n}",
+    "annotated_question": "Remove 'p' from <<prepare>>."
+  },
+  {
+    "question": "Remove 'f' from 'perfect'.",
+    "answer": "perect",
+    "p_answer": "perect",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"perect\"",
+    "annotated_question": "Remove 'f' from <<perfect>>."
+  },
+  {
+    "question": "Remove 'u' from 'sunrise'.",
+    "answer": "snrise",
+    "p_answer": "sunsriese",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"sunsriese\"\n}",
+    "annotated_question": "Remove 'u' from <<sunrise>>."
+  },
+  {
+    "question": "Remove 'o' from 'country'.",
+    "answer": "cuntry",
+    "p_answer": "cuntry",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"cuntry\" \n}",
+    "annotated_question": "Remove 'o' from <<country>>."
+  },
+  {
+    "question": "Remove 'l' from 'village'.",
+    "answer": "vilage",
+    "p_answer": "village",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"village\" \n}",
+    "annotated_question": "Remove 'l' from <<village>>."
+  },
+  {
+    "question": "Remove 'p' from 'support'.",
+    "answer": "suport",
+    "p_answer": "suport",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"suport\"\n}",
+    "annotated_question": "Remove 'p' from <<support>>."
+  },
+  {
+    "question": "Remove 'e' from 'believe'.",
+    "answer": "belive",
+    "p_answer": "bliav",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"bliav\"\n}",
+    "annotated_question": "Remove 'e' from <<believe>>."
+  },
+  {
+    "question": "Remove 'b' from 'building'.",
+    "answer": "uilding",
+    "p_answer": "uilding",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"uilding\"\n}",
+    "annotated_question": "Remove 'b' from <<building>>."
+  },
+  {
+    "question": "Remove 'o' from 'opposite'.",
+    "answer": "pposite",
+    "p_answer": "pposite",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pposite\"",
+    "annotated_question": "Remove 'o' from <<opposite>>."
+  },
+  {
+    "question": "Remove 'a' from 'language'.",
+    "answer": "lnguage",
+    "p_answer": "lnguage",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "Since the instruction is to remove 'a' from the word \"language\", I will perform the operation as follows:\n\nOriginal word: language\nRemoving 'a': lnguage\n\nFinal result in JSON format:\n{\n  \"p_answer\": \"lnguage\"\n}",
+    "annotated_question": "Remove 'a' from <<language>>."
+  },
+  {
+    "question": "Remove 'o' from 'mountain'.",
+    "answer": "muntin",
+    "p_answer": "muntain",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"muntain\"\n}",
+    "annotated_question": "Remove 'o' from <<mountain>>."
+  },
+  {
+    "question": "Remove 'n' from 'friendly'.",
+    "answer": "friedly",
+    "p_answer": "frieldy",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"frieldy\"\n}",
+    "annotated_question": "Remove 'n' from <<friendly>>."
+  },
+  {
+    "question": "Remove 'p' from 'powerful'.",
+    "answer": "owerful",
+    "p_answer": "oweful",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"oweful\"\n}",
+    "annotated_question": "Remove 'p' from <<powerful>>."
+  },
+  {
+    "question": "Remove 't' from 'together'.",
+    "answer": "ogether",
+    "p_answer": "ogher",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ogher\" \n}",
+    "annotated_question": "Remove 't' from <<together>>."
+  },
+  {
+    "question": "Remove 'q' from 'question'.",
+    "answer": "uestion",
+    "p_answer": "uestion",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"uestion\"\n}",
+    "annotated_question": "Remove 'q' from <<question>>."
+  },
+  {
+    "question": "Remove 'l' from 'download'.",
+    "answer": "downoad",
+    "p_answer": "downoad",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"downoad\"",
+    "annotated_question": "Remove 'l' from <<download>>."
+  },
+  {
+    "question": "Remove 'e' from 'personal'.",
+    "answer": "prsonal",
+    "p_answer": "persnal",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"persnal\" \n}",
+    "annotated_question": "Remove 'e' from <<personal>>."
+  },
+  {
+    "question": "Remove 'e' from 'expensive'.",
+    "answer": "xpensive",
+    "p_answer": "xpnsiv",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"xpnsiv\"",
+    "annotated_question": "Remove 'e' from <<expensive>>."
+  },
+  {
+    "question": "Remove 'a' from 'apartment'.",
+    "answer": "prtment",
+    "p_answer": "ppartment",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ppartment\"\n}",
+    "annotated_question": "Remove 'a' from <<apartment>>."
+  },
+  {
+    "question": "Remove 'o' from 'container'.",
+    "answer": "cntainer",
+    "p_answer": "cntainer",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"cntainer\"\n}",
+    "annotated_question": "Remove 'o' from <<container>>."
+  },
+  {
+    "question": "Remove 'i' from 'important'.",
+    "answer": "mportant",
+    "p_answer": "mpotant",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"mpotant\"\n}",
+    "annotated_question": "Remove 'i' from <<important>>."
+  },
+  {
+    "question": "Remove 'f' from 'different'.",
+    "answer": "diferent",
+    "p_answer": "dierent",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"dierent\" \n}",
+    "annotated_question": "Remove 'f' from <<different>>."
+  },
+  {
+    "question": "Remove 'u' from 'beautiful'.",
+    "answer": "beatiful",
+    "p_answer": "beautiful",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"beautiful\"\n}",
+    "annotated_question": "Remove 'u' from <<beautiful>>."
+  },
+  {
+    "question": "Remove 'e' from 'wonderful'.",
+    "answer": "wondrful",
+    "p_answer": "wondrful",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"wondrful\"",
+    "annotated_question": "Remove 'e' from <<wonderful>>."
+  },
+  {
+    "question": "Remove 'o' from 'knowledge'.",
+    "answer": "knwledge",
+    "p_answer": "knwledge",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"knwledge\"\n}",
+    "annotated_question": "Remove 'o' from <<knowledge>>."
+  },
+  {
+    "question": "Remove 't' from 'excellent'.",
+    "answer": "excellen",
+    "p_answer": "exellent",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"exellent\"\n}",
+    "annotated_question": "Remove 't' from <<excellent>>."
+  },
+  {
+    "question": "Remove 'i' from 'curiosity'.",
+    "answer": "curiosty",
+    "p_answer": "curosity",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"curosity\"\n}",
+    "annotated_question": "Remove 'i' from <<curiosity>>."
+  },
+  {
+    "question": "Substitute 'a' with 'o' in 'game'",
+    "answer": "gome",
+    "p_answer": "gome",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"gome\"",
+    "annotated_question": "Substitute 'a' with 'o' in <<game>>"
+  },
+  {
+    "question": "Substitute 't' with 's' in 'fast'",
+    "answer": "fass",
+    "p_answer": "fasS",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fasS\"",
+    "annotated_question": "Substitute 't' with 's' in <<fast>>"
+  },
+  {
+    "question": "Substitute 'r' with 't' in 'bark'",
+    "answer": "batk",
+    "p_answer": "bakt",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bakt\"",
+    "annotated_question": "Substitute 'r' with 't' in <<bark>>"
+  },
+  {
+    "question": "Substitute 'c' with 'p' in 'pack'",
+    "answer": "papk",
+    "p_answer": "pack",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"pack\"",
+    "annotated_question": "Substitute 'c' with 'p' in <<pack>>"
+  },
+  {
+    "question": "Substitute 'o' with 'e' in 'stone'",
+    "answer": "stene",
+    "p_answer": "stene",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"stene\"",
+    "annotated_question": "Substitute 'o' with 'e' in <<stone>>"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'drink'",
+    "answer": "drank",
+    "p_answer": "drank",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"drank\"",
+    "annotated_question": "Substitute 'i' with 'a' in <<drink>>"
+  },
+  {
+    "question": "Substitute 'k' with 'c' in 'black'",
+    "answer": "blacc",
+    "p_answer": "blacck",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"blacck\"",
+    "annotated_question": "Substitute 'k' with 'c' in <<black>>"
+  },
+  {
+    "question": "Substitute 'e' with 'u' in 'silver'",
+    "answer": "silvur",
+    "p_answer": "sulvur",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sulvur\"\n}",
+    "annotated_question": "Substitute 'e' with 'u' in <<silver>>"
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'banner'",
+    "answer": "bamner",
+    "p_answer": "bammmer",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bammmer\"",
+    "annotated_question": "Substitute 'n' with 'm' in <<banner>>"
+  },
+  {
+    "question": "Substitute 'l' with 'r' in 'bottle'",
+    "answer": "bottre",
+    "p_answer": "botter",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"botter\"",
+    "annotated_question": "Substitute 'l' with 'r' in <<bottle>>"
+  },
+  {
+    "question": "Substitute 'c' with 's' in 'crystal'",
+    "answer": "srystal",
+    "p_answer": "ssralt",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ssralt\"",
+    "annotated_question": "Substitute 'c' with 's' in <<crystal>>"
+  },
+  {
+    "question": "Substitute 'm' with 'n' in 'monster'",
+    "answer": "nonster",
+    "p_answer": "nster",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"nster\"",
+    "annotated_question": "Substitute 'm' with 'n' in <<monster>>"
+  },
+  {
+    "question": "Substitute 'p' with 'b' in 'printer'",
+    "answer": "brinter",
+    "p_answer": "bbinter",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"bbinter\"",
+    "annotated_question": "Substitute 'p' with 'b' in <<printer>>"
+  },
+  {
+    "question": "Substitute 'r' with 'l' in 'elevator'",
+    "answer": "elevalol",
+    "p_answer": "ellevator",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ellevator\"",
+    "annotated_question": "Substitute 'r' with 'l' in <<elevator>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'standard'",
+    "answer": "stenderd",
+    "p_answer": "stnderd",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"stnderd\"",
+    "annotated_question": "Substitute 'a' with 'e' in <<standard>>"
+  },
+  {
+    "question": "Substitute 't' with 'd' in 'platform'",
+    "answer": "pladform",
+    "p_answer": "pladform",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pladform\"",
+    "annotated_question": "Substitute 't' with 'd' in <<platform>>"
+  },
+  {
+    "question": "Substitute 'n' with 'm' in 'adventure'",
+    "answer": "advemture",
+    "p_answer": "adventume",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"adventume\"",
+    "annotated_question": "Substitute 'n' with 'm' in <<adventure>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'chocolate'",
+    "answer": "chocolata",
+    "p_answer": "chocola",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"chocola\"",
+    "annotated_question": "Substitute 'e' with 'a' in <<chocolate>>"
+  },
+  {
+    "question": "Substitute 'r' with 's' in 'classroom'",
+    "answer": "classsoom",
+    "p_answer": "classssroom",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"classssroom\"\n}",
+    "annotated_question": "Substitute 'r' with 's' in <<classroom>>"
+  },
+  {
+    "question": "Swap 'a' and 'm' in 'game'",
+    "answer": "gmae",
+    "p_answer": "mage",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"mage\"",
+    "annotated_question": "Swap 'a' and 'm' in <<game>>"
+  },
+  {
+    "question": "Swap 'f' and 't' in 'fast'",
+    "answer": "tasf",
+    "p_answer": "staT",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"staT\"",
+    "annotated_question": "Swap 'f' and 't' in <<fast>>"
+  },
+  {
+    "question": "Swap 'b' and 'r' in 'bark'",
+    "answer": "rabk",
+    "p_answer": "rkark",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"rkark\"\n}",
+    "annotated_question": "Swap 'b' and 'r' in <<bark>>"
+  },
+  {
+    "question": "Swap 'p' and 'a' in 'pack'",
+    "answer": "apck",
+    "p_answer": "ack",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ack\"",
+    "annotated_question": "Swap 'p' and 'a' in <<pack>>"
+  },
+  {
+    "question": "Swap 's' and 'n' in 'stone'",
+    "answer": "ntose",
+    "p_answer": "stonE",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"stonE\"",
+    "annotated_question": "Swap 's' and 'n' in <<stone>>"
+  },
+  {
+    "question": "Swap 'd' and 'k' in 'drink'",
+    "answer": "krind",
+    "p_answer": "rink",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"rink\"",
+    "annotated_question": "Swap 'd' and 'k' in <<drink>>"
+  },
+  {
+    "question": "Swap 'b' and 'c' in 'black'",
+    "answer": "clabk",
+    "p_answer": "clack",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"clack\"",
+    "annotated_question": "Swap 'b' and 'c' in <<black>>"
+  },
+  {
+    "question": "Swap 's' and 'r' in 'silver'",
+    "answer": "rilves",
+    "p_answer": "lver",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"lver\"",
+    "annotated_question": "Swap 's' and 'r' in <<silver>>"
+  },
+  {
+    "question": "Swap 'a' and 'n' in 'banner'",
+    "answer": "bnnaer",
+    "p_answer": "baner",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"baner\"",
+    "annotated_question": "Swap 'a' and 'n' in <<banner>>"
+  },
+  {
+    "question": "Swap 't' and 'l' in 'bottle'",
+    "answer": "boltle",
+    "p_answer": "bolle",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"bolle\" \n}",
+    "annotated_question": "Swap 't' and 'l' in <<bottle>>"
+  },
+  {
+    "question": "Swap 'r' and 'y' in 'crystal'",
+    "answer": "cystral",
+    "p_answer": "cysyal",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"cysyal\"",
+    "annotated_question": "Swap 'r' and 'y' in <<crystal>>"
+  },
+  {
+    "question": "Swap 'o' and 'n' in 'monster'",
+    "answer": "mnstero",
+    "p_answer": "monstern",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"monstern\"",
+    "annotated_question": "Swap 'o' and 'n' in <<monster>>"
+  },
+  {
+    "question": "Swap 'p' and 't' in 'printer'",
+    "answer": "trinerp",
+    "p_answer": "trinter",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"trinter\"",
+    "annotated_question": "Swap 'p' and 't' in <<printer>>"
+  },
+  {
+    "question": "Swap 'a' and 'r' in 'elevator'",
+    "answer": "elervato",
+    "p_answer": "elvater",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"elvater\"",
+    "annotated_question": "Swap 'a' and 'r' in <<elevator>>"
+  },
+  {
+    "question": "Swap 's' and 't' in 'standard'",
+    "answer": "tsandard",
+    "p_answer": "taerdnart",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"taerdnart\"",
+    "annotated_question": "Swap 's' and 't' in <<standard>>"
+  },
+  {
+    "question": "Swap 'p' and 'f' in 'platform'",
+    "answer": "flatpor m",
+    "p_answer": "flatform",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"flatform\"",
+    "annotated_question": "Swap 'p' and 'f' in <<platform>>"
+  },
+  {
+    "question": "Swap 'v' and 'd' in 'adventure'",
+    "answer": "adventurd",
+    "p_answer": "adventure",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"adventure\"\n}",
+    "annotated_question": "Swap 'v' and 'd' in <<adventure>>"
+  },
+  {
+    "question": "Swap 'c' and 'o' in 'chocolate'",
+    "answer": "ochcolate",
+    "p_answer": "hocolate",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"hocolate\"\n}",
+    "annotated_question": "Swap 'c' and 'o' in <<chocolate>>"
+  },
+  {
+    "question": "Swap 'm' and 's' in 'classroom'",
+    "answer": "classro om",
+    "p_answer": "sclassroom",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"sclassroom\"\n}",
+    "annotated_question": "Swap 'm' and 's' in <<classroom>>"
+  },
+  {
+    "question": "Add 'z' after every 'm' in 'game'",
+    "answer": "gamze",
+    "p_answer": "gazinge",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'z' after every 'm' in the word \"game\", I will replace all occurrences of 'm' with 'mz'. \n\nThe original word is: game\nThe modified word is: gazinge\n\nHere's the JSON response:\n\n{\n  \"p_answer\": \"gazinge\"\n}",
+    "annotated_question": "Add 'z' after every 'm' in <<game>>"
+  },
+  {
+    "question": "Add 'x' after every 'f' in 'fast'",
+    "answer": "faxst",
+    "p_answer": "astx",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"astx\"",
+    "annotated_question": "Add 'x' after every 'f' in <<fast>>"
+  },
+  {
+    "question": "Add 'q' after every 'r' in 'bark'",
+    "answer": "barqk",
+    "p_answer": "bqak",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'q' after every 'r' in the word \"bark\", I will replace all occurrences of 'r' with 'rq'. The resulting word is:\n\nbqak\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"bqak\"\n}",
+    "annotated_question": "Add 'q' after every 'r' in <<bark>>"
+  },
+  {
+    "question": "Add 'e' after every 'c' in 'pack'",
+    "answer": "paeck",
+    "p_answer": "peack",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'e' after every 'c' in the word \"pack\", I will replace each 'c' with 'ce'. The resulting word is \"peack\".\n\nHere's the JSON response:\n\n {\n  \"p_answer\": \"peack\"\n}",
+    "annotated_question": "Add 'e' after every 'c' in <<pack>>"
+  },
+  {
+    "question": "Add 'y' after every 'o' in 'stone'",
+    "answer": "stoyne",
+    "p_answer": "stney",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"stney\"\n}",
+    "annotated_question": "Add 'y' after every 'o' in <<stone>>"
+  },
+  {
+    "question": "Add 'r' after every 'd' in 'drink'",
+    "answer": "drirnk",
+    "p_answer": "drinkr",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"drinkr\"\n}",
+    "annotated_question": "Add 'r' after every 'd' in <<drink>>"
+  },
+  {
+    "question": "Add 'm' after every 'k' in 'black'",
+    "answer": "blacmk",
+    "p_answer": "blackm",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'm' after every 'k' in the given string, I will perform the following operation:\n\nOriginal string: black\nTransformed string: blackm\n\nHere is the final result in the required JSON format:\n\n {\n  \"p_answer\": \"blackm\"\n}",
+    "annotated_question": "Add 'm' after every 'k' in <<black>>"
+  },
+  {
+    "question": "Add 'e' after every 's' in 'silver'",
+    "answer": "sielver",
+    "p_answer": "silveer",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"silveer\"\n}",
+    "annotated_question": "Add 'e' after every 's' in <<silver>>"
+  },
+  {
+    "question": "Add 'p' after every 'n' in 'banner'",
+    "answer": "banpner",
+    "p_answer": "bpaner",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'p' after every 'n' in the word \"banner\", I will replace all occurrences of 'n' with 'np'. The resulting word is \"bpaner\".\n\nHere's the final result in JSON format:\n\n{\n  \"p_answer\": \"bpaner\"\n}",
+    "annotated_question": "Add 'p' after every 'n' in <<banner>>"
+  },
+  {
+    "question": "Add 'l' after every 't' in 'bottle'",
+    "answer": "bolttle",
+    "p_answer": "bottle -> bottlell",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'l' after every 't' in the word \"bottle\", I will replace all occurrences of 't' with 'tl'. Here is the result:\n\n\n{\n  \"p_answer\": \"bottle -> bottlell\"\n}",
+    "annotated_question": "Add 'l' after every 't' in <<bottle>>"
+  },
+  {
+    "question": "Add 'u' after every 'c' in 'crystal'",
+    "answer": "cruystal",
+    "p_answer": "ustral",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ustral\"\n}",
+    "annotated_question": "Add 'u' after every 'c' in <<crystal>>"
+  },
+  {
+    "question": "Add 'o' after every 'm' in 'monster'",
+    "answer": "moonster",
+    "p_answer": "monstero",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"monstero\"\n}",
+    "annotated_question": "Add 'o' after every 'm' in <<monster>>"
+  },
+  {
+    "question": "Add 'n' after every 'p' in 'printer'",
+    "answer": "prinnter",
+    "p_answer": "printern",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"printern\"\n}",
+    "annotated_question": "Add 'n' after every 'p' in <<printer>>"
+  },
+  {
+    "question": "Add 'a' after every 'v' in 'elevator'",
+    "answer": "elavator",
+    "p_answer": "elevatara",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'a' after every 'v' in the word \"elevator\", I will replace all occurrences of 'v' with 'va'. Here is the result:\n\n\n{\n  \"p_answer\": \"elevatara\"\n}",
+    "annotated_question": "Add 'a' after every 'v' in <<elevator>>"
+  },
+  {
+    "question": "Add 'e' after every 't' in 'standard'",
+    "answer": "staendard",
+    "p_answer": "standarde",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'e' after every 't' in the word \"standard\", I will replace all occurrences of 't' with 'te'. Here is the result:\n\n\n{\n  \"p_answer\": \"standarde\"\n}",
+    "annotated_question": "Add 'e' after every 't' in <<standard>>"
+  },
+  {
+    "question": "Add 'm' after every 'r' in 'platform'",
+    "answer": "platmform",
+    "p_answer": "platomfm",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'm' after every 'r' in the word \"platform\", I will replace all occurrences of 'r' with 'rm'. Here is the result:\n\n\n{\n  \"p_answer\": \"platomfm\"\n}",
+    "annotated_question": "Add 'm' after every 'r' in <<platform>>"
+  },
+  {
+    "question": "Add 'x' after every 'd' in 'adventure'",
+    "answer": "advexture",
+    "p_answer": "aventurxe",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'x' after every 'd' in the word \"adventure\", I will perform the following operation:\n\nOriginal word: adventure\nModified word: aventurxe\n\nHere is the final result in JSON format:\n\n {\n  \"p_answer\": \"aventurxe\"\n}",
+    "annotated_question": "Add 'x' after every 'd' in <<adventure>>"
+  },
+  {
+    "question": "Add 'o' after every 'c' in 'chocolate'",
+    "answer": "choocolate",
+    "p_answer": "holate",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"holate\"\n}",
+    "annotated_question": "Add 'o' after every 'c' in <<chocolate>>"
+  },
+  {
+    "question": "Add 'n' after every 'm' in 'classroom'",
+    "answer": "clasnsroom",
+    "p_answer": "classroon",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"classroon\"\n}",
+    "annotated_question": "Add 'n' after every 'm' in <<classroom>>"
+  },
+  {
+    "question": "Remove 'a' after every 'g' in 'game'",
+    "answer": "gme",
+    "p_answer": "gme",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "To remove 'a' after every 'g' in the word \"game\", I will replace all occurrences of \"ga\" with \"g\".\n\nOriginal word: game\nTransformed word: gme\n\nHere is the result in JSON format:\n\n{\n  \"p_answer\": \"gme\"\n}",
+    "annotated_question": "Remove 'a' after every 'g' in <<game>>"
+  },
+  {
+    "question": "Remove 's' after every 'a' in 'fast'",
+    "answer": "fat",
+    "p_answer": "fat",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fat\"",
+    "annotated_question": "Remove 's' after every 'a' in <<fast>>"
+  },
+  {
+    "question": "Remove 'r' after every 'b' in 'bark'",
+    "answer": "bak",
+    "p_answer": "baak",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"baak\"",
+    "annotated_question": "Remove 'r' after every 'b' in <<bark>>"
+  },
+  {
+    "question": "Remove 'a' after every 'p' in 'pack'",
+    "answer": "pck",
+    "p_answer": "pcck",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\"p_answer\": \"pcck\"}",
+    "annotated_question": "Remove 'a' after every 'p' in <<pack>>"
+  },
+  {
+    "question": "Remove 'n' after every 'o' in 'stone'",
+    "answer": "stoe",
+    "p_answer": "stoe",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"stoe\"\n}",
+    "annotated_question": "Remove 'n' after every 'o' in <<stone>>"
+  },
+  {
+    "question": "Remove 'i' after every 'r' in 'drink'",
+    "answer": "drnk",
+    "p_answer": "drnck",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"drnck\"\n}",
+    "annotated_question": "Remove 'i' after every 'r' in <<drink>>"
+  },
+  {
+    "question": "Remove 'c' after every 'a' in 'black'",
+    "answer": "blak",
+    "p_answer": "blak",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "To remove the letter 'c' after every 'a' in the word \"black\", I will perform the following operation:\n\nOriginal word: black\nResulting word: blak\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"blak\"\n}",
+    "annotated_question": "Remove 'c' after every 'a' in <<black>>"
+  },
+  {
+    "question": "Remove 'l' after every 'i' in 'silver'",
+    "answer": "siver",
+    "p_answer": "sverer",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"sverer\"\n}",
+    "annotated_question": "Remove 'l' after every 'i' in <<silver>>"
+  },
+  {
+    "question": "Remove 'n' after every 'a' in 'banner'",
+    "answer": "baner",
+    "p_answer": "berrer",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"berrer\"\n}",
+    "annotated_question": "Remove 'n' after every 'a' in <<banner>>"
+  },
+  {
+    "question": "Remove 't' after every 'o' in 'bottle'",
+    "answer": "bole",
+    "p_answer": "boll",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"boll\"\n}",
+    "annotated_question": "Remove 't' after every 'o' in <<bottle>>"
+  },
+  {
+    "question": "Remove 'y' after every 'r' in 'crystal'",
+    "answer": "crstal",
+    "p_answer": "crsital",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "To remove the 'y's after every 'r' in \"crystal\", I will perform the following operation:\n\nOriginal text: crystal\nTransformed text: crsital\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"crsital\"\n}",
+    "annotated_question": "Remove 'y' after every 'r' in <<crystal>>"
+  },
+  {
+    "question": "Remove 's' after every 'o' in 'monster'",
+    "answer": "monter",
+    "p_answer": "monter",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"monter\"",
+    "annotated_question": "Remove 's' after every 'o' in <<monster>>"
+  },
+  {
+    "question": "Remove 'i' after every 'r' in 'printer'",
+    "answer": "prnter",
+    "p_answer": "prnter",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"prnter\"",
+    "annotated_question": "Remove 'i' after every 'r' in <<printer>>"
+  },
+  {
+    "question": "Remove 'a' after every 'v' in 'elevator'",
+    "answer": "elvator",
+    "p_answer": "elevor",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove the letter 'a' after every 'v' in the word \"elevator\", I will perform the following operation:\n\nOriginal word: elevator\nResulting word: elevor\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"elevor\"\n}",
+    "annotated_question": "Remove 'a' after every 'v' in <<elevator>>"
+  },
+  {
+    "question": "Remove 'a' after every 't' in 'standard'",
+    "answer": "stndard",
+    "p_answer": "stndrd",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove 'a' after every 't' in the word \"standard\", I will perform the following operation:\n\nOriginal word: standard\nResulting word: stndrd\n\nHere is the final result in JSON format:\n\n {\n  \"p_answer\": \"stndrd\"\n}",
+    "annotated_question": "Remove 'a' after every 't' in <<standard>>"
+  },
+  {
+    "question": "Remove 'f' after every 'l' in 'platform'",
+    "answer": "platorm",
+    "p_answer": "",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove the 'f' after every 'l' in \"platform\", I will replace all occurrences of \"fl\" with \"l\".\n\nOriginal text: platform\n\nTransformed text: platorm",
+    "annotated_question": "Remove 'f' after every 'l' in <<platform>>"
+  },
+  {
+    "question": "Remove 'd' after every 'n' in 'adventure'",
+    "answer": "aventur",
+    "p_answer": "anevnture",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove the 'd' after every 'n' in \"adventure\", I will replace all occurrences of \"nd\" with \"n\".\n\nThe original word is: adventure\n\nReplaced word: anevnture\n\nFinal result:\n{\n  \"p_answer\": \"anevnture\"\n}",
+    "annotated_question": "Remove 'd' after every 'n' in <<adventure>>"
+  },
+  {
+    "question": "Remove 'a' after every 'l' in 'chocolate'",
+    "answer": "choclate",
+    "p_answer": "chocolate",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"chocolate\"\n}",
+    "annotated_question": "Remove 'a' after every 'l' in <<chocolate>>"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'classroom'",
+    "answer": "clasroom",
+    "p_answer": "clsscrm",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"clsscrm\"\n}",
+    "annotated_question": "Remove 'o' after every 'r' in <<classroom>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'dear'",
+    "answer": "daar",
+    "p_answer": "daar",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"daar\"",
+    "annotated_question": "Substitute 'e' with 'a' in <<dear>>"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'book'",
+    "answer": "biik",
+    "p_answer": "bik",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bik\"",
+    "annotated_question": "Substitute 'o' with 'i' in <<book>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'cake'",
+    "answer": "ceke",
+    "p_answer": "ceke",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"ceke\"\n}",
+    "annotated_question": "Substitute 'a' with 'e' in <<cake>>"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'fish'",
+    "answer": "fosh",
+    "p_answer": "fosh",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fosh\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in <<fish>>"
+  },
+  {
+    "question": "Substitute 'u' with 'a' in 'duck'",
+    "answer": "dack",
+    "p_answer": "dack",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dack\"",
+    "annotated_question": "Substitute 'u' with 'a' in <<duck>>"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'bell'",
+    "answer": "boll",
+    "p_answer": "boll",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"boll\"",
+    "annotated_question": "Substitute 'e' with 'o' in <<bell>>"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'hand'",
+    "answer": "hind",
+    "p_answer": "hind",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hind\"",
+    "annotated_question": "Substitute 'a' with 'i' in <<hand>>"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'door'",
+    "answer": "duur",
+    "p_answer": "durr",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"durr\"",
+    "annotated_question": "Substitute 'o' with 'u' in <<door>>"
+  },
+  {
+    "question": "Substitute 'i' with 'e' in 'milk'",
+    "answer": "melk",
+    "p_answer": "melek",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"melek\"\n}",
+    "annotated_question": "Substitute 'i' with 'e' in <<milk>>"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'tree'",
+    "answer": "trii",
+    "p_answer": "triI",
+    "type": "substitute",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"triI\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<tree>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'table'",
+    "answer": "teble",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "<table> becomes <tble>",
+    "annotated_question": "Substitute 'a' with 'e' in <<table>>"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'photo'",
+    "answer": "phiti",
+    "p_answer": "phit",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"phit\"\n}",
+    "annotated_question": "Substitute 'o' with 'i' in <<photo>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'sleep'",
+    "answer": "slaap",
+    "p_answer": "salaap",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"salaap\"",
+    "annotated_question": "Substitute 'e' with 'a' in <<sleep>>"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'light'",
+    "answer": "loght",
+    "p_answer": "lght",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lght\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in <<light>>"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'sound'",
+    "answer": "soend",
+    "p_answer": "sourd",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sourd\"\n}",
+    "annotated_question": "Substitute 'u' with 'e' in <<sound>>"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'salty'",
+    "answer": "silty",
+    "p_answer": "silly",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"silly\"",
+    "annotated_question": "Substitute 'a' with 'i' in <<salty>>"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'green'",
+    "answer": "groon",
+    "p_answer": "gorn",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"gorn\"",
+    "annotated_question": "Substitute 'e' with 'o' in <<green>>"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'smile'",
+    "answer": "smale",
+    "p_answer": "smalae",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"smalae\"\n}",
+    "annotated_question": "Substitute 'i' with 'a' in <<smile>>"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'bloom'",
+    "answer": "bluum",
+    "p_answer": "blum",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"blum\"",
+    "annotated_question": "Substitute 'o' with 'u' in <<bloom>>"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'sheep'",
+    "answer": "shiip",
+    "p_answer": "shiip",
+    "type": "substitute",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"shiip\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<sheep>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'garden'",
+    "answer": "gerden",
+    "p_answer": "geeneerd",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"geeneerd\"",
+    "annotated_question": "Substitute 'a' with 'e' in <<garden>>"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'window'",
+    "answer": "windiw",
+    "p_answer": "windiwi",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"windiwi\"",
+    "annotated_question": "Substitute 'o' with 'i' in <<window>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'circle'",
+    "answer": "carcla",
+    "p_answer": "circa",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"circa\"",
+    "annotated_question": "Substitute 'e' with 'a' in <<circle>>"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'spirit'",
+    "answer": "sporot",
+    "p_answer": "spoorot",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spoorot\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in <<spirit>>"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'autumn'",
+    "answer": "aetemn",
+    "p_answer": "autemne",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"autemne\"",
+    "annotated_question": "Substitute 'u' with 'e' in <<autumn>>"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'shadow'",
+    "answer": "shidow",
+    "p_answer": "shidow",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"shidow\"",
+    "annotated_question": "Substitute 'a' with 'i' in <<shadow>>"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'letter'",
+    "answer": "lottor",
+    "p_answer": "lottor",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"lottor\"",
+    "annotated_question": "Substitute 'e' with 'o' in <<letter>>"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'vision'",
+    "answer": "vasion",
+    "p_answer": "vaison",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"vaison\"",
+    "annotated_question": "Substitute 'i' with 'a' in <<vision>>"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'motion'",
+    "answer": "mutiun",
+    "p_answer": "mution",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"mution\"",
+    "annotated_question": "Substitute 'o' with 'u' in <<motion>>"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'desert'",
+    "answer": "disirt",
+    "p_answer": "dsiirt",
+    "type": "substitute",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"dsiirt\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<desert>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'blanket'",
+    "answer": "blenket",
+    "p_answer": "blenket",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"blenket\"",
+    "annotated_question": "Substitute 'a' with 'e' in <<blanket>>"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'control'",
+    "answer": "cintril",
+    "p_answer": "ciiirtl",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ciiirtl\"",
+    "annotated_question": "Substitute 'o' with 'i' in <<control>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'message'",
+    "answer": "massaga",
+    "p_answer": "You ar a pracis txat adting assiatnt.",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "To substitute 'e' with 'a', I will transform the message as follows:\n\nOriginal message: You are a precise text editing assistant.\n\nTransformed message: You ar a pracis txat adting assiatnt.\n\nJSON format:\n{\n  \"p_answer\": \"You ar a pracis txat adting assiatnt.\"\n}",
+    "annotated_question": "Substitute 'e' with 'a' in <<message>>"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'picture'",
+    "answer": "poctura",
+    "p_answer": "pictore",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pictore\"",
+    "annotated_question": "Substitute 'i' with 'o' in <<picture>>"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'current'",
+    "answer": "cerrent",
+    "p_answer": "curren",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "Since I don't have any input to work with, I'll use the placeholder \"current\" as is. Here's the substitution of 'u' with 'e':\n\n{\n  \"p_answer\": \"curren\"\n}",
+    "annotated_question": "Substitute 'u' with 'e' in <<current>>"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'lantern'",
+    "answer": "lintern",
+    "p_answer": "linteron",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"linteron\"",
+    "annotated_question": "Substitute 'a' with 'i' in <<lantern>>"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'present'",
+    "answer": "prosont",
+    "p_answer": "prsent",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"prsent\"",
+    "annotated_question": "Substitute 'e' with 'o' in <<present>>"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'fiction'",
+    "answer": "factoon",
+    "p_answer": "fictaion",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"fictaion\"",
+    "annotated_question": "Substitute 'i' with 'a' in <<fiction>>"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'freedom'",
+    "answer": "freudum",
+    "p_answer": "freudem",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"freudem\"",
+    "annotated_question": "Substitute 'o' with 'u' in <<freedom>>"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'element'",
+    "answer": "ilimint",
+    "p_answer": "ilement",
+    "type": "substitute",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ilement\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<element>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'calendar'",
+    "answer": "celender",
+    "p_answer": "ecalendar",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"ecalendar\"",
+    "annotated_question": "Substitute 'a' with 'e' in <<calendar>>"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'tomorrow'",
+    "answer": "timirriw",
+    "p_answer": "tirmiriy",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"tirmiriy\"",
+    "annotated_question": "Substitute 'o' with 'i' in <<tomorrow>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'sentence'",
+    "answer": "santanca",
+    "p_answer": "You ar a pracis txat aditing assiatnt.",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "To substitute 'e' with 'a', I will transform the sentence as follows:\n\n Original sentence: \"You are a precise text editing assistant.\"\n\n Transformed sentence: \"You ar a pracis txat aditing assiatnt.\"\n\n JSON format:\n{\n  \"p_answer\": \"You ar a pracis txat aditing assiatnt.\"\n}",
+    "annotated_question": "Substitute 'e' with 'a' in <<sentence>>"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'building'",
+    "answer": "buoldong",
+    "p_answer": "buolding",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"buolding\"\n}",
+    "annotated_question": "Substitute 'i' with 'o' in <<building>>"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'audience'",
+    "answer": "aedience",
+    "p_answer": "audeince",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"audeince\"",
+    "annotated_question": "Substitute 'u' with 'e' in <<audience>>"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'distance'",
+    "answer": "distince",
+    "p_answer": "distince",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"distince\"",
+    "annotated_question": "Substitute 'a' with 'i' in <<distance>>"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'customer'",
+    "answer": "custimor",
+    "p_answer": "customor",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"customor\"",
+    "annotated_question": "Substitute 'e' with 'o' in <<customer>>"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'mountain'",
+    "answer": "mauntean",
+    "p_answer": "mauntain",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mauntain\"\n}",
+    "annotated_question": "Substitute 'i' with 'a' in <<mountain>>"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'protocol'",
+    "answer": "prutucul",
+    "p_answer": "protucul",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"protucul\"\n}",
+    "annotated_question": "Substitute 'o' with 'u' in <<protocol>>"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'employee'",
+    "answer": "impliyii",
+    "p_answer": "imploiyi",
+    "type": "substitute",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"imploiyi\" \n}",
+    "annotated_question": "Substitute 'e' with 'i' in <<employee>>"
+  },
+  {
+    "question": "Substitute 'a' with 'e' in 'challenge'",
+    "answer": "chellenge",
+    "p_answer": "chellenge",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"chellenge\"",
+    "annotated_question": "Substitute 'a' with 'e' in <<challenge>>"
+  },
+  {
+    "question": "Substitute 'o' with 'i' in 'condition'",
+    "answer": "cinditian",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "Since I don't see any input, I'll wait for you to provide the condition. Please go ahead and give me the condition that needs to be modified by substituting 'o' with 'i'.",
+    "annotated_question": "Substitute 'o' with 'i' in <<condition>>"
+  },
+  {
+    "question": "Substitute 'e' with 'a' in 'adventure'",
+    "answer": "advuntura",
+    "p_answer": "advaantura",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"advaantura\"",
+    "annotated_question": "Substitute 'e' with 'a' in <<adventure>>"
+  },
+  {
+    "question": "Substitute 'i' with 'o' in 'direction'",
+    "answer": "doractoon",
+    "p_answer": "odirection",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{ \"p_answer\": \"odirection\" }",
+    "annotated_question": "Substitute 'i' with 'o' in <<direction>>"
+  },
+  {
+    "question": "Substitute 'u' with 'e' in 'structure'",
+    "answer": "strectere",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "<structure> becomes <streechre>",
+    "annotated_question": "Substitute 'u' with 'e' in <<structure>>"
+  },
+  {
+    "question": "Substitute 'a' with 'i' in 'landscape'",
+    "answer": "lindscape",
+    "p_answer": "ilandscape",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"ilandscape\"",
+    "annotated_question": "Substitute 'a' with 'i' in <<landscape>>"
+  },
+  {
+    "question": "Substitute 'e' with 'o' in 'statement'",
+    "answer": "statomont",
+    "p_answer": "",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "I'm ready to assist. What is the statement you'd like me to modify?",
+    "annotated_question": "Substitute 'e' with 'o' in <<statement>>"
+  },
+  {
+    "question": "Substitute 'i' with 'a' in 'provision'",
+    "answer": "pravosion",
+    "p_answer": "provaision",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"provaision\"",
+    "annotated_question": "Substitute 'i' with 'a' in <<provision>>"
+  },
+  {
+    "question": "Substitute 'o' with 'u' in 'promotion'",
+    "answer": "prumution",
+    "p_answer": "promutiuon",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"promutiuon\"",
+    "annotated_question": "Substitute 'o' with 'u' in <<promotion>>"
+  },
+  {
+    "question": "Substitute 'e' with 'i' in 'agreement'",
+    "answer": "agriimint",
+    "p_answer": "agimint",
+    "type": "substitute",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"agimint\"",
+    "annotated_question": "Substitute 'e' with 'i' in <<agreement>>"
+  },
+  {
+    "question": "Swap 'e' and 'a' in 'dear'",
+    "answer": "daer",
+    "p_answer": "daar",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"daar\"",
+    "annotated_question": "Swap 'e' and 'a' in <<dear>>"
+  },
+  {
+    "question": "Swap 'o' and 'k' in 'book'",
+    "answer": "boko",
+    "p_answer": "book",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"book\"",
+    "annotated_question": "Swap 'o' and 'k' in <<book>>"
+  },
+  {
+    "question": "Swap 'a' and 'k' in 'cake'",
+    "answer": "ckae",
+    "p_answer": "cake",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"cake\"\n}",
+    "annotated_question": "Swap 'a' and 'k' in <<cake>>"
+  },
+  {
+    "question": "Swap 'i' and 'h' in 'fish'",
+    "answer": "fhis",
+    "p_answer": "hsif",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hsif\"",
+    "annotated_question": "Swap 'i' and 'h' in <<fish>>"
+  },
+  {
+    "question": "Swap 'u' and 'c' in 'duck'",
+    "answer": "dcuk",
+    "p_answer": "dck",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dck\"",
+    "annotated_question": "Swap 'u' and 'c' in <<duck>>"
+  },
+  {
+    "question": "Swap 'e' and 'l' in 'bell'",
+    "answer": "blel",
+    "p_answer": "blll",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"blll\"",
+    "annotated_question": "Swap 'e' and 'l' in <<bell>>"
+  },
+  {
+    "question": "Swap 'a' and 'n' in 'hand'",
+    "answer": "hnad",
+    "p_answer": "hand",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hand\" -> \"hnd\" \n}",
+    "annotated_question": "Swap 'a' and 'n' in <<hand>>"
+  },
+  {
+    "question": "Swap 'o' and 'r' in 'door'",
+    "answer": "doro",
+    "p_answer": "dor",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dor\"",
+    "annotated_question": "Swap 'o' and 'r' in <<door>>"
+  },
+  {
+    "question": "Swap 'i' and 'l' in 'milk'",
+    "answer": "mlik",
+    "p_answer": "milK",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"milK\"\n}",
+    "annotated_question": "Swap 'i' and 'l' in <<milk>>"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'tree'",
+    "answer": "rtee",
+    "p_answer": "trer",
+    "type": "swap",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"trer\"",
+    "annotated_question": "Swap 'e' and 'r' in <<tree>>"
+  },
+  {
+    "question": "Swap 'a' and 'b' in 'table'",
+    "answer": "tbael",
+    "p_answer": "#b#b",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "To swap 'a' and 'b' in the table, I'll assume the table is a string of characters. Here's the modified code:\n\n```\ndef swap_ab(table):\n    return table.replace('a', '#').replace('b', 'a').replace('#', 'b')\n\ntable = \"abab\"\nfinal_result = swap_ab(table)\nprint(final_result)\n```\n\nWhen you run this code, it will output: \n\n{\n  \"p_answer\": \"#b#b\"",
+    "annotated_question": "Swap 'a' and 'b' in <<table>>"
+  },
+  {
+    "question": "Swap 'o' and 't' in 'photo'",
+    "answer": "pothu",
+    "p_answer": "thoto",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"thoto\"",
+    "annotated_question": "Swap 'o' and 't' in <<photo>>"
+  },
+  {
+    "question": "Swap 'e' and 'p' in 'sleep'",
+    "answer": "slpee",
+    "p_answer": "splep",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"splep\"\n}",
+    "annotated_question": "Swap 'e' and 'p' in <<sleep>>"
+  },
+  {
+    "question": "Swap 'i' and 'g' in 'light'",
+    "answer": "lgith",
+    "p_answer": "lght",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lght\"",
+    "annotated_question": "Swap 'i' and 'g' in <<light>>"
+  },
+  {
+    "question": "Swap 'u' and 'n' in 'sound'",
+    "answer": "snodu",
+    "p_answer": "sound",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sound\" \n}",
+    "annotated_question": "Swap 'u' and 'n' in <<sound>>"
+  },
+  {
+    "question": "Swap 'a' and 'l' in 'salty'",
+    "answer": "slaty",
+    "p_answer": "slaty",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"slaty\"",
+    "annotated_question": "Swap 'a' and 'l' in <<salty>>"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'green'",
+    "answer": "rgeen",
+    "p_answer": "grren",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"grren\"",
+    "annotated_question": "Swap 'e' and 'r' in <<green>>"
+  },
+  {
+    "question": "Swap 'i' and 'm' in 'smile'",
+    "answer": "msile",
+    "p_answer": "msmile",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"msmile\"\n}",
+    "annotated_question": "Swap 'i' and 'm' in <<smile>>"
+  },
+  {
+    "question": "Swap 'o' and 'm' in 'bloom'",
+    "answer": "bolmo",
+    "p_answer": "blom",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"blom\"",
+    "annotated_question": "Swap 'o' and 'm' in <<bloom>>"
+  },
+  {
+    "question": "Swap 'e' and 'p' in 'sheep'",
+    "answer": "spehe",
+    "p_answer": "shpep",
+    "type": "swap",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"shpep\"\n}",
+    "annotated_question": "Swap 'e' and 'p' in <<sheep>>"
+  },
+  {
+    "question": "Swap 'a' and 'd' in 'garden'",
+    "answer": "dgaren",
+    "p_answer": "garden",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"garden\"",
+    "annotated_question": "Swap 'a' and 'd' in <<garden>>"
+  },
+  {
+    "question": "Swap 'o' and 'w' in 'window'",
+    "answer": "woidwn",
+    "p_answer": "widow",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"widow\"\n}",
+    "annotated_question": "Swap 'o' and 'w' in <<window>>"
+  },
+  {
+    "question": "Swap 'e' and 'c' in 'circle'",
+    "answer": "cirelc",
+    "p_answer": "circlc",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"circlc\"",
+    "annotated_question": "Swap 'e' and 'c' in <<circle>>"
+  },
+  {
+    "question": "Swap 'i' and 'r' in 'spirit'",
+    "answer": "sripit",
+    "p_answer": "spirt",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spirt\"",
+    "annotated_question": "Swap 'i' and 'r' in <<spirit>>"
+  },
+  {
+    "question": "Swap 'u' and 't' in 'autumn'",
+    "answer": "atuumn",
+    "p_answer": "autstmn",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"autstmn\"",
+    "annotated_question": "Swap 'u' and 't' in <<autumn>>"
+  },
+  {
+    "question": "Swap 'a' and 'd' in 'shadow'",
+    "answer": "sdahow",
+    "p_answer": "shodow",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"shodow\"",
+    "annotated_question": "Swap 'a' and 'd' in <<shadow>>"
+  },
+  {
+    "question": "Swap 'e' and 't' in 'letter'",
+    "answer": "lteter",
+    "p_answer": "ttlart",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "To swap 'e' and 't' in the given word, I will replace all occurrences of 'e' with 't' and vice versa.\n\nAssuming the input is <<letter>>, here's the result:\n\n\n{\n  \"p_answer\": \"ttlart\"\n}",
+    "annotated_question": "Swap 'e' and 't' in <<letter>>"
+  },
+  {
+    "question": "Swap 'i' and 's' in 'vision'",
+    "answer": "vsiion",
+    "p_answer": "vison",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"vison\"",
+    "annotated_question": "Swap 'i' and 's' in <<vision>>"
+  },
+  {
+    "question": "Swap 'o' and 't' in 'motion'",
+    "answer": "mtoion",
+    "p_answer": "motions",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"motions\"",
+    "annotated_question": "Swap 'o' and 't' in <<motion>>"
+  },
+  {
+    "question": "Swap 'e' and 's' in 'desert'",
+    "answer": "sdeert",
+    "p_answer": "dessrt",
+    "type": "swap",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"dessrt\"",
+    "annotated_question": "Swap 'e' and 's' in <<desert>>"
+  },
+  {
+    "question": "Swap 'a' and 'k' in 'blanket'",
+    "answer": "kblaent",
+    "p_answer": "blanket",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"blanket\"",
+    "annotated_question": "Swap 'a' and 'k' in <<blanket>>"
+  },
+  {
+    "question": "Swap 'o' and 'r' in 'control'",
+    "answer": "rcotnol",
+    "p_answer": "corl",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"corl\"",
+    "annotated_question": "Swap 'o' and 'r' in <<control>>"
+  },
+  {
+    "question": "Swap 'e' and 's' in 'message'",
+    "answer": "smseage",
+    "p_answer": "You ar a prcs text editing asstnt.",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "To swap 'e' and 's' in the message, I will replace all occurrences of 'e' with 's' and vice versa.\n\nOriginal message: \"You are a precise text editing assistant.\"\n\nSwapped message: \"You ar a prcs text editing asstnt.\"\n\nHere is the result in JSON format:\n\n{\n  \"p_answer\": \"You ar a prcs text editing asstnt.\"\n}",
+    "annotated_question": "Swap 'e' and 's' in <<message>>"
+  },
+  {
+    "question": "Swap 'i' and 'c' in 'picture'",
+    "answer": "cpituer",
+    "p_answer": "picutrc",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"picutrc\"",
+    "annotated_question": "Swap 'i' and 'c' in <<picture>>"
+  },
+  {
+    "question": "Swap 'u' and 'r' in 'current'",
+    "answer": "rcurent",
+    "p_answer": "",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "I don't see any input. Please provide the current text for me to work with, and I'll swap 'u' and 'r' for you.",
+    "annotated_question": "Swap 'u' and 'r' in <<current>>"
+  },
+  {
+    "question": "Swap 'a' and 't' in 'lantern'",
+    "answer": "tlanern",
+    "p_answer": "tlernan",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"tlernan\"",
+    "annotated_question": "Swap 'a' and 't' in <<lantern>>"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'present'",
+    "answer": "rpesent",
+    "p_answer": "prsent",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"prsent\"",
+    "annotated_question": "Swap 'e' and 'r' in <<present>>"
+  },
+  {
+    "question": "Swap 'i' and 'c' in 'fiction'",
+    "answer": "cfitio",
+    "p_answer": "ciotcion",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ciotcion\"",
+    "annotated_question": "Swap 'i' and 'c' in <<fiction>>"
+  },
+  {
+    "question": "Swap 'o' and 'd' in 'freedom'",
+    "answer": "dfreom",
+    "p_answer": "freedom",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"freedom\"\n}",
+    "annotated_question": "Swap 'o' and 'd' in <<freedom>>"
+  },
+  {
+    "question": "Swap 'e' and 'm' in 'element'",
+    "answer": "meleent",
+    "p_answer": "mlent",
+    "type": "swap",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"mlent\"",
+    "annotated_question": "Swap 'e' and 'm' in <<element>>"
+  },
+  {
+    "question": "Swap 'a' and 'l' in 'calendar'",
+    "answer": "lcaednar",
+    "p_answer": "clendar",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"clendar\"",
+    "annotated_question": "Swap 'a' and 'l' in <<calendar>>"
+  },
+  {
+    "question": "Swap 'o' and 'r' in 'tomorrow'",
+    "answer": "rtomworow",
+    "p_answer": "tormorrow",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"tormorrow\"\n}",
+    "annotated_question": "Swap 'o' and 'r' in <<tomorrow>>"
+  },
+  {
+    "question": "Swap 'e' and 'n' in 'sentence'",
+    "answer": "nsnetecne",
+    "p_answer": "",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "I'm ready to assist. What is the sentence you'd like me to swap 'e' and 'n' in?",
+    "annotated_question": "Swap 'e' and 'n' in <<sentence>>"
+  },
+  {
+    "question": "Swap 'i' and 'l' in 'building'",
+    "answer": "lbuidilng",
+    "p_answer": "bulilng",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"bulilng\"",
+    "annotated_question": "Swap 'i' and 'l' in <<building>>"
+  },
+  {
+    "question": "Swap 'u' and 'd' in 'audience'",
+    "answer": "dauidnece",
+    "p_answer": "audienD",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"audienD\"\n}",
+    "annotated_question": "Swap 'u' and 'd' in <<audience>>"
+  },
+  {
+    "question": "Swap 'a' and 't' in 'distance'",
+    "answer": "tdisatnce",
+    "p_answer": "tinsence",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "To swap 'a' and 't' in the word \"distance\", I will replace all occurrences of 'a' with 't' and vice versa.\n\nThe original word is: distance\n\nSwapped word: tinsence\n\nFinal result in JSON format:\n{\n  \"p_answer\": \"tinsence\"\n}",
+    "annotated_question": "Swap 'a' and 't' in <<distance>>"
+  },
+  {
+    "question": "Swap 'e' and 's' in 'customer'",
+    "answer": "scutmoesr",
+    "p_answer": "custosm",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"custosm\"",
+    "annotated_question": "Swap 'e' and 's' in <<customer>>"
+  },
+  {
+    "question": "Swap 'i' and 'n' in 'mountain'",
+    "answer": "nmoutnai",
+    "p_answer": "nuuntain",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"nuuntain\"",
+    "annotated_question": "Swap 'i' and 'n' in <<mountain>>"
+  },
+  {
+    "question": "Swap 'o' and 'c' in 'protocol'",
+    "answer": "cporotol",
+    "p_answer": "protcol",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"protcol\"",
+    "annotated_question": "Swap 'o' and 'c' in <<protocol>>"
+  },
+  {
+    "question": "Swap 'e' and 'p' in 'employee'",
+    "answer": "pemloeyee",
+    "p_answer": "pployep",
+    "type": "swap",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"pployep\"",
+    "annotated_question": "Swap 'e' and 'p' in <<employee>>"
+  },
+  {
+    "question": "Swap 'a' and 'l' in 'challenge'",
+    "answer": "lcahllngee",
+    "p_answer": "llenge",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{ \"p_answer\": \"llenge\" }",
+    "annotated_question": "Swap 'a' and 'l' in <<challenge>>"
+  },
+  {
+    "question": "Swap 'o' and 'd' in 'condition'",
+    "answer": "dcnoditino",
+    "p_answer": "conditdon",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{ \"p_answer\": \"conditdon\" }",
+    "annotated_question": "Swap 'o' and 'd' in <<condition>>"
+  },
+  {
+    "question": "Swap 'e' and 'v' in 'adventure'",
+    "answer": "vdaevtnure",
+    "p_answer": "avntuvr",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"avntuvr\"",
+    "annotated_question": "Swap 'e' and 'v' in <<adventure>>"
+  },
+  {
+    "question": "Swap 'i' and 'r' in 'direction'",
+    "answer": "rdiection",
+    "p_answer": "drectin",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{ \"p_answer\": \"drectin\" }",
+    "annotated_question": "Swap 'i' and 'r' in <<direction>>"
+  },
+  {
+    "question": "Swap 'u' and 't' in 'structure'",
+    "answer": "tsurtcure",
+    "p_answer": "strcture",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{ \"p_answer\": \"strcture\" }",
+    "annotated_question": "Swap 'u' and 't' in <<structure>>"
+  },
+  {
+    "question": "Swap 'a' and 'd' in 'landscape'",
+    "answer": "dlasncap",
+    "p_answer": "dsclandse",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"dsclandse\"",
+    "annotated_question": "Swap 'a' and 'd' in <<landscape>>"
+  },
+  {
+    "question": "Swap 'e' and 't' in 'statement'",
+    "answer": "tsattemen",
+    "p_answer": "",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "I'm ready to assist. What is the statement you'd like me to swap 'e' and 't' in?",
+    "annotated_question": "Swap 'e' and 't' in <<statement>>"
+  },
+  {
+    "question": "Swap 'i' and 's' in 'provision'",
+    "answer": "sprvoisi",
+    "p_answer": "proviosn",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"proviosn\"\n}",
+    "annotated_question": "Swap 'i' and 's' in <<provision>>"
+  },
+  {
+    "question": "Swap 'o' and 'm' in 'promotion'",
+    "answer": "mporotino",
+    "p_answer": "promotiom",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"promotiom\"\n}",
+    "annotated_question": "Swap 'o' and 'm' in <<promotion>>"
+  },
+  {
+    "question": "Swap 'e' and 'r' in 'agreement'",
+    "answer": "rgaeremtn",
+    "p_answer": "agriamnt",
+    "type": "swap",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"agriamnt\"",
+    "annotated_question": "Swap 'e' and 'r' in <<agreement>>"
+  },
+  {
+    "question": "Add 'z' after every 'n' in 'dean'",
+    "answer": "deazn",
+    "p_answer": "deanz",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'z' after every 'n' in the word \"dean\", I will replace all occurrences of 'n' with 'nz'. Here is the result:\n\n\n{\n  \"p_answer\": \"deanz\"\n}",
+    "annotated_question": "Add 'z' after every 'n' in <<dean>>"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'book'",
+    "answer": "booxk",
+    "p_answer": "bxxk",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bxxk\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in <<book>>"
+  },
+  {
+    "question": "Add 'y' after every 'a' in 'cake'",
+    "answer": "cayke",
+    "p_answer": "cayke",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'y' after every 'a' in the word \"cake\", I will replace each 'a' with 'ay'. The resulting word is:\n\ncayke\n\nHere's the final result in the requested JSON format:\n\n{\n  \"p_answer\": \"cayke\"\n}",
+    "annotated_question": "Add 'y' after every 'a' in <<cake>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'fish'",
+    "answer": "fiwsh",
+    "p_answer": "fswsh",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'w' after every 'i' in the word \"fish\", I will replace each 'i' with 'iw'. Here is the result:\n\n\n{\n  \"p_answer\": \"fswsh\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<fish>>"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'duck'",
+    "answer": "duzck",
+    "p_answer": "duckz",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'z' after every 'u' in the word \"duck\", I will replace all occurrences of 'u' with 'uz'. The resulting word is:\n\nduck -> duckz\n\nSo, my final result in JSON format is:\n\n\n{\n  \"p_answer\": \"duckz\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in <<duck>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'bell'",
+    "answer": "bexll",
+    "p_answer": "bxxll",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'x' after every 'e' in the word \"bell\", I will perform the following operation:\n\nOriginal word: bell\nModified word: bxxll\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"bxxll\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in <<bell>>"
+  },
+  {
+    "question": "Add 'y' after every 'a' in 'hand'",
+    "answer": "haynd",
+    "p_answer": "hany",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'y' after every 'a' in the word \"hand\", I will perform the following operation:\n\nOriginal word: hand\nModified word: handy\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"hany\"\n}",
+    "annotated_question": "Add 'y' after every 'a' in <<hand>>"
+  },
+  {
+    "question": "Add 'w' after every 'o' in 'door'",
+    "answer": "dowor",
+    "p_answer": "dwar",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dwar\"\n}",
+    "annotated_question": "Add 'w' after every 'o' in <<door>>"
+  },
+  {
+    "question": "Add 'z' after every 'i' in 'milk'",
+    "answer": "mizlk",
+    "p_answer": "milkz",
+    "type": "add",
+    "length": 4,
+    "raw_response": "To add 'z' after every 'i' in the word \"milk\", I will replace each 'i' with 'iz'. The resulting word is:\n\nmilk -> milkz\n\nSo, my final result in JSON format is:\n\n\n{\n  \"p_answer\": \"milkz\"\n}",
+    "annotated_question": "Add 'z' after every 'i' in <<milk>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'tree'",
+    "answer": "trexe",
+    "p_answer": "trix",
+    "type": "add",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"trix\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in <<tree>>"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'table'",
+    "answer": "tazble",
+    "p_answer": "<tabelz>",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'z' after every 'a' in the given table, I'll assume the table is a string. Here's the modified string with 'z' added after every 'a':\n\n<<table>> becomes <<tabelz>>\n\n\nHere's the final result in JSON format:\n\n\n{\n  \"p_answer\": \"<tabelz>\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in <<table>>"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'photo'",
+    "answer": "phoxto",
+    "p_answer": "phpto",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"phpto\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in <<photo>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'sleep'",
+    "answer": "sleyep",
+    "p_answer": "sleepy",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'y' after every 'e' in the word \"sleep\", I will perform the following operation:\n\nOriginal word: sleep\nModified word: sleepy\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"sleepy\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<sleep>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'light'",
+    "answer": "liwght",
+    "p_answer": "lwgth",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'w' after every 'i' in the word \"light\", I will replace all occurrences of 'i' with 'iw'. The resulting word is:\n\n\"lwgth\"\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"lwgth\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<light>>"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'sound'",
+    "answer": "sozund",
+    "p_answer": "sounded",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'z' after every 'u' in the word \"sound\", I will replace all occurrences of 'u' with 'uz'. The resulting word is \"sounded\".\n\nHere's the final result in JSON format:\n\n {\n  \"p_answer\": \"sounded\"\n }",
+    "annotated_question": "Add 'z' after every 'u' in <<sound>>"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'salty'",
+    "answer": "saxlty",
+    "p_answer": "sxltxy",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'x' after every 'a' in the word \"salty\", I will replace each 'a' with 'ax'. The resulting word is \"sxltxy\".\n\nHere's the final result in the requested JSON format:\n\n{\n  \"p_answer\": \"sxltxy\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in <<salty>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'green'",
+    "answer": "greyen",
+    "p_answer": "greyn",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'y' after every 'e' in the given string, I will perform the following operation:\n\n Original string: green\n Modified string: greyn\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"greyn\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<green>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'smile'",
+    "answer": "smiwle",
+    "p_answer": "wsmile",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'w' after every 'i' in <<smile>>, I will perform the following operation:\n\n Original text: <<smile>>\n Modified text: wsmile\n\nHere is the final result in JSON format:\n\n {\n  \"p_answer\": \"wsmile\"\n }",
+    "annotated_question": "Add 'w' after every 'i' in <<smile>>"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'bloom'",
+    "answer": "blozom",
+    "p_answer": "blozm",
+    "type": "add",
+    "length": 5,
+    "raw_response": "To add 'z' after every 'o' in the word \"bloom\", I will replace each 'o' with 'oz'. The resulting word is:\n\nbloom -> blozm\n\nHere's the final result in JSON format:\n\n\n{\n  \"p_answer\": \"blozm\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in <<bloom>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'sheep'",
+    "answer": "shexep",
+    "p_answer": "shxpx",
+    "type": "add",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"shxpx\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in <<sheep>>"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'garden'",
+    "answer": "gazrden",
+    "p_answer": "gardenz",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'z' after every 'a' in the word \"garden\", I will replace each 'a' with 'az'. Here is the result:\n\n\n{\n  \"p_answer\": \"gardenz\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in <<garden>>"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'window'",
+    "answer": "wixndow",
+    "p_answer": "windowx",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'x' after every 'o' in the word \"window\", I will replace each occurrence of 'o' with 'ox'. Here is the result:\n\n\n{\n  \"p_answer\": \"windowx\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in <<window>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'circle'",
+    "answer": "ciryche",
+    "p_answer": "circluy",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"circluy\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<circle>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'spirit'",
+    "answer": "spiwrit",
+    "p_answer": "spwit",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'w' after every 'i' in the word \"spirit\", I will replace all occurrences of 'i' with 'wi'. The resulting word is:\n\n\"spwit\"\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"spwit\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<spirit>>"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'autumn'",
+    "answer": "auztumn",
+    "p_answer": "autsmzn",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"autsmzn\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in <<autumn>>"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'shadow'",
+    "answer": "shaxdow",
+    "p_answer": "shoxowdx",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'x' after every 'a' in the word \"shadow\", I will replace each 'a' with 'ax'. The resulting word is \"shoxowd\".\n\nHere's the final result in the requested JSON format:\n\n{\n  \"p_answer\": \"shoxowdx\"",
+    "annotated_question": "Add 'x' after every 'a' in <<shadow>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'letter'",
+    "answer": "letyter",
+    "p_answer": "letyr",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'y' after every 'e' in the given word, I will perform the following operation:\n\nOriginal word: letter\nModified word: letyr\n\nHere is the final result in JSON format:\n\n {\n  \"p_answer\": \"letyr\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<letter>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'vision'",
+    "answer": "viwsion",
+    "p_answer": "viswon",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'w' after every 'i' in the word \"vision\", I will replace each 'i' with 'wi'. The resulting word is:\n\n\"viswon\"\n\nHere is the final result in the requested JSON format:\n\n{\n  \"p_answer\": \"viswon\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<vision>>"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'motion'",
+    "answer": "moztion",
+    "p_answer": "motions",
+    "type": "add",
+    "length": 6,
+    "raw_response": "To add 'z' after every 'o' in the word \"motion\", I will replace each 'o' with 'oz'. The resulting word is \"motions\".\n\nHere's the JSON response:\n\n {\n  \"p_answer\": \"motions\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in <<motion>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'desert'",
+    "answer": "dexsert",
+    "p_answer": "dssrtx",
+    "type": "add",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"dssrtx\"",
+    "annotated_question": "Add 'x' after every 'e' in <<desert>>"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'blanket'",
+    "answer": "blaznket",
+    "p_answer": "blenketz",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"blenketz\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in <<blanket>>"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'control'",
+    "answer": "coxntrol",
+    "p_answer": "cxtrlox",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'x' after every 'o' in the given string, I'll perform the following operation:\n\nOriginal string: control\nNew string with 'x' added after every 'o': cxtrlox\n\nHere's the final result in JSON format:\n\n{\n  \"p_answer\": \"cxtrlox\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in <<control>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'message'",
+    "answer": "mesysage",
+    "p_answer": "",
+    "type": "add",
+    "length": 7,
+    "raw_response": "I'm ready to assist. What is the message you'd like me to transform?",
+    "annotated_question": "Add 'y' after every 'e' in <<message>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'picture'",
+    "answer": "piwcture",
+    "p_answer": "piturew",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'w' after every 'i' in the given string, I will perform the following operation:\n\n Original string: picture\n Modified string with 'w' added after every 'i': piturew\n\nHere is the final result in JSON format:\n\n {\n  \"p_answer\": \"piturew\"\n }",
+    "annotated_question": "Add 'w' after every 'i' in <<picture>>"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'current'",
+    "answer": "curzrent",
+    "p_answer": "",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'z' after every 'u' in the current word, I need to know what the current word is. Please provide the word you'd like me to transform.\n\nOnce you give me the word, I'll apply the transformation and return the result in the specified JSON format.",
+    "annotated_question": "Add 'z' after every 'u' in <<current>>"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'lantern'",
+    "answer": "laxntern",
+    "p_answer": "lantenrx",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'x' after every 'a' in the word \"lantern\", I will perform the following operation:\n\nOriginal word: lantern\nModified word: lanternx\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"lantenrx\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in <<lantern>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'present'",
+    "answer": "preysent",
+    "p_answer": "prezent",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'y' after every 'e' in the word \"present\", I will perform the following operation:\n\nOriginal word: present\nModified word: prezent\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"prezent\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<present>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'fiction'",
+    "answer": "fiwction",
+    "p_answer": "fwctiwon",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'w' after every 'i' in the word \"fiction\", I will replace each 'i' with 'wi'. The resulting word is:\n\n\"fwctiwon\"\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"fwctiwon\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<fiction>>"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'freedom'",
+    "answer": "frezdom",
+    "p_answer": "frezem",
+    "type": "add",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"frezem\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in <<freedom>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'element'",
+    "answer": "elexment",
+    "p_answer": "elxemt",
+    "type": "add",
+    "length": 7,
+    "raw_response": "To add 'x' after every 'e' in the word \"element\", I will perform the following operation:\n\nOriginal word: element\nModified word: elxemt\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"elxemt\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in <<element>>"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'calendar'",
+    "answer": "cazlendzar",
+    "p_answer": "calender",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'z' after every 'a' in the word \"calendar\", I will perform the following operation:\n\nOriginal word: calendar\nModified word: calender\n\nHere is the result in the requested JSON format:\n\n\n{\n  \"p_answer\": \"calender\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in <<calendar>>"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'tomorrow'",
+    "answer": "toxmoxrrow",
+    "p_answer": "tommowrx",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"tommowrx\"\n}",
+    "annotated_question": "Add 'x' after every 'o' in <<tomorrow>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'sentence'",
+    "answer": "seyntyence",
+    "p_answer": "Thy qucky brwon fox jumps ovry thy lazy dog",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'y' after every 'e' in the sentence, I'll apply the transformation:\n\nOriginal sentence: \"The quick brown fox jumps over the lazy dog\"\n\nTransformed sentence with 'y' added after every 'e': \"Thy qucky brwon fox jumps ovry thy lazy dog\"\n\nHere is the result in JSON format:\n\n{\n  \"p_answer\": \"Thy qucky brwon fox jumps ovry thy lazy dog\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<sentence>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'building'",
+    "answer": "buiwldiwng",
+    "p_answer": "buildwing",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'w' after every 'i' in the word \"building\", I will perform the following operation:\n\nOriginal word: building\nModified word: buildwing\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"buildwing\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<building>>"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'audience'",
+    "answer": "auzdiezce",
+    "p_answer": "a<zzence>",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"a<zzence>\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in <<audience>>"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'distance'",
+    "answer": "dixstaxnce",
+    "p_answer": "dxistnce",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'x' after every 'a' in the word \"distance\", I will replace all occurrences of 'a' with 'ax'. Here is the result:\n\n\n{\n  \"p_answer\": \"dxistnce\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in <<distance>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'customer'",
+    "answer": "custoyemr",
+    "p_answer": "customey",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'y' after every 'e' in the word \"customer\", I will perform the following operation:\n\nOriginal word: customer\nModified word: customey\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"customey\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<customer>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'mountain'",
+    "answer": "mouwtani",
+    "p_answer": "mountawin",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'w' after every 'i' in the word \"mountain\", I will perform the following operation:\n\nOriginal word: mountain\nModified word: mountawin\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"mountawin\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<mountain>>"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'protocol'",
+    "answer": "protzocozl",
+    "p_answer": "proztol",
+    "type": "add",
+    "length": 8,
+    "raw_response": "To add 'z' after every 'o' in the word \"protocol\", I will perform the following operation:\n\nOriginal word: protocol\nNew word with 'z' added after every 'o': proztol\n\nHere is the result in JSON format:\n\n{\n  \"p_answer\": \"proztol\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in <<protocol>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'employee'",
+    "answer": "empxloyxee",
+    "p_answer": "xmployee",
+    "type": "add",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"xmployee\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in <<employee>>"
+  },
+  {
+    "question": "Add 'z' after every 'a' in 'challenge'",
+    "answer": "chazllenzge",
+    "p_answer": "challegez",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'z' after every 'a' in the word \"challenge\", I will perform the following operation:\n\nOriginal word: challenge\nTransformed word: challegez\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"challegez\"\n}",
+    "annotated_question": "Add 'z' after every 'a' in <<challenge>>"
+  },
+  {
+    "question": "Add 'x' after every 'o' in 'condition'",
+    "answer": "coxnditixn",
+    "p_answer": "x",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'x' after every 'o' in the condition, I will replace all occurrences of 'o' with 'ox'. \n\nThe original condition is: <<condition>>\n\n\nAssuming the condition contains the string \"on\", it would be replaced as follows:\n\nCondition: on\nResult: oxn\n\nNow, let's apply this transformation to the entire condition:\n\n\n<<condition>> becomes:\n{ \"p_answer\": \"x\" }",
+    "annotated_question": "Add 'x' after every 'o' in <<condition>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'adventure'",
+    "answer": "adyventuyre",
+    "p_answer": "advenutyry",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'y' after every 'e' in the word \"adventure\", I will perform the following operation:\n\nOriginal word: adventure\nModified word: advenutury\n\nHere is the result in JSON format:\n\n {\n  \"p_answer\": \"advenutyry\"\n}",
+    "annotated_question": "Add 'y' after every 'e' in <<adventure>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'direction'",
+    "answer": "dirwectiwon",
+    "p_answer": "",
+    "type": "add",
+    "length": 9,
+    "raw_response": "I'm ready to assist. What is the direction you'd like me to transform?",
+    "annotated_question": "Add 'w' after every 'i' in <<direction>>"
+  },
+  {
+    "question": "Add 'z' after every 'u' in 'structure'",
+    "answer": "struzctuzre",
+    "p_answer": "struzctrez",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'z' after every 'u' in the word \"structure\", I will replace all occurrences of 'u' with 'uz'. The resulting word is:\n\nstruzctrez\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"struzctrez\"\n}",
+    "annotated_question": "Add 'z' after every 'u' in <<structure>>"
+  },
+  {
+    "question": "Add 'x' after every 'a' in 'landscape'",
+    "answer": "laxndscaxpe",
+    "p_answer": "lanscape",
+    "type": "add",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"lanscape\"\n}",
+    "annotated_question": "Add 'x' after every 'a' in <<landscape>>"
+  },
+  {
+    "question": "Add 'y' after every 'e' in 'statement'",
+    "answer": "statyemyent",
+    "p_answer": "",
+    "type": "add",
+    "length": 9,
+    "raw_response": "I'm ready to assist. What is the statement you'd like me to transform?",
+    "annotated_question": "Add 'y' after every 'e' in <<statement>>"
+  },
+  {
+    "question": "Add 'w' after every 'i' in 'provision'",
+    "answer": "prowvisiwon",
+    "p_answer": "provwiown",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'w' after every 'i' in the word \"provision\", I will perform the following operation:\n\nOriginal word: provision\nModified word: proviwion\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"provwiown\"\n}",
+    "annotated_question": "Add 'w' after every 'i' in <<provision>>"
+  },
+  {
+    "question": "Add 'z' after every 'o' in 'promotion'",
+    "answer": "prozmotizon",
+    "p_answer": "promozation",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'z' after every 'o' in the word \"promotion\", I will replace each 'o' with 'oz'. Here is the result:\n\n\n{\n  \"p_answer\": \"promozation\"\n}",
+    "annotated_question": "Add 'z' after every 'o' in <<promotion>>"
+  },
+  {
+    "question": "Add 'x' after every 'e' in 'agreement'",
+    "answer": "agryexemyent",
+    "p_answer": "agreemxt",
+    "type": "add",
+    "length": 9,
+    "raw_response": "To add 'x' after every 'e' in the word \"agreement\", I will perform the following operation:\n\nOriginal word: agreement\nModified word: agreemxt\n\nHere is the result in the requested JSON format:\n\n{\n  \"p_answer\": \"agreemxt\"\n}",
+    "annotated_question": "Add 'x' after every 'e' in <<agreement>>"
+  },
+  {
+    "question": "Remove 'e' after every 'd' in 'dear'",
+    "answer": "dar",
+    "p_answer": "daar",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"daar\"\n}",
+    "annotated_question": "Remove 'e' after every 'd' in <<dear>>"
+  },
+  {
+    "question": "Remove 'o' after every 'b' in 'book'",
+    "answer": "bok",
+    "p_answer": "bkk",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"bkk\"",
+    "annotated_question": "Remove 'o' after every 'b' in <<book>>"
+  },
+  {
+    "question": "Remove 'a' after every 'c' in 'cake'",
+    "answer": "cke",
+    "p_answer": "cke",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "To remove 'a' after every 'c' in the word \"cake\", I will replace all occurrences of \"ca\" with \"c\".\n\nThe original word is: cake\n\nAfter removing 'a' after every 'c': cke\n\nHere's the JSON response:\n\n{\n  \"p_answer\": \"cke\"\n}",
+    "annotated_question": "Remove 'a' after every 'c' in <<cake>>"
+  },
+  {
+    "question": "Remove 'i' after every 'f' in 'fish'",
+    "answer": "fsh",
+    "p_answer": "fsfh",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"fsfh\"",
+    "annotated_question": "Remove 'i' after every 'f' in <<fish>>"
+  },
+  {
+    "question": "Remove 'u' after every 'd' in 'duck'",
+    "answer": "dck",
+    "p_answer": "dck",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"dck\"",
+    "annotated_question": "Remove 'u' after every 'd' in <<duck>>"
+  },
+  {
+    "question": "Remove 'e' after every 'b' in 'bell'",
+    "answer": "bll",
+    "p_answer": "",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "To remove the letter 'e' after every 'b' in the word \"bell\", I will replace all occurrences of \"be\" with \"b\".\n\nThe original word is: bell\n\nAfter removing the 'e's, the result is: bll",
+    "annotated_question": "Remove 'e' after every 'b' in <<bell>>"
+  },
+  {
+    "question": "Remove 'a' after every 'h' in 'hand'",
+    "answer": "hnd",
+    "p_answer": "hnnd",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"hnnd\"\n}",
+    "annotated_question": "Remove 'a' after every 'h' in <<hand>>"
+  },
+  {
+    "question": "Remove 'o' after every 'd' in 'door'",
+    "answer": "dor",
+    "p_answer": "daar",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"daar\"\n}",
+    "annotated_question": "Remove 'o' after every 'd' in <<door>>"
+  },
+  {
+    "question": "Remove 'i' after every 'm' in 'milk'",
+    "answer": "mlk",
+    "p_answer": "mlk",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"mlk\"",
+    "annotated_question": "Remove 'i' after every 'm' in <<milk>>"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'tree'",
+    "answer": "tre",
+    "p_answer": "trr",
+    "type": "remove",
+    "length": 4,
+    "raw_response": "{\n  \"p_answer\": \"trr\"\n}",
+    "annotated_question": "Remove 'e' after every 'r' in <<tree>>"
+  },
+  {
+    "question": "Remove 'a' after every 't' in 'table'",
+    "answer": "tble",
+    "p_answer": "tble",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "To remove 'a' after every 't' in the word \"table\", I will replace all occurrences of \"ta\" with \"t\".\n\nThe original word is: table\n\nAfter removing 'a' after every 't': table -> tble\n\nSo, the final result in JSON format is:\n\n{\n  \"p_answer\": \"tble\"\n}",
+    "annotated_question": "Remove 'a' after every 't' in <<table>>"
+  },
+  {
+    "question": "Remove 'o' after every 'h' in 'photo'",
+    "answer": "phto",
+    "p_answer": "phht",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"phht\"\n}",
+    "annotated_question": "Remove 'o' after every 'h' in <<photo>>"
+  },
+  {
+    "question": "Remove 'e' after every 'l' in 'sleep'",
+    "answer": "slep",
+    "p_answer": "slp",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"slp\"\n}",
+    "annotated_question": "Remove 'e' after every 'l' in <<sleep>>"
+  },
+  {
+    "question": "Remove 'i' after every 'l' in 'light'",
+    "answer": "lght",
+    "p_answer": "lght",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"lght\"",
+    "annotated_question": "Remove 'i' after every 'l' in <<light>>"
+  },
+  {
+    "question": "Remove 'u' after every 'o' in 'sound'",
+    "answer": "sond",
+    "p_answer": "saond",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "To remove the 'u' after every 'o' in \"sound\", I will replace it with an empty string. The resulting word is:\n\n\"saond\"\n\nHere is the answer in the requested JSON format:\n\n{\n  \"p_answer\": \"saond\"\n}",
+    "annotated_question": "Remove 'u' after every 'o' in <<sound>>"
+  },
+  {
+    "question": "Remove 'a' after every 's' in 'salty'",
+    "answer": "slty",
+    "p_answer": "slty",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"slty\"",
+    "annotated_question": "Remove 'a' after every 's' in <<salty>>"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'green'",
+    "answer": "gren",
+    "p_answer": "grn",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "To remove the letter 'e' after every 'r' in the given string, I will perform the following operation:\n\n Original String: green\n Replacement String: grn\n\nFinal Result:\n{\n  \"p_answer\": \"grn\"\n}",
+    "annotated_question": "Remove 'e' after every 'r' in <<green>>"
+  },
+  {
+    "question": "Remove 'i' after every 'm' in 'smile'",
+    "answer": "smle",
+    "p_answer": "sml",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"sml\"\n}",
+    "annotated_question": "Remove 'i' after every 'm' in <<smile>>"
+  },
+  {
+    "question": "Remove 'o' after every 'l' in 'bloom'",
+    "answer": "blom",
+    "p_answer": "blm",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "{\n  \"p_answer\": \"blm\"\n}",
+    "annotated_question": "Remove 'o' after every 'l' in <<bloom>>"
+  },
+  {
+    "question": "Remove 'e' after every 'h' in 'sheep'",
+    "answer": "shep",
+    "p_answer": "shhp",
+    "type": "remove",
+    "length": 5,
+    "raw_response": "To remove the 'e's after every 'h' in \"sheep\", I will perform the following operation:\n\nOriginal word: sheep\nTransformed word: shhp\n\nHere is the result in JSON format:\n\n\n{\n  \"p_answer\": \"shhp\"\n}",
+    "annotated_question": "Remove 'e' after every 'h' in <<sheep>>"
+  },
+  {
+    "question": "Remove 'a' after every 'g' in 'garden'",
+    "answer": "grden",
+    "p_answer": "gren",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"gren\"\n}",
+    "annotated_question": "Remove 'a' after every 'g' in <<garden>>"
+  },
+  {
+    "question": "Remove 'o' after every 'w' in 'window'",
+    "answer": "windw",
+    "p_answer": "windw",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"windw\"\n}",
+    "annotated_question": "Remove 'o' after every 'w' in <<window>>"
+  },
+  {
+    "question": "Remove 'e' after every 'c' in 'circle'",
+    "answer": "circl",
+    "p_answer": "circl",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"circl\"\n}",
+    "annotated_question": "Remove 'e' after every 'c' in <<circle>>"
+  },
+  {
+    "question": "Remove 'i' after every 'p' in 'spirit'",
+    "answer": "sprt",
+    "p_answer": "spert",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"spert\"\n}",
+    "annotated_question": "Remove 'i' after every 'p' in <<spirit>>"
+  },
+  {
+    "question": "Remove 'u' after every 'a' in 'autumn'",
+    "answer": "atumn",
+    "p_answer": "autsmn",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"autsmn\"\n}",
+    "annotated_question": "Remove 'u' after every 'a' in <<autumn>>"
+  },
+  {
+    "question": "Remove 'a' after every 'h' in 'shadow'",
+    "answer": "shdow",
+    "p_answer": "shdo",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "To remove 'a' after every 'h' in the word \"shadow\", I will perform the following operation:\n\nOriginal word: shadow\nResulting word: shdo\n\nHere is the JSON response:\n\n\n{\n  \"p_answer\": \"shdo\"\n}",
+    "annotated_question": "Remove 'a' after every 'h' in <<shadow>>"
+  },
+  {
+    "question": "Remove 'e' after every 't' in 'letter'",
+    "answer": "ltter",
+    "p_answer": "lett r",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "To remove 'e' after every 't' in the given string, I'll perform the following operation:\n\n Original string: \"letter\"\n\n Replacing 'e' with an empty string after every 't':\n\n \"lett\"r\n\n Final result:\n {\n  \"p_answer\": \"lett r\"\n }",
+    "annotated_question": "Remove 'e' after every 't' in <<letter>>"
+  },
+  {
+    "question": "Remove 'i' after every 'v' in 'vision'",
+    "answer": "vsion",
+    "p_answer": "vsion",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "To remove the 'i's after every 'v' in \"vision\", I will replace them with an empty string. Here is the result:\n\n\n{\n  \"p_answer\": \"vsion\"\n}",
+    "annotated_question": "Remove 'i' after every 'v' in <<vision>>"
+  },
+  {
+    "question": "Remove 'o' after every 'm' in 'motion'",
+    "answer": "mtion",
+    "p_answer": "mition",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"mition\"",
+    "annotated_question": "Remove 'o' after every 'm' in <<motion>>"
+  },
+  {
+    "question": "Remove 'e' after every 's' in 'desert'",
+    "answer": "dsert",
+    "p_answer": "dssrt",
+    "type": "remove",
+    "length": 6,
+    "raw_response": "{\n  \"p_answer\": \"dssrt\"",
+    "annotated_question": "Remove 'e' after every 's' in <<desert>>"
+  },
+  {
+    "question": "Remove 'a' after every 'l' in 'blanket'",
+    "answer": "blnket",
+    "p_answer": "blnket",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\"p_answer\": \"blnket\"}",
+    "annotated_question": "Remove 'a' after every 'l' in <<blanket>>"
+  },
+  {
+    "question": "Remove 'o' after every 'c' in 'control'",
+    "answer": "cntrol",
+    "p_answer": "clerl",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"clerl\"\n}",
+    "annotated_question": "Remove 'o' after every 'c' in <<control>>"
+  },
+  {
+    "question": "Remove 'e' after every 's' in 'message'",
+    "answer": "mssage",
+    "p_answer": "",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "I'm ready to assist. What is the message you'd like me to transform?",
+    "annotated_question": "Remove 'e' after every 's' in <<message>>"
+  },
+  {
+    "question": "Remove 'i' after every 'p' in 'picture'",
+    "answer": "pcture",
+    "p_answer": "pictur",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"pictur\"",
+    "annotated_question": "Remove 'i' after every 'p' in <<picture>>"
+  },
+  {
+    "question": "Remove 'u' after every 'r' in 'current'",
+    "answer": "crrent",
+    "p_answer": "",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "To remove the 'u's after every 'r', I will apply the transformation to the input string. Since you didn't provide a specific string, I'll assume it's an empty string for demonstration purposes.\n\nAssuming the current string is: \"\"\n\nThe transformation would be:\n- There are no 'r's in the string, so there's nothing to remove.\n\nFinal result:\n\n{\n  \"p_answer\": \"\"\n}",
+    "annotated_question": "Remove 'u' after every 'r' in <<current>>"
+  },
+  {
+    "question": "Remove 'a' after every 'n' in 'lantern'",
+    "answer": "lntern",
+    "p_answer": "lnrtern",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "To remove 'a' after every 'n' in the word \"lantern\", I will perform the following operation:\n\n Original word: lantern\n Replacement: n -> n (no change)\n Resulting word: lnrtern\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"lnrtern\"\n}",
+    "annotated_question": "Remove 'a' after every 'n' in <<lantern>>"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'present'",
+    "answer": "prsnt",
+    "p_answer": "prsnt",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "To remove the 'e's after every 'r' in \"present\", I'll perform the following operation:\n\nOriginal word: present\nNew word: prsnt\n\nHere is the result in JSON format:\n\n {\n  \"p_answer\": \"prsnt\"\n }",
+    "annotated_question": "Remove 'e' after every 'r' in <<present>>"
+  },
+  {
+    "question": "Remove 'i' after every 'f' in 'fiction'",
+    "answer": "fction",
+    "p_answer": "ftion",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"ftion\"",
+    "annotated_question": "Remove 'i' after every 'f' in <<fiction>>"
+  },
+  {
+    "question": "Remove 'o' after every 'e' in 'freedom'",
+    "answer": "fredm",
+    "p_answer": "freedm",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "{\n  \"p_answer\": \"freedm\"\n}",
+    "annotated_question": "Remove 'o' after every 'e' in <<freedom>>"
+  },
+  {
+    "question": "Remove 'e' after every 'l' in 'element'",
+    "answer": "elmnt",
+    "p_answer": "",
+    "type": "remove",
+    "length": 7,
+    "raw_response": "To remove the 'e' after every 'l' in \"element\", I will replace all occurrences of \"el\" with \"l\".\n\nThe original string is: element\n\nAfter removing the 'e' after every 'l', the result is: lment",
+    "annotated_question": "Remove 'e' after every 'l' in <<element>>"
+  },
+  {
+    "question": "Remove 'a' after every 'c' in 'calendar'",
+    "answer": "clendar",
+    "p_answer": "clendar",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"clendar\"",
+    "annotated_question": "Remove 'a' after every 'c' in <<calendar>>"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'tomorrow'",
+    "answer": "tmrrow",
+    "p_answer": "tmaRRy",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"tmaRRy\"\n}",
+    "annotated_question": "Remove 'o' after every 'r' in <<tomorrow>>"
+  },
+  {
+    "question": "Remove 'e' after every 's' in 'sentence'",
+    "answer": "sntence",
+    "p_answer": "",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove the letter 'e' after every 's' from the sentence, I'll perform the following operation:\n\n Original sentence: \"This is a test sentence\"\n\n Sentence with 'e's removed after 's': \"Thiss is a tst sntnc\"",
+    "annotated_question": "Remove 'e' after every 's' in <<sentence>>"
+  },
+  {
+    "question": "Remove 'i' after every 'u' in 'building'",
+    "answer": "bulding",
+    "p_answer": "buulding",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove the letter 'i' after every 'u' in the word \"building\", I will perform the following operation:\n\nOriginal word: building\nResulting word: buulding\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"buulding\"\n}",
+    "annotated_question": "Remove 'i' after every 'u' in <<building>>"
+  },
+  {
+    "question": "Remove 'u' after every 'a' in 'audience'",
+    "answer": "adience",
+    "p_answer": "audieence",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"audieence\"\n}",
+    "annotated_question": "Remove 'u' after every 'a' in <<audience>>"
+  },
+  {
+    "question": "Remove 'a' after every 't' in 'distance'",
+    "answer": "dstnce",
+    "p_answer": "distnce",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove 'a' after every 't' in the word \"distance\", I will perform the following operation:\n\nOriginal word: distance\nResulting word: distnce\n\nHere is the JSON response:\n\n\n{\n  \"p_answer\": \"distnce\"\n}",
+    "annotated_question": "Remove 'a' after every 't' in <<distance>>"
+  },
+  {
+    "question": "Remove 'e' after every 't' in 'customer'",
+    "answer": "custmr",
+    "p_answer": "",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "To remove the 'e' after every 't' in \"customer\", I will replace all occurrences of \"te\" with \"t\".\n\nThe original string is: customer\n\nAfter removing the 'e' after every 't', the resulting string is: customr",
+    "annotated_question": "Remove 'e' after every 't' in <<customer>>"
+  },
+  {
+    "question": "Remove 'i' after every 'a' in 'mountain'",
+    "answer": "mountan",
+    "p_answer": "mountan",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mountan\"",
+    "annotated_question": "Remove 'i' after every 'a' in <<mountain>>"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'protocol'",
+    "answer": "prtocl",
+    "p_answer": "prtlct",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{ \"p_answer\": \"prtlct\" }",
+    "annotated_question": "Remove 'o' after every 'r' in <<protocol>>"
+  },
+  {
+    "question": "Remove 'e' after every 'y' in 'employee'",
+    "answer": "employe",
+    "p_answer": "mployy",
+    "type": "remove",
+    "length": 8,
+    "raw_response": "{\n  \"p_answer\": \"mployy\"\n}",
+    "annotated_question": "Remove 'e' after every 'y' in <<employee>>"
+  },
+  {
+    "question": "Remove 'a' after every 'h' in 'challenge'",
+    "answer": "chllenge",
+    "p_answer": "chllenge",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove 'a' after every 'h' in the given string, I will perform the following operation:\n\n Original String: challenge\n New String: chllenge\n\nHere is the JSON response with the final result:\n\n\n{\n  \"p_answer\": \"chllenge\"\n}",
+    "annotated_question": "Remove 'a' after every 'h' in <<challenge>>"
+  },
+  {
+    "question": "Remove 'o' after every 'c' in 'condition'",
+    "answer": "cndition",
+    "p_answer": "conditn",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"conditn\"\n}",
+    "annotated_question": "Remove 'o' after every 'c' in <<condition>>"
+  },
+  {
+    "question": "Remove 'e' after every 'v' in 'adventure'",
+    "answer": "advnture",
+    "p_answer": "advntur",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove the 'e's after every 'v' in \"adventure\", I'll perform the following operation:\n\n\"adventu\"r -> \"advntur\"\n\nSo, the final result is:\n\n\n{\n  \"p_answer\": \"advntur\"\n}",
+    "annotated_question": "Remove 'e' after every 'v' in <<adventure>>"
+  },
+  {
+    "question": "Remove 'i' after every 'r' in 'direction'",
+    "answer": "drection",
+    "p_answer": "drecton",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove the letter \"i\" after every \"r\" in the word \"direction\", I will perform the following operation:\n\nOriginal word: direction\nTransformed word: drecton\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"drecton\"\n}",
+    "annotated_question": "Remove 'i' after every 'r' in <<direction>>"
+  },
+  {
+    "question": "Remove 'u' after every 't' in 'structure'",
+    "answer": "strcture",
+    "p_answer": "strcctre",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove the 'u' after every 't' in the word \"structure\", I will perform the following operation:\n\nOriginal word: structure\nNew word: strcctre\n\nHere is the result in JSON format:\n\n\n{\n  \"p_answer\": \"strcctre\"\n}",
+    "annotated_question": "Remove 'u' after every 't' in <<structure>>"
+  },
+  {
+    "question": "Remove 'a' after every 'd' in 'landscape'",
+    "answer": "lndscape",
+    "p_answer": "lndscrpe",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove 'a' after every 'd' in the word \"landscape\", I will perform the following operation:\n\n Original word: landscape\n Replacement: remove 'a' after every 'd'\n\n Resulting word: lndscrpe\n\nHere is the final result in JSON format:\n\n\n{\n  \"p_answer\": \"lndscrpe\"\n}",
+    "annotated_question": "Remove 'a' after every 'd' in <<landscape>>"
+  },
+  {
+    "question": "Remove 'e' after every 't' in 'statement'",
+    "answer": "statment",
+    "p_answer": "",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "I'm ready to assist. What is the statement you'd like me to transform?",
+    "annotated_question": "Remove 'e' after every 't' in <<statement>>"
+  },
+  {
+    "question": "Remove 'i' after every 's' in 'provision'",
+    "answer": "provson",
+    "p_answer": "provsion",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "To remove the letter 'i' after every 's' from the word \"provision\", I will perform the following operation:\n\nOriginal word: provision\nResulting word: provsion\n\nHere is the final result in JSON format:\n\n{\n  \"p_answer\": \"provsion\"\n}",
+    "annotated_question": "Remove 'i' after every 's' in <<provision>>"
+  },
+  {
+    "question": "Remove 'o' after every 'r' in 'promotion'",
+    "answer": "prmotion",
+    "p_answer": "prmtin",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"prmtin\"\n}",
+    "annotated_question": "Remove 'o' after every 'r' in <<promotion>>"
+  },
+  {
+    "question": "Remove 'e' after every 'r' in 'agreement'",
+    "answer": "agrment",
+    "p_answer": "agamnt",
+    "type": "remove",
+    "length": 9,
+    "raw_response": "{\n  \"p_answer\": \"agamnt\"\n}",
+    "annotated_question": "Remove 'e' after every 'r' in <<agreement>>"
+  }
+]

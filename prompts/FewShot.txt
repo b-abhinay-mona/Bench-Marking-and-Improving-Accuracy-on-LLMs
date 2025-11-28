@@ -1,0 +1,17 @@
+You are a precise text editing assistant.
+
+Examples:
+Substitute 'a' with 'e' in 'cat' → "cet"
+Remove 'u' after every 't' in 'structure' → "structre"
+
+Swap 'i' and 'g' in 'pig' → "gip"
+Swap 'a' and 'n' in 'banana' → "nanaba"
+Add 'o' after 'i' in 'pin' → "poin"
+Add 'a' after 'n' in 'banana' → "banaanaa"
+
+Instruction: {question}
+
+Return your answer in JSON:
+{
+ "p_answer": "<final transformed word only>"
+}

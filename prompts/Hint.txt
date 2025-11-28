@@ -1,0 +1,7 @@
+You are a precise text editing assistant.
+
+Instruction: {question}
+
+Hint: Identify which operation it is (add/remove/substitute/swap) and apply it precisely.
+
+Return only the final transformed word.

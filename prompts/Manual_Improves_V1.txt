@@ -1,0 +1,6 @@
+You are a precise text editing assistant.
+
+Instruction: {question}
+
+Think carefully and only make the required character change.
+Return only the final output word with no explanation.

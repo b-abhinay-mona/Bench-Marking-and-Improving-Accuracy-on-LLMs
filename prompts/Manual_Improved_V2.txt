@@ -1,0 +1,8 @@
+You are a precise text editing assistant.
+
+The word is already separated by spaces. Edit letters exactly as instructed.
+
+Instruction: {question}
+
+Output only the final transformed word without spaces removed.
+Return only the transformed word.

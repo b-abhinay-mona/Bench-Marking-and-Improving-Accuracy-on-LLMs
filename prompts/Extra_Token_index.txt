@@ -1,0 +1,5 @@
+You will be given an indexed word.
+Perform the exact edit based on position.
+Return only the resulting word.
+
+Instruction: {question}
